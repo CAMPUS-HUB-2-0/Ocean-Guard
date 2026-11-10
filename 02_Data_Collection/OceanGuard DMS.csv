@@ -1,0 +1,1501 @@
+﻿Country,City,OceanGuard Index Value,OceanGuard Category,Plastic Pollution Value,Plastic Pollution Category,Fishing Waste Value,Fishing Waste Category,Sewage Pollution Value,Sewage Pollution Category,Oil Pollution Value,Oil Pollution Category,Dominant Pollution Type,Observation Date,Record ID,Data Status
+Canada,Halifax,29,Good,14,Good,23,Good,49,Good,31,Good,Sewage,2024-08-12,OG-010709,Synthetic low-value coursework data
+Spain,Barcelona,22,Good,27,Good,27,Good,15,Good,21,Good,Plastic,2022-12-07,OG-011350,Synthetic low-value coursework data
+United States,Seattle,20,Good,38,Good,33,Good,5,Good,5,Good,Fishing Waste,2022-05-11,OG-017524,Synthetic low-value coursework data
+India,Mumbai,32,Good,4,Good,49,Good,26,Good,48,Good,Fishing Waste,2023-01-17,OG-009320,Synthetic low-value coursework data
+Chile,Valparaiso,31,Good,32,Good,42,Good,5,Good,44,Good,Plastic,2023-06-04,OG-005099,Synthetic low-value coursework data
+Brazil,Recife,27,Good,19,Good,49,Good,19,Good,21,Good,Plastic,2022-11-15,OG-011789,Synthetic low-value coursework data
+Netherlands,Rotterdam,32,Good,33,Good,43,Good,47,Good,4,Good,Oil,2023-03-14,OG-008067,Synthetic low-value coursework data
+France,Marseille,19,Good,17,Good,35,Good,11,Good,12,Good,Plastic,2022-01-03,OG-006548,Synthetic low-value coursework data
+South Africa,Cape Town,29,Good,45,Good,23,Good,43,Good,5,Good,Plastic,2024-09-29,OG-020259,Synthetic low-value coursework data
+Chile,Valparaiso,23,Good,15,Good,6,Good,48,Good,24,Good,Plastic,2024-04-02,OG-021103,Synthetic low-value coursework data
+Australia,Perth,28,Good,37,Good,31,Good,33,Good,11,Good,Plastic,2024-02-20,OG-011925,Synthetic low-value coursework data
+United Kingdom,Brighton,34,Good,32,Good,30,Good,30,Good,46,Good,Plastic,2024-12-19,OG-021939,Synthetic low-value coursework data
+New Zealand,Auckland,19,Good,2,Good,31,Good,32,Good,11,Good,Plastic,2022-09-21,OG-009921,Synthetic low-value coursework data
+Thailand,Phuket,28,Good,34,Good,44,Good,23,Good,10,Good,Plastic,2022-01-31,OG-017684,Synthetic low-value coursework data
+Japan,Osaka,42,Good,40,Good,46,Good,38,Good,42,Good,Plastic,2025-09-12,OG-008913,Synthetic low-value coursework data
+Canada,Vancouver,14,Good,8,Good,2,Good,44,Good,2,Good,Sewage,2023-05-05,OG-006461,Synthetic low-value coursework data
+Canada,Vancouver,24,Good,24,Good,2,Good,34,Good,38,Good,Plastic,2022-07-12,OG-008689,Synthetic low-value coursework data
+Indonesia,Bali,32,Good,28,Good,31,Good,35,Good,36,Good,Plastic,2024-11-10,OG-023117,Synthetic low-value coursework data
+France,Marseille,18,Good,13,Good,5,Good,30,Good,23,Good,Fishing Waste,2025-12-11,OG-006378,Synthetic low-value coursework data
+Japan,Osaka,44,Good,45,Good,34,Good,49,Good,47,Good,Fishing Waste,2025-02-21,OG-001600,Synthetic low-value coursework data
+Australia,Perth,11,Good,7,Good,9,Good,18,Good,10,Good,Plastic,2025-11-21,OG-011263,Synthetic low-value coursework data
+Canada,Halifax,22,Good,23,Good,7,Good,41,Good,15,Good,Plastic,2025-03-10,OG-012450,Synthetic low-value coursework data
+Australia,Sydney,16,Good,14,Good,24,Good,2,Good,25,Good,Plastic,2022-01-03,OG-022339,Synthetic low-value coursework data
+Australia,Sydney,15,Good,35,Good,11,Good,3,Good,10,Good,Oil,2025-01-21,OG-024324,Synthetic low-value coursework data
+Mexico,Cancun,25,Good,40,Good,31,Good,27,Good,1,Good,Plastic,2022-12-17,OG-007341,Synthetic low-value coursework data
+New Zealand,Auckland,19,Good,33,Good,18,Good,3,Good,22,Good,Plastic,2024-03-13,OG-004111,Synthetic low-value coursework data
+South Africa,Cape Town,26,Good,23,Good,34,Good,27,Good,22,Good,Plastic,2023-08-30,OG-009806,Synthetic low-value coursework data
+Canada,Vancouver,18,Good,25,Good,2,Good,44,Good,3,Good,Fishing Waste,2023-02-12,OG-005540,Synthetic low-value coursework data
+Philippines,Manila,28,Good,1,Good,25,Good,50,Good,36,Good,Plastic,2023-06-14,OG-013687,Synthetic low-value coursework data
+Spain,Barcelona,22,Good,24,Good,9,Good,6,Good,47,Good,Fishing Waste,2022-07-14,OG-012140,Synthetic low-value coursework data
+Spain,Barcelona,17,Good,8,Good,28,Good,13,Good,19,Good,Fishing Waste,2025-12-15,OG-017095,Synthetic low-value coursework data
+Philippines,Manila,32,Good,23,Good,43,Good,41,Good,21,Good,Fishing Waste,2025-03-02,OG-008798,Synthetic low-value coursework data
+United Kingdom,Brighton,22,Good,4,Good,34,Good,43,Good,7,Good,Fishing Waste,2024-09-09,OG-019737,Synthetic low-value coursework data
+United States,San Diego,24,Good,21,Good,18,Good,18,Good,38,Good,Oil,2022-10-28,OG-015534,Synthetic low-value coursework data
+Canada,Halifax,26,Good,9,Good,44,Good,16,Good,35,Good,Plastic,2024-11-01,OG-008009,Synthetic low-value coursework data
+United States,San Diego,22,Good,30,Good,22,Good,14,Good,20,Good,Plastic,2023-09-03,OG-000393,Synthetic low-value coursework data
+Canada,Vancouver,30,Good,13,Good,24,Good,47,Good,34,Good,Sewage,2023-01-12,OG-001751,Synthetic low-value coursework data
+Indonesia,Jakarta,24,Good,29,Good,31,Good,30,Good,7,Good,Sewage,2022-10-24,OG-008213,Synthetic low-value coursework data
+Indonesia,Jakarta,22,Good,26,Good,20,Good,30,Good,12,Good,Plastic,2025-09-13,OG-002333,Synthetic low-value coursework data
+United Kingdom,Brighton,14,Good,17,Good,11,Good,27,Good,3,Good,Plastic,2024-12-28,OG-017426,Synthetic low-value coursework data
+Canada,Vancouver,17,Good,29,Good,5,Good,5,Good,28,Good,Sewage,2024-03-18,OG-011579,Synthetic low-value coursework data
+Ghana,Accra,24,Good,22,Good,24,Good,25,Good,24,Good,Fishing Waste,2024-08-18,OG-018494,Synthetic low-value coursework data
+Sri Lanka,Colombo,26,Good,7,Good,42,Good,10,Good,46,Good,Plastic,2024-07-25,OG-016711,Synthetic low-value coursework data
+Nigeria,Lagos,20,Good,6,Good,34,Good,37,Good,1,Good,Plastic,2022-05-12,OG-022224,Synthetic low-value coursework data
+United States,Miami,23,Good,28,Good,45,Good,1,Good,17,Good,Oil,2025-06-19,OG-008498,Synthetic low-value coursework data
+Philippines,Manila,33,Good,39,Good,48,Good,32,Good,12,Good,Plastic,2025-07-26,OG-008601,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,24,Good,25,Good,21,Good,47,Good,1,Good,Plastic,2022-03-30,OG-019404,Synthetic low-value coursework data
+Portugal,Lisbon,6,Good,12,Good,3,Good,6,Good,3,Good,Plastic,2022-06-13,OG-009095,Synthetic low-value coursework data
+Portugal,Lisbon,23,Good,36,Good,5,Good,49,Good,2,Good,Oil,2025-12-06,OG-019248,Synthetic low-value coursework data
+Chile,Valparaiso,30,Good,48,Good,17,Good,38,Good,19,Good,Plastic,2022-07-16,OG-015166,Synthetic low-value coursework data
+Australia,Perth,25,Good,15,Good,28,Good,26,Good,30,Good,Sewage,2024-03-28,OG-002786,Synthetic low-value coursework data
+Philippines,Manila,22,Good,20,Good,29,Good,1,Good,38,Good,Other,2022-02-17,OG-006357,Synthetic low-value coursework data
+Japan,Osaka,27,Good,23,Good,29,Good,20,Good,35,Good,Plastic,2022-12-09,OG-004858,Synthetic low-value coursework data
+Spain,Barcelona,33,Good,34,Good,22,Good,27,Good,50,Good,Sewage,2024-05-23,OG-003116,Synthetic low-value coursework data
+South Korea,Busan,26,Good,33,Good,10,Good,46,Good,13,Good,Oil,2023-04-20,OG-021511,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,34,Good,33,Good,38,Good,46,Good,18,Good,Plastic,2025-02-13,OG-007129,Synthetic low-value coursework data
+India,Chennai,31,Good,49,Good,30,Good,15,Good,29,Good,Plastic,2025-12-06,OG-003487,Synthetic low-value coursework data
+France,Marseille,41,Good,37,Good,34,Good,48,Good,44,Good,Fishing Waste,2023-01-07,OG-008251,Synthetic low-value coursework data
+South Korea,Busan,31,Good,30,Good,43,Good,32,Good,18,Good,Plastic,2022-12-18,OG-002885,Synthetic low-value coursework data
+South Africa,Cape Town,31,Good,22,Good,34,Good,48,Good,20,Good,Fishing Waste,2025-10-18,OG-018890,Synthetic low-value coursework data
+France,Marseille,22,Good,1,Good,42,Good,1,Good,44,Good,Sewage,2023-08-03,OG-014857,Synthetic low-value coursework data
+Netherlands,Rotterdam,28,Good,46,Good,18,Good,2,Good,45,Good,Plastic,2025-11-02,OG-019048,Synthetic low-value coursework data
+Mexico,Cancun,23,Good,23,Good,23,Good,34,Good,12,Good,Sewage,2025-04-04,OG-002845,Synthetic low-value coursework data
+Mexico,Cancun,16,Good,29,Good,30,Good,1,Good,5,Good,Sewage,2025-11-28,OG-006948,Synthetic low-value coursework data
+Spain,Barcelona,22,Good,48,Good,19,Good,15,Good,6,Good,Plastic,2025-01-21,OG-011006,Synthetic low-value coursework data
+Netherlands,Rotterdam,22,Good,49,Good,10,Good,26,Good,1,Good,Plastic,2022-12-07,OG-013922,Synthetic low-value coursework data
+Portugal,Lisbon,16,Good,34,Good,26,Good,5,Good,1,Good,Plastic,2024-04-19,OG-001999,Synthetic low-value coursework data
+Canada,Vancouver,40,Good,31,Good,44,Good,48,Good,38,Good,Plastic,2023-11-10,OG-006867,Synthetic low-value coursework data
+Canada,Halifax,28,Good,33,Good,30,Good,31,Good,17,Good,Oil,2022-01-07,OG-005076,Synthetic low-value coursework data
+India,Chennai,30,Good,12,Good,37,Good,23,Good,50,Good,Plastic,2023-11-20,OG-011584,Synthetic low-value coursework data
+Indonesia,Jakarta,20,Good,17,Good,10,Good,7,Good,48,Good,Fishing Waste,2022-08-21,OG-024735,Synthetic low-value coursework data
+France,Marseille,22,Good,44,Good,4,Good,24,Good,14,Good,Sewage,2022-04-23,OG-004619,Synthetic low-value coursework data
+Canada,Halifax,14,Good,20,Good,10,Good,18,Good,7,Good,Other,2025-09-14,OG-017065,Synthetic low-value coursework data
+France,Marseille,34,Good,49,Good,22,Good,47,Good,16,Good,Other,2024-12-10,OG-003651,Synthetic low-value coursework data
+Japan,Osaka,28,Good,7,Good,24,Good,46,Good,37,Good,Plastic,2025-03-23,OG-016066,Synthetic low-value coursework data
+Philippines,Manila,22,Good,1,Good,18,Good,20,Good,48,Good,Plastic,2023-01-24,OG-014255,Synthetic low-value coursework data
+Chile,Valparaiso,18,Good,19,Good,44,Good,2,Good,7,Good,Fishing Waste,2022-01-17,OG-005867,Synthetic low-value coursework data
+Morocco,Casablanca,25,Good,40,Good,7,Good,38,Good,16,Good,Sewage,2022-01-22,OG-012623,Synthetic low-value coursework data
+Sri Lanka,Colombo,16,Good,2,Good,29,Good,19,Good,13,Good,Oil,2024-12-28,OG-003489,Synthetic low-value coursework data
+Ghana,Accra,20,Good,14,Good,39,Good,18,Good,9,Good,Oil,2024-07-26,OG-004436,Synthetic low-value coursework data
+South Africa,Cape Town,26,Good,20,Good,23,Good,26,Good,33,Good,Plastic,2022-11-14,OG-020168,Synthetic low-value coursework data
+South Africa,Cape Town,29,Good,34,Good,29,Good,6,Good,46,Good,Plastic,2022-05-25,OG-014831,Synthetic low-value coursework data
+Portugal,Lisbon,21,Good,38,Good,7,Good,7,Good,32,Good,Fishing Waste,2024-12-25,OG-002429,Synthetic low-value coursework data
+India,Mumbai,8,Good,14,Good,1,Good,11,Good,8,Good,Plastic,2023-02-13,OG-004264,Synthetic low-value coursework data
+New Zealand,Auckland,29,Good,36,Good,49,Good,16,Good,15,Good,Fishing Waste,2025-01-27,OG-019461,Synthetic low-value coursework data
+Australia,Perth,27,Good,42,Good,7,Good,43,Good,17,Good,Other,2023-02-20,OG-016737,Synthetic low-value coursework data
+Brazil,Recife,26,Good,30,Good,23,Good,5,Good,44,Good,Plastic,2022-08-07,OG-018926,Synthetic low-value coursework data
+Mexico,Cancun,14,Good,8,Good,11,Good,23,Good,14,Good,Plastic,2022-03-03,OG-019432,Synthetic low-value coursework data
+Ghana,Accra,17,Good,11,Good,5,Good,27,Good,25,Good,Plastic,2024-12-05,OG-011710,Synthetic low-value coursework data
+Australia,Sydney,33,Good,48,Good,34,Good,2,Good,47,Good,Sewage,2022-03-04,OG-012395,Synthetic low-value coursework data
+Ghana,Accra,24,Good,34,Good,10,Good,18,Good,33,Good,Plastic,2022-04-10,OG-013935,Synthetic low-value coursework data
+Canada,Halifax,22,Good,34,Good,10,Good,33,Good,13,Good,Sewage,2024-03-11,OG-024694,Synthetic low-value coursework data
+Canada,Vancouver,23,Good,50,Good,12,Good,28,Good,3,Good,Fishing Waste,2024-11-13,OG-009652,Synthetic low-value coursework data
+Portugal,Lisbon,24,Good,32,Good,5,Good,37,Good,22,Good,Plastic,2022-09-17,OG-015607,Synthetic low-value coursework data
+Australia,Sydney,44,Good,47,Good,44,Good,40,Good,44,Good,Fishing Waste,2025-08-01,OG-016850,Synthetic low-value coursework data
+Australia,Perth,26,Good,20,Good,37,Good,26,Good,23,Good,Plastic,2025-03-16,OG-008579,Synthetic low-value coursework data
+Brazil,Recife,18,Good,43,Good,6,Good,4,Good,21,Good,Plastic,2022-07-08,OG-006977,Synthetic low-value coursework data
+India,Mumbai,6,Good,13,Good,2,Good,5,Good,3,Good,Plastic,2024-03-10,OG-024233,Synthetic low-value coursework data
+Indonesia,Bali,25,Good,14,Good,18,Good,31,Good,36,Good,Plastic,2024-04-15,OG-012856,Synthetic low-value coursework data
+Indonesia,Jakarta,16,Good,1,Good,19,Good,31,Good,14,Good,Other,2025-11-02,OG-022998,Synthetic low-value coursework data
+United Kingdom,Brighton,31,Good,24,Good,43,Good,37,Good,19,Good,Plastic,2024-08-12,OG-024374,Synthetic low-value coursework data
+Mexico,Cancun,29,Good,22,Good,45,Good,30,Good,18,Good,Plastic,2025-10-07,OG-018879,Synthetic low-value coursework data
+Philippines,Manila,18,Good,23,Good,30,Good,5,Good,14,Good,Plastic,2024-09-13,OG-024825,Synthetic low-value coursework data
+India,Mumbai,24,Good,15,Good,43,Good,9,Good,30,Good,Plastic,2025-04-05,OG-019525,Synthetic low-value coursework data
+Indonesia,Bali,36,Good,49,Good,38,Good,47,Good,10,Good,Plastic,2024-03-18,OG-001686,Synthetic low-value coursework data
+India,Mumbai,30,Good,23,Good,23,Good,23,Good,50,Good,Fishing Waste,2023-11-07,OG-021765,Synthetic low-value coursework data
+United States,San Diego,24,Good,32,Good,22,Good,7,Good,37,Good,Fishing Waste,2023-09-03,OG-016401,Synthetic low-value coursework data
+Canada,Halifax,18,Good,14,Good,27,Good,4,Good,28,Good,Oil,2022-05-07,OG-023245,Synthetic low-value coursework data
+Australia,Perth,14,Good,11,Good,2,Good,1,Good,43,Good,Plastic,2022-10-17,OG-020043,Synthetic low-value coursework data
+United States,Miami,34,Good,18,Good,48,Good,40,Good,32,Good,Plastic,2022-11-14,OG-013294,Synthetic low-value coursework data
+India,Mumbai,24,Good,22,Good,27,Good,18,Good,30,Good,Plastic,2025-08-27,OG-009927,Synthetic low-value coursework data
+South Korea,Busan,20,Good,23,Good,24,Good,29,Good,4,Good,Plastic,2024-06-12,OG-024155,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,16,Good,15,Good,38,Good,6,Good,6,Good,Plastic,2025-07-15,OG-020026,Synthetic low-value coursework data
+Nigeria,Lagos,36,Good,41,Good,8,Good,45,Good,49,Good,Fishing Waste,2023-06-19,OG-018305,Synthetic low-value coursework data
+Philippines,Manila,22,Good,16,Good,50,Good,11,Good,11,Good,Oil,2022-06-21,OG-012559,Synthetic low-value coursework data
+South Korea,Busan,28,Good,16,Good,11,Good,42,Good,45,Good,Fishing Waste,2024-05-25,OG-000904,Synthetic low-value coursework data
+India,Mumbai,20,Good,46,Good,4,Good,24,Good,7,Good,Fishing Waste,2025-08-05,OG-018023,Synthetic low-value coursework data
+Mexico,Cancun,27,Good,28,Good,12,Good,40,Good,28,Good,Other,2022-08-09,OG-000687,Synthetic low-value coursework data
+Spain,Barcelona,18,Good,15,Good,9,Good,17,Good,32,Good,Oil,2023-03-31,OG-009531,Synthetic low-value coursework data
+Philippines,Manila,22,Good,15,Good,13,Good,16,Good,42,Good,Plastic,2024-06-12,OG-016090,Synthetic low-value coursework data
+United States,Miami,23,Good,17,Good,22,Good,34,Good,19,Good,Plastic,2024-04-16,OG-019843,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,28,Good,7,Good,37,Good,47,Good,19,Good,Oil,2024-04-03,OG-017936,Synthetic low-value coursework data
+South Africa,Cape Town,27,Good,29,Good,41,Good,8,Good,31,Good,Plastic,2025-05-23,OG-015444,Synthetic low-value coursework data
+United States,San Diego,26,Good,30,Good,12,Good,41,Good,20,Good,Plastic,2023-04-23,OG-021682,Synthetic low-value coursework data
+Spain,Barcelona,25,Good,42,Good,5,Good,6,Good,48,Good,Fishing Waste,2025-09-16,OG-020284,Synthetic low-value coursework data
+United States,Seattle,22,Good,35,Good,18,Good,4,Good,30,Good,Plastic,2024-01-22,OG-012250,Synthetic low-value coursework data
+South Africa,Cape Town,37,Good,39,Good,16,Good,49,Good,43,Good,Sewage,2025-09-24,OG-019354,Synthetic low-value coursework data
+Indonesia,Bali,21,Good,5,Good,21,Good,50,Good,8,Good,Plastic,2023-06-09,OG-024947,Synthetic low-value coursework data
+Brazil,Recife,22,Good,37,Good,3,Good,30,Good,20,Good,Fishing Waste,2022-01-16,OG-007871,Synthetic low-value coursework data
+United States,San Diego,22,Good,35,Good,13,Good,6,Good,33,Good,Plastic,2025-03-12,OG-022583,Synthetic low-value coursework data
+United Kingdom,Brighton,24,Good,33,Good,33,Good,14,Good,17,Good,Plastic,2023-02-16,OG-019308,Synthetic low-value coursework data
+Chile,Valparaiso,37,Good,46,Good,38,Good,23,Good,41,Good,Fishing Waste,2024-05-06,OG-005564,Synthetic low-value coursework data
+Nigeria,Lagos,29,Good,43,Good,41,Good,9,Good,22,Good,Plastic,2025-05-17,OG-007299,Synthetic low-value coursework data
+Ghana,Accra,16,Good,10,Good,2,Good,20,Good,31,Good,Plastic,2024-01-14,OG-020132,Synthetic low-value coursework data
+France,Marseille,25,Good,29,Good,48,Good,7,Good,17,Good,Plastic,2024-09-13,OG-013039,Synthetic low-value coursework data
+Indonesia,Jakarta,38,Good,46,Good,18,Good,47,Good,43,Good,Sewage,2025-02-28,OG-013982,Synthetic low-value coursework data
+Brazil,Recife,36,Good,41,Good,43,Good,49,Good,9,Good,Fishing Waste,2023-07-16,OG-013617,Synthetic low-value coursework data
+Spain,Barcelona,24,Good,42,Good,18,Good,3,Good,33,Good,Plastic,2023-08-18,OG-004658,Synthetic low-value coursework data
+Indonesia,Jakarta,21,Good,32,Good,27,Good,9,Good,16,Good,Plastic,2023-10-27,OG-015457,Synthetic low-value coursework data
+United Kingdom,Brighton,17,Good,10,Good,7,Good,47,Good,5,Good,Oil,2024-02-28,OG-022153,Synthetic low-value coursework data
+United Kingdom,Brighton,14,Good,34,Good,6,Good,3,Good,11,Good,Plastic,2022-01-12,OG-015579,Synthetic low-value coursework data
+Brazil,Recife,30,Good,18,Good,44,Good,47,Good,12,Good,Oil,2023-09-27,OG-019543,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,18,Good,5,Good,14,Good,32,Good,21,Good,Oil,2024-09-14,OG-023801,Synthetic low-value coursework data
+Canada,Halifax,19,Good,6,Good,40,Good,20,Good,9,Good,Fishing Waste,2023-09-08,OG-010808,Synthetic low-value coursework data
+India,Chennai,10,Good,18,Good,2,Good,6,Good,15,Good,Sewage,2023-09-15,OG-009138,Synthetic low-value coursework data
+Ghana,Accra,30,Good,45,Good,34,Good,12,Good,30,Good,Plastic,2023-06-28,OG-009421,Synthetic low-value coursework data
+United Kingdom,Brighton,30,Good,5,Good,48,Good,30,Good,39,Good,Fishing Waste,2024-09-20,OG-001357,Synthetic low-value coursework data
+Netherlands,Rotterdam,28,Good,12,Good,50,Good,11,Good,38,Good,Fishing Waste,2022-10-02,OG-006818,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,9,Good,2,Good,5,Good,29,Good,1,Good,Plastic,2025-08-21,OG-013045,Synthetic low-value coursework data
+Sri Lanka,Colombo,16,Good,19,Good,27,Good,9,Good,8,Good,Plastic,2024-07-16,OG-018631,Synthetic low-value coursework data
+France,Marseille,20,Good,32,Good,26,Good,18,Good,4,Good,Sewage,2025-02-22,OG-002757,Synthetic low-value coursework data
+Morocco,Casablanca,25,Good,34,Good,18,Good,1,Good,47,Good,Plastic,2024-11-20,OG-005534,Synthetic low-value coursework data
+Netherlands,Rotterdam,28,Good,40,Good,30,Good,9,Good,34,Good,Other,2024-08-07,OG-012049,Synthetic low-value coursework data
+India,Mumbai,17,Good,16,Good,6,Good,42,Good,4,Good,Plastic,2022-04-01,OG-024409,Synthetic low-value coursework data
+Canada,Vancouver,20,Good,10,Good,48,Good,11,Good,12,Good,Fishing Waste,2022-07-20,OG-020911,Synthetic low-value coursework data
+New Zealand,Auckland,21,Good,1,Good,16,Good,22,Good,45,Good,Plastic,2022-05-15,OG-016670,Synthetic low-value coursework data
+India,Chennai,21,Good,1,Good,37,Good,35,Good,12,Good,Sewage,2024-02-24,OG-003155,Synthetic low-value coursework data
+Morocco,Casablanca,32,Good,42,Good,48,Good,27,Good,13,Good,Fishing Waste,2023-01-29,OG-012083,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,23,Good,34,Good,5,Good,6,Good,48,Good,Plastic,2025-08-21,OG-007383,Synthetic low-value coursework data
+Ghana,Accra,25,Good,7,Good,4,Good,41,Good,49,Good,Plastic,2023-09-06,OG-009657,Synthetic low-value coursework data
+Nigeria,Lagos,32,Good,50,Good,14,Good,45,Good,21,Good,Plastic,2024-02-17,OG-005407,Synthetic low-value coursework data
+Indonesia,Bali,18,Good,11,Good,7,Good,26,Good,29,Good,Other,2025-10-03,OG-010671,Synthetic low-value coursework data
+Canada,Vancouver,30,Good,36,Good,46,Good,6,Good,31,Good,Plastic,2024-04-24,OG-001628,Synthetic low-value coursework data
+Morocco,Casablanca,12,Good,12,Good,1,Good,32,Good,4,Good,Plastic,2025-10-15,OG-019802,Synthetic low-value coursework data
+Spain,Barcelona,22,Good,38,Good,47,Good,2,Good,3,Good,Fishing Waste,2024-12-05,OG-017214,Synthetic low-value coursework data
+Spain,Barcelona,30,Good,18,Good,36,Good,36,Good,30,Good,Plastic,2022-03-09,OG-017663,Synthetic low-value coursework data
+Chile,Valparaiso,20,Good,21,Good,37,Good,18,Good,2,Good,Plastic,2025-11-20,OG-022212,Synthetic low-value coursework data
+Thailand,Phuket,20,Good,1,Good,20,Good,50,Good,9,Good,Sewage,2022-09-18,OG-020397,Synthetic low-value coursework data
+United States,San Diego,23,Good,10,Good,14,Good,37,Good,31,Good,Plastic,2023-10-26,OG-015616,Synthetic low-value coursework data
+Portugal,Lisbon,37,Good,25,Good,43,Good,36,Good,45,Good,Plastic,2023-06-02,OG-019292,Synthetic low-value coursework data
+United Kingdom,Brighton,26,Good,48,Good,14,Good,32,Good,9,Good,Plastic,2025-11-30,OG-017539,Synthetic low-value coursework data
+Australia,Sydney,29,Good,33,Good,28,Good,26,Good,28,Good,Oil,2023-02-08,OG-021330,Synthetic low-value coursework data
+Indonesia,Jakarta,30,Good,30,Good,20,Good,28,Good,44,Good,Plastic,2024-06-13,OG-010511,Synthetic low-value coursework data
+Japan,Osaka,14,Good,4,Good,23,Good,26,Good,4,Good,Oil,2022-11-23,OG-012247,Synthetic low-value coursework data
+Portugal,Lisbon,24,Good,20,Good,11,Good,34,Good,30,Good,Plastic,2022-06-29,OG-008878,Synthetic low-value coursework data
+United States,Seattle,26,Good,41,Good,25,Good,13,Good,25,Good,Plastic,2023-05-28,OG-006673,Synthetic low-value coursework data
+United States,San Diego,27,Good,41,Good,33,Good,30,Good,4,Good,Plastic,2023-03-30,OG-019845,Synthetic low-value coursework data
+Thailand,Phuket,10,Good,3,Good,11,Good,4,Good,24,Good,Plastic,2025-06-05,OG-006287,Synthetic low-value coursework data
+Indonesia,Jakarta,29,Good,32,Good,15,Good,33,Good,37,Good,Plastic,2023-06-15,OG-013013,Synthetic low-value coursework data
+Philippines,Manila,42,Good,40,Good,43,Good,35,Good,49,Good,Plastic,2023-05-16,OG-003174,Synthetic low-value coursework data
+Canada,Vancouver,21,Good,2,Good,10,Good,39,Good,34,Good,Fishing Waste,2025-01-15,OG-006273,Synthetic low-value coursework data
+Australia,Perth,25,Good,39,Good,25,Good,3,Good,34,Good,Plastic,2022-01-19,OG-005426,Synthetic low-value coursework data
+United States,San Diego,28,Good,4,Good,35,Good,49,Good,26,Good,Plastic,2022-08-22,OG-002582,Synthetic low-value coursework data
+Indonesia,Bali,39,Good,42,Good,50,Good,41,Good,23,Good,Plastic,2022-07-05,OG-023422,Synthetic low-value coursework data
+Indonesia,Bali,17,Good,18,Good,7,Good,32,Good,12,Good,Plastic,2022-12-02,OG-014490,Synthetic low-value coursework data
+United Kingdom,Brighton,20,Good,5,Good,44,Good,16,Good,13,Good,Fishing Waste,2024-11-25,OG-002992,Synthetic low-value coursework data
+South Korea,Busan,14,Good,15,Good,5,Good,7,Good,29,Good,Oil,2023-05-01,OG-020493,Synthetic low-value coursework data
+United States,Seattle,25,Good,42,Good,16,Good,11,Good,32,Good,Other,2024-09-17,OG-024283,Synthetic low-value coursework data
+Spain,Barcelona,25,Good,13,Good,3,Good,35,Good,50,Good,Sewage,2024-12-20,OG-006037,Synthetic low-value coursework data
+Indonesia,Jakarta,21,Good,6,Good,45,Good,15,Good,17,Good,Plastic,2023-08-13,OG-003558,Synthetic low-value coursework data
+Indonesia,Bali,24,Good,37,Good,7,Good,40,Good,14,Good,Plastic,2022-11-29,OG-023809,Synthetic low-value coursework data
+Ghana,Accra,26,Good,25,Good,33,Good,32,Good,14,Good,Plastic,2024-02-28,OG-002340,Synthetic low-value coursework data
+United States,San Diego,20,Good,37,Good,7,Good,30,Good,7,Good,Plastic,2023-02-23,OG-007601,Synthetic low-value coursework data
+South Africa,Cape Town,23,Good,35,Good,3,Good,9,Good,46,Good,Fishing Waste,2024-03-23,OG-021480,Synthetic low-value coursework data
+India,Chennai,37,Good,37,Good,20,Good,40,Good,50,Good,Sewage,2024-04-08,OG-002312,Synthetic low-value coursework data
+Sri Lanka,Colombo,30,Good,45,Good,10,Good,44,Good,19,Good,Plastic,2023-11-28,OG-014245,Synthetic low-value coursework data
+Australia,Sydney,30,Good,29,Good,23,Good,31,Good,39,Good,Plastic,2023-08-14,OG-010216,Synthetic low-value coursework data
+United States,Miami,28,Good,13,Good,50,Good,10,Good,41,Good,Plastic,2024-11-13,OG-010502,Synthetic low-value coursework data
+Canada,Halifax,28,Good,11,Good,34,Good,38,Good,29,Good,Plastic,2025-07-04,OG-023626,Synthetic low-value coursework data
+New Zealand,Auckland,36,Good,30,Good,26,Good,43,Good,44,Good,Fishing Waste,2022-02-19,OG-010887,Synthetic low-value coursework data
+South Korea,Busan,24,Good,42,Good,35,Good,9,Good,12,Good,Plastic,2025-09-30,OG-008202,Synthetic low-value coursework data
+Portugal,Lisbon,11,Good,5,Good,12,Good,27,Good,1,Good,Sewage,2023-08-18,OG-017054,Synthetic low-value coursework data
+South Korea,Busan,31,Good,44,Good,39,Good,18,Good,24,Good,Plastic,2022-03-29,OG-021408,Synthetic low-value coursework data
+Chile,Valparaiso,14,Good,9,Good,14,Good,19,Good,15,Good,Plastic,2024-12-31,OG-006208,Synthetic low-value coursework data
+South Korea,Busan,30,Good,41,Good,31,Good,4,Good,42,Good,Fishing Waste,2024-10-08,OG-009312,Synthetic low-value coursework data
+United States,San Diego,31,Good,32,Good,37,Good,22,Good,33,Good,Other,2022-02-05,OG-023372,Synthetic low-value coursework data
+United States,San Diego,10,Good,7,Good,14,Good,3,Good,14,Good,Fishing Waste,2025-11-29,OG-002209,Synthetic low-value coursework data
+Morocco,Casablanca,32,Good,47,Good,44,Good,30,Good,7,Good,Plastic,2022-05-09,OG-018778,Synthetic low-value coursework data
+France,Marseille,23,Good,47,Good,24,Good,20,Good,2,Good,Plastic,2023-11-03,OG-013008,Synthetic low-value coursework data
+Japan,Osaka,32,Good,39,Good,32,Good,35,Good,20,Good,Other,2023-04-10,OG-008315,Synthetic low-value coursework data
+Japan,Osaka,26,Good,26,Good,23,Good,6,Good,47,Good,Fishing Waste,2022-06-24,OG-016310,Synthetic low-value coursework data
+Philippines,Manila,16,Good,39,Good,2,Good,19,Good,3,Good,Plastic,2022-05-27,OG-010538,Synthetic low-value coursework data
+Canada,Halifax,4,Good,6,Good,4,Good,3,Good,1,Good,Oil,2025-04-17,OG-019423,Synthetic low-value coursework data
+Netherlands,Rotterdam,21,Good,12,Good,46,Good,16,Good,11,Good,Plastic,2022-12-24,OG-017146,Synthetic low-value coursework data
+United States,San Diego,40,Good,31,Good,48,Good,46,Good,37,Good,Plastic,2022-01-26,OG-009776,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,29,Good,4,Good,43,Good,49,Good,19,Good,Sewage,2024-08-13,OG-001007,Synthetic low-value coursework data
+Thailand,Phuket,32,Good,49,Good,23,Good,11,Good,47,Good,Fishing Waste,2024-09-18,OG-005879,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,36,Good,37,Good,46,Good,26,Good,36,Good,Fishing Waste,2022-06-09,OG-019962,Synthetic low-value coursework data
+United States,San Diego,21,Good,38,Good,21,Good,17,Good,7,Good,Plastic,2024-01-29,OG-001586,Synthetic low-value coursework data
+Australia,Sydney,32,Good,22,Good,46,Good,40,Good,21,Good,Fishing Waste,2025-08-10,OG-018028,Synthetic low-value coursework data
+Japan,Osaka,31,Good,23,Good,17,Good,50,Good,34,Good,Sewage,2022-08-26,OG-008555,Synthetic low-value coursework data
+India,Chennai,27,Good,23,Good,31,Good,10,Good,45,Good,Oil,2024-02-29,OG-016190,Synthetic low-value coursework data
+France,Marseille,32,Good,48,Good,48,Good,16,Good,14,Good,Plastic,2025-05-07,OG-005171,Synthetic low-value coursework data
+Mexico,Cancun,22,Good,6,Good,11,Good,25,Good,44,Good,Other,2022-06-22,OG-024194,Synthetic low-value coursework data
+Netherlands,Rotterdam,16,Good,11,Good,14,Good,23,Good,15,Good,Sewage,2023-12-20,OG-000619,Synthetic low-value coursework data
+United States,San Diego,18,Good,18,Good,15,Good,30,Good,8,Good,Plastic,2023-01-31,OG-020925,Synthetic low-value coursework data
+South Africa,Cape Town,6,Good,3,Good,2,Good,4,Good,14,Good,Sewage,2022-10-05,OG-020937,Synthetic low-value coursework data
+Portugal,Lisbon,29,Good,43,Good,6,Good,24,Good,44,Good,Sewage,2024-06-18,OG-019440,Synthetic low-value coursework data
+France,Marseille,15,Good,12,Good,20,Good,18,Good,10,Good,Plastic,2025-10-31,OG-007807,Synthetic low-value coursework data
+India,Chennai,13,Good,26,Good,10,Good,13,Good,3,Good,Fishing Waste,2022-08-17,OG-020876,Synthetic low-value coursework data
+Nigeria,Lagos,27,Good,26,Good,40,Good,12,Good,31,Good,Oil,2022-01-25,OG-020366,Synthetic low-value coursework data
+Ghana,Accra,20,Good,16,Good,34,Good,14,Good,14,Good,Plastic,2024-06-13,OG-006996,Synthetic low-value coursework data
+Netherlands,Rotterdam,24,Good,31,Good,29,Good,9,Good,26,Good,Plastic,2023-08-25,OG-016093,Synthetic low-value coursework data
+India,Chennai,23,Good,25,Good,44,Good,20,Good,2,Good,Fishing Waste,2022-08-04,OG-004605,Synthetic low-value coursework data
+Brazil,Recife,25,Good,44,Good,44,Good,2,Good,9,Good,Oil,2022-02-23,OG-001515,Synthetic low-value coursework data
+United States,Miami,11,Good,3,Good,17,Good,16,Good,8,Good,Plastic,2022-06-23,OG-020607,Synthetic low-value coursework data
+Brazil,Recife,27,Good,36,Good,6,Good,37,Good,29,Good,Fishing Waste,2023-05-09,OG-015409,Synthetic low-value coursework data
+Sri Lanka,Colombo,24,Good,31,Good,28,Good,31,Good,4,Good,Plastic,2024-01-26,OG-019331,Synthetic low-value coursework data
+Indonesia,Bali,10,Good,13,Good,4,Good,12,Good,9,Good,Oil,2022-09-03,OG-006233,Synthetic low-value coursework data
+United States,San Diego,28,Good,36,Good,20,Good,30,Good,25,Good,Plastic,2022-06-22,OG-008675,Synthetic low-value coursework data
+Thailand,Phuket,18,Good,6,Good,11,Good,26,Good,30,Good,Plastic,2025-01-14,OG-024933,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,19,Good,4,Good,22,Good,41,Good,8,Good,Other,2025-03-29,OG-020649,Synthetic low-value coursework data
+New Zealand,Auckland,15,Good,20,Good,27,Good,10,Good,2,Good,Fishing Waste,2025-04-22,OG-016903,Synthetic low-value coursework data
+India,Chennai,24,Good,20,Good,28,Good,38,Good,10,Good,Plastic,2023-01-04,OG-024945,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,27,Good,34,Good,25,Good,38,Good,12,Good,Other,2022-02-03,OG-001854,Synthetic low-value coursework data
+United States,Seattle,18,Good,11,Good,9,Good,43,Good,11,Good,Plastic,2023-11-14,OG-006862,Synthetic low-value coursework data
+Ghana,Accra,29,Good,43,Good,34,Good,38,Good,1,Good,Fishing Waste,2024-04-29,OG-018535,Synthetic low-value coursework data
+South Korea,Busan,26,Good,45,Good,28,Good,18,Good,14,Good,Sewage,2024-03-25,OG-020292,Synthetic low-value coursework data
+United States,San Diego,28,Good,28,Good,40,Good,40,Good,2,Good,Plastic,2025-05-21,OG-024490,Synthetic low-value coursework data
+India,Chennai,12,Good,20,Good,5,Good,15,Good,6,Good,Plastic,2025-06-02,OG-014926,Synthetic low-value coursework data
+Philippines,Manila,27,Good,21,Good,47,Good,38,Good,2,Good,Fishing Waste,2025-08-17,OG-009794,Synthetic low-value coursework data
+Philippines,Manila,19,Good,20,Good,26,Good,6,Good,24,Good,Plastic,2025-11-08,OG-008707,Synthetic low-value coursework data
+Philippines,Manila,26,Good,26,Good,37,Good,21,Good,20,Good,Plastic,2025-03-06,OG-014602,Synthetic low-value coursework data
+United States,Miami,26,Good,17,Good,46,Good,8,Good,34,Good,Other,2025-03-30,OG-024230,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,25,Good,26,Good,24,Good,40,Good,10,Good,Plastic,2024-05-11,OG-017677,Synthetic low-value coursework data
+Netherlands,Rotterdam,40,Good,37,Good,40,Good,40,Good,45,Good,Plastic,2024-04-30,OG-018238,Synthetic low-value coursework data
+Sri Lanka,Colombo,25,Good,37,Good,12,Good,50,Good,1,Good,Plastic,2024-02-02,OG-023826,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,34,Good,38,Good,38,Good,45,Good,15,Good,Plastic,2024-08-01,OG-017400,Synthetic low-value coursework data
+New Zealand,Auckland,24,Good,14,Good,45,Good,13,Good,25,Good,Sewage,2022-11-13,OG-021589,Synthetic low-value coursework data
+New Zealand,Auckland,32,Good,29,Good,45,Good,31,Good,22,Good,Sewage,2024-07-25,OG-021022,Synthetic low-value coursework data
+Mexico,Cancun,11,Good,10,Good,4,Good,12,Good,19,Good,Sewage,2022-02-19,OG-007582,Synthetic low-value coursework data
+Philippines,Manila,28,Good,37,Good,33,Good,26,Good,14,Good,Plastic,2023-02-01,OG-018444,Synthetic low-value coursework data
+France,Marseille,32,Good,47,Good,18,Good,45,Good,20,Good,Other,2024-01-13,OG-001039,Synthetic low-value coursework data
+New Zealand,Auckland,30,Good,41,Good,28,Good,2,Good,50,Good,Other,2022-10-04,OG-014752,Synthetic low-value coursework data
+Canada,Halifax,29,Good,16,Good,46,Good,38,Good,15,Good,Plastic,2025-07-18,OG-011518,Synthetic low-value coursework data
+Mexico,Cancun,27,Good,12,Good,17,Good,39,Good,39,Good,Fishing Waste,2024-12-23,OG-021128,Synthetic low-value coursework data
+Philippines,Manila,17,Good,23,Good,43,Good,1,Good,2,Good,Sewage,2023-04-01,OG-021811,Synthetic low-value coursework data
+United States,San Diego,31,Good,27,Good,49,Good,12,Good,36,Good,Plastic,2024-03-21,OG-018325,Synthetic low-value coursework data
+Indonesia,Bali,35,Good,30,Good,43,Good,43,Good,23,Good,Plastic,2022-10-17,OG-001984,Synthetic low-value coursework data
+Netherlands,Rotterdam,18,Good,2,Good,11,Good,14,Good,44,Good,Fishing Waste,2022-08-16,OG-019112,Synthetic low-value coursework data
+Chile,Valparaiso,26,Good,28,Good,28,Good,29,Good,18,Good,Plastic,2022-09-15,OG-013006,Synthetic low-value coursework data
+India,Chennai,25,Good,22,Good,25,Good,6,Good,47,Good,Fishing Waste,2022-10-23,OG-015171,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,33,Good,37,Good,45,Good,23,Good,27,Good,Fishing Waste,2025-12-16,OG-022495,Synthetic low-value coursework data
+New Zealand,Auckland,18,Good,2,Good,25,Good,2,Good,45,Good,Plastic,2022-02-15,OG-015289,Synthetic low-value coursework data
+United States,Seattle,30,Good,47,Good,21,Good,36,Good,17,Good,Oil,2022-03-10,OG-000822,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,31,Good,46,Good,8,Good,34,Good,35,Good,Plastic,2022-05-13,OG-010938,Synthetic low-value coursework data
+Spain,Barcelona,26,Good,35,Good,32,Good,9,Good,28,Good,Plastic,2022-11-22,OG-016868,Synthetic low-value coursework data
+France,Marseille,28,Good,32,Good,23,Good,47,Good,12,Good,Fishing Waste,2022-04-19,OG-011996,Synthetic low-value coursework data
+New Zealand,Auckland,31,Good,48,Good,48,Good,15,Good,14,Good,Plastic,2025-07-23,OG-005243,Synthetic low-value coursework data
+United States,Seattle,25,Good,22,Good,35,Good,8,Good,36,Good,Fishing Waste,2023-03-16,OG-019352,Synthetic low-value coursework data
+Japan,Osaka,36,Good,15,Good,31,Good,50,Good,48,Good,Plastic,2022-03-22,OG-006679,Synthetic low-value coursework data
+Canada,Halifax,19,Good,25,Good,12,Good,24,Good,16,Good,Plastic,2023-03-01,OG-013302,Synthetic low-value coursework data
+United States,Miami,15,Good,9,Good,40,Good,7,Good,3,Good,Plastic,2024-05-25,OG-008317,Synthetic low-value coursework data
+United States,San Diego,36,Good,33,Good,35,Good,50,Good,27,Good,Plastic,2023-07-14,OG-012496,Synthetic low-value coursework data
+Indonesia,Bali,27,Good,34,Good,5,Good,31,Good,37,Good,Sewage,2024-10-09,OG-021990,Synthetic low-value coursework data
+India,Chennai,28,Good,39,Good,14,Good,17,Good,44,Good,Plastic,2023-06-21,OG-007705,Synthetic low-value coursework data
+France,Marseille,23,Good,44,Good,30,Good,5,Good,13,Good,Plastic,2024-09-22,OG-006227,Synthetic low-value coursework data
+Canada,Halifax,27,Good,46,Good,1,Good,40,Good,20,Good,Plastic,2022-08-08,OG-011649,Synthetic low-value coursework data
+Indonesia,Bali,26,Good,7,Good,43,Good,50,Good,2,Good,Sewage,2023-03-23,OG-000667,Synthetic low-value coursework data
+United States,San Diego,17,Good,34,Good,4,Good,4,Good,26,Good,Sewage,2024-07-13,OG-016061,Synthetic low-value coursework data
+Chile,Valparaiso,35,Good,34,Good,31,Good,47,Good,28,Good,Fishing Waste,2025-04-25,OG-005130,Synthetic low-value coursework data
+Mexico,Cancun,16,Good,21,Good,16,Good,5,Good,20,Good,Plastic,2022-01-28,OG-020639,Synthetic low-value coursework data
+New Zealand,Auckland,26,Good,1,Good,25,Good,50,Good,28,Good,Plastic,2024-06-19,OG-003214,Synthetic low-value coursework data
+Canada,Vancouver,7,Good,2,Good,15,Good,2,Good,10,Good,Plastic,2023-02-18,OG-016782,Synthetic low-value coursework data
+Australia,Perth,29,Good,18,Good,33,Good,20,Good,46,Good,Fishing Waste,2022-06-13,OG-006509,Synthetic low-value coursework data
+United States,Seattle,26,Good,31,Good,6,Good,40,Good,28,Good,Fishing Waste,2022-09-14,OG-021878,Synthetic low-value coursework data
+Philippines,Manila,16,Good,12,Good,13,Good,40,Good,1,Good,Plastic,2022-12-19,OG-018140,Synthetic low-value coursework data
+India,Mumbai,35,Good,31,Good,45,Good,34,Good,31,Good,Plastic,2023-01-24,OG-014794,Synthetic low-value coursework data
+India,Mumbai,31,Good,42,Good,8,Good,37,Good,38,Good,Plastic,2022-07-30,OG-005921,Synthetic low-value coursework data
+Brazil,Recife,19,Good,11,Good,13,Good,25,Good,28,Good,Fishing Waste,2025-03-01,OG-002448,Synthetic low-value coursework data
+United States,Seattle,28,Good,44,Good,25,Good,6,Good,36,Good,Plastic,2025-10-03,OG-020495,Synthetic low-value coursework data
+Nigeria,Lagos,25,Good,43,Good,1,Good,40,Good,15,Good,Plastic,2025-04-14,OG-020049,Synthetic low-value coursework data
+Philippines,Manila,19,Good,31,Good,4,Good,37,Good,3,Good,Oil,2025-03-03,OG-005197,Synthetic low-value coursework data
+Chile,Valparaiso,32,Good,30,Good,49,Good,31,Good,19,Good,Plastic,2024-12-22,OG-016237,Synthetic low-value coursework data
+Australia,Perth,26,Good,8,Good,30,Good,31,Good,35,Good,Plastic,2024-05-12,OG-002186,Synthetic low-value coursework data
+Australia,Sydney,35,Good,41,Good,39,Good,37,Good,24,Good,Plastic,2024-11-19,OG-001163,Synthetic low-value coursework data
+India,Mumbai,11,Good,2,Good,1,Good,17,Good,25,Good,Oil,2023-09-26,OG-014790,Synthetic low-value coursework data
+Chile,Valparaiso,22,Good,22,Good,32,Good,18,Good,18,Good,Plastic,2023-11-16,OG-017362,Synthetic low-value coursework data
+Indonesia,Bali,17,Good,16,Good,21,Good,4,Good,27,Good,Plastic,2025-10-12,OG-009613,Synthetic low-value coursework data
+India,Mumbai,20,Good,2,Good,21,Good,29,Good,29,Good,Oil,2023-01-28,OG-009229,Synthetic low-value coursework data
+New Zealand,Auckland,12,Good,9,Good,3,Good,29,Good,8,Good,Plastic,2024-04-30,OG-010023,Synthetic low-value coursework data
+Indonesia,Bali,37,Good,45,Good,23,Good,38,Good,43,Good,Plastic,2025-07-10,OG-005778,Synthetic low-value coursework data
+Chile,Valparaiso,24,Good,8,Good,8,Good,31,Good,48,Good,Fishing Waste,2024-04-30,OG-002751,Synthetic low-value coursework data
+South Korea,Busan,36,Good,39,Good,35,Good,29,Good,39,Good,Plastic,2025-10-24,OG-007645,Synthetic low-value coursework data
+Canada,Halifax,20,Good,10,Good,3,Good,17,Good,49,Good,Fishing Waste,2023-12-16,OG-016829,Synthetic low-value coursework data
+New Zealand,Auckland,30,Good,38,Good,8,Good,50,Good,22,Good,Oil,2023-04-16,OG-006575,Synthetic low-value coursework data
+South Africa,Cape Town,13,Good,8,Good,10,Good,23,Good,11,Good,Other,2023-07-21,OG-024657,Synthetic low-value coursework data
+Indonesia,Bali,34,Good,48,Good,35,Good,18,Good,34,Good,Plastic,2022-11-04,OG-018046,Synthetic low-value coursework data
+Japan,Osaka,16,Good,13,Good,37,Good,4,Good,9,Good,Plastic,2024-05-27,OG-021338,Synthetic low-value coursework data
+Indonesia,Jakarta,36,Good,24,Good,29,Good,48,Good,41,Good,Plastic,2024-06-28,OG-019045,Synthetic low-value coursework data
+Japan,Osaka,34,Good,25,Good,49,Good,21,Good,41,Good,Fishing Waste,2023-04-26,OG-011636,Synthetic low-value coursework data
+United States,Seattle,23,Good,13,Good,38,Good,24,Good,17,Good,Plastic,2024-02-17,OG-022847,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,32,Good,38,Good,23,Good,48,Good,19,Good,Other,2023-02-22,OG-024191,Synthetic low-value coursework data
+Spain,Barcelona,24,Good,10,Good,44,Good,27,Good,13,Good,Plastic,2022-02-01,OG-020450,Synthetic low-value coursework data
+New Zealand,Auckland,10,Good,9,Good,5,Good,1,Good,23,Good,Plastic,2024-02-25,OG-012347,Synthetic low-value coursework data
+Indonesia,Jakarta,22,Good,39,Good,26,Good,18,Good,7,Good,Plastic,2023-08-13,OG-002658,Synthetic low-value coursework data
+United States,Seattle,22,Good,46,Good,24,Good,4,Good,14,Good,Plastic,2023-05-14,OG-014274,Synthetic low-value coursework data
+France,Marseille,32,Good,29,Good,1,Good,48,Good,48,Good,Plastic,2024-06-27,OG-019627,Synthetic low-value coursework data
+Indonesia,Bali,19,Good,3,Good,49,Good,22,Good,1,Good,Fishing Waste,2023-09-06,OG-011740,Synthetic low-value coursework data
+South Korea,Busan,35,Good,29,Good,30,Good,34,Good,46,Good,Plastic,2024-09-22,OG-012970,Synthetic low-value coursework data
+Philippines,Manila,36,Good,44,Good,48,Good,10,Good,41,Good,Plastic,2022-02-01,OG-008940,Synthetic low-value coursework data
+Netherlands,Rotterdam,20,Good,41,Good,22,Good,14,Good,1,Good,Sewage,2025-01-14,OG-018098,Synthetic low-value coursework data
+United States,Miami,21,Good,10,Good,31,Good,37,Good,7,Good,Fishing Waste,2025-07-23,OG-002344,Synthetic low-value coursework data
+South Korea,Busan,30,Good,31,Good,19,Good,27,Good,42,Good,Plastic,2022-02-02,OG-014483,Synthetic low-value coursework data
+Japan,Osaka,16,Good,8,Good,3,Good,41,Good,10,Good,Plastic,2025-01-28,OG-012168,Synthetic low-value coursework data
+Nigeria,Lagos,26,Good,22,Good,21,Good,26,Good,33,Good,Fishing Waste,2024-11-28,OG-016079,Synthetic low-value coursework data
+Canada,Vancouver,32,Good,5,Good,33,Good,49,Good,40,Good,Plastic,2024-01-24,OG-013595,Synthetic low-value coursework data
+Canada,Vancouver,27,Good,30,Good,11,Good,37,Good,30,Good,Plastic,2025-12-01,OG-017300,Synthetic low-value coursework data
+Chile,Valparaiso,33,Good,36,Good,34,Good,42,Good,20,Good,Plastic,2022-06-25,OG-014092,Synthetic low-value coursework data
+Thailand,Phuket,28,Good,47,Good,30,Good,30,Good,7,Good,Plastic,2023-01-09,OG-003797,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,30,Good,35,Good,16,Good,32,Good,39,Good,Plastic,2025-05-16,OG-021090,Synthetic low-value coursework data
+Australia,Sydney,18,Good,2,Good,50,Good,8,Good,11,Good,Fishing Waste,2023-11-11,OG-014429,Synthetic low-value coursework data
+South Korea,Busan,23,Good,46,Good,15,Good,17,Good,14,Good,Plastic,2024-11-22,OG-021768,Synthetic low-value coursework data
+Portugal,Lisbon,44,Good,39,Good,48,Good,48,Good,43,Good,Plastic,2024-03-25,OG-022250,Synthetic low-value coursework data
+Netherlands,Rotterdam,22,Good,30,Good,22,Good,13,Good,23,Good,Plastic,2024-02-10,OG-017145,Synthetic low-value coursework data
+South Africa,Cape Town,15,Good,18,Good,29,Good,3,Good,11,Good,Plastic,2022-01-27,OG-002657,Synthetic low-value coursework data
+Brazil,Recife,23,Good,15,Good,50,Good,7,Good,21,Good,Plastic,2024-09-28,OG-023314,Synthetic low-value coursework data
+Indonesia,Bali,27,Good,27,Good,41,Good,13,Good,27,Good,Sewage,2025-07-31,OG-008154,Synthetic low-value coursework data
+Indonesia,Jakarta,24,Good,6,Good,5,Good,46,Good,38,Good,Plastic,2024-04-03,OG-007301,Synthetic low-value coursework data
+Indonesia,Jakarta,34,Good,22,Good,42,Good,40,Good,30,Good,Other,2025-09-05,OG-018811,Synthetic low-value coursework data
+Chile,Valparaiso,31,Good,10,Good,26,Good,47,Good,42,Good,Plastic,2025-06-21,OG-019263,Synthetic low-value coursework data
+Philippines,Manila,39,Good,9,Good,49,Good,49,Good,48,Good,Plastic,2022-02-21,OG-016387,Synthetic low-value coursework data
+New Zealand,Auckland,29,Good,31,Good,33,Good,37,Good,16,Good,Sewage,2023-06-21,OG-012411,Synthetic low-value coursework data
+Ghana,Accra,27,Good,34,Good,26,Good,6,Good,43,Good,Plastic,2024-01-07,OG-000543,Synthetic low-value coursework data
+Australia,Perth,32,Good,39,Good,2,Good,46,Good,43,Good,Oil,2022-03-08,OG-011272,Synthetic low-value coursework data
+Thailand,Phuket,30,Good,25,Good,46,Good,43,Good,6,Good,Oil,2025-01-08,OG-015338,Synthetic low-value coursework data
+New Zealand,Auckland,32,Good,15,Good,47,Good,34,Good,31,Good,Plastic,2025-12-14,OG-020490,Synthetic low-value coursework data
+Morocco,Casablanca,21,Good,45,Good,18,Good,8,Good,13,Good,Fishing Waste,2024-12-22,OG-012177,Synthetic low-value coursework data
+Indonesia,Jakarta,22,Good,2,Good,20,Good,27,Good,37,Good,Oil,2022-05-21,OG-016450,Synthetic low-value coursework data
+New Zealand,Auckland,30,Good,23,Good,6,Good,47,Good,44,Good,Plastic,2025-12-11,OG-012501,Synthetic low-value coursework data
+Mexico,Cancun,24,Good,9,Good,45,Good,6,Good,36,Good,Plastic,2024-04-01,OG-000281,Synthetic low-value coursework data
+United States,Seattle,18,Good,4,Good,30,Good,5,Good,31,Good,Sewage,2025-12-08,OG-003917,Synthetic low-value coursework data
+Morocco,Casablanca,31,Good,12,Good,39,Good,24,Good,50,Good,Plastic,2025-08-11,OG-009600,Synthetic low-value coursework data
+Thailand,Phuket,19,Good,39,Good,4,Good,17,Good,16,Good,Sewage,2025-06-26,OG-015041,Synthetic low-value coursework data
+United States,Miami,28,Good,31,Good,32,Good,25,Good,24,Good,Oil,2022-06-05,OG-001927,Synthetic low-value coursework data
+Portugal,Lisbon,22,Good,20,Good,23,Good,32,Good,14,Good,Plastic,2025-12-07,OG-004172,Synthetic low-value coursework data
+Philippines,Manila,17,Good,1,Good,50,Good,10,Good,6,Good,Plastic,2022-10-02,OG-019532,Synthetic low-value coursework data
+Sri Lanka,Colombo,33,Good,40,Good,5,Good,39,Good,47,Good,Plastic,2024-06-12,OG-003492,Synthetic low-value coursework data
+Thailand,Phuket,25,Good,35,Good,6,Good,43,Good,15,Good,Plastic,2025-11-23,OG-021213,Synthetic low-value coursework data
+Indonesia,Jakarta,14,Good,30,Good,14,Good,4,Good,6,Good,Fishing Waste,2022-12-08,OG-006313,Synthetic low-value coursework data
+South Korea,Busan,20,Good,12,Good,26,Good,40,Good,4,Good,Plastic,2025-04-28,OG-002575,Synthetic low-value coursework data
+Netherlands,Rotterdam,37,Good,32,Good,37,Good,48,Good,30,Good,Fishing Waste,2024-11-08,OG-000629,Synthetic low-value coursework data
+Australia,Perth,17,Good,31,Good,14,Good,2,Good,20,Good,Sewage,2022-07-09,OG-003221,Synthetic low-value coursework data
+Netherlands,Rotterdam,27,Good,19,Good,31,Good,15,Good,42,Good,Sewage,2022-11-08,OG-003561,Synthetic low-value coursework data
+Indonesia,Jakarta,25,Good,17,Good,10,Good,43,Good,30,Good,Plastic,2025-08-26,OG-001819,Synthetic low-value coursework data
+Spain,Barcelona,34,Good,46,Good,43,Good,11,Good,36,Good,Plastic,2022-07-06,OG-006510,Synthetic low-value coursework data
+Portugal,Lisbon,21,Good,10,Good,44,Good,5,Good,24,Good,Sewage,2022-07-09,OG-000898,Synthetic low-value coursework data
+Canada,Vancouver,29,Good,13,Good,27,Good,39,Good,36,Good,Plastic,2023-01-22,OG-020859,Synthetic low-value coursework data
+Spain,Barcelona,35,Good,44,Good,37,Good,34,Good,24,Good,Plastic,2023-05-15,OG-004026,Synthetic low-value coursework data
+Ghana,Accra,29,Good,25,Good,28,Good,17,Good,45,Good,Plastic,2023-11-19,OG-014599,Synthetic low-value coursework data
+Sri Lanka,Colombo,20,Good,4,Good,45,Good,14,Good,16,Good,Sewage,2023-02-06,OG-019419,Synthetic low-value coursework data
+Canada,Halifax,26,Good,1,Good,29,Good,35,Good,37,Good,Fishing Waste,2022-08-17,OG-015306,Synthetic low-value coursework data
+Thailand,Phuket,28,Good,20,Good,28,Good,19,Good,45,Good,Oil,2023-06-03,OG-012641,Synthetic low-value coursework data
+Australia,Perth,20,Good,31,Good,18,Good,5,Good,27,Good,Plastic,2022-04-25,OG-024188,Synthetic low-value coursework data
+France,Marseille,26,Good,31,Good,11,Good,50,Good,10,Good,Plastic,2022-12-30,OG-003336,Synthetic low-value coursework data
+Brazil,Recife,21,Good,50,Good,14,Good,2,Good,18,Good,Plastic,2022-10-08,OG-018018,Synthetic low-value coursework data
+Portugal,Lisbon,27,Good,13,Good,40,Good,48,Good,8,Good,Plastic,2023-06-03,OG-021612,Synthetic low-value coursework data
+Netherlands,Rotterdam,41,Good,50,Good,26,Good,47,Good,40,Good,Oil,2022-12-22,OG-006327,Synthetic low-value coursework data
+Brazil,Recife,20,Good,19,Good,36,Good,5,Good,18,Good,Oil,2023-03-31,OG-000722,Synthetic low-value coursework data
+Australia,Perth,33,Good,30,Good,41,Good,13,Good,47,Good,Other,2022-07-17,OG-001836,Synthetic low-value coursework data
+United States,San Diego,18,Good,27,Good,16,Good,19,Good,9,Good,Plastic,2022-08-02,OG-016261,Synthetic low-value coursework data
+Morocco,Casablanca,38,Good,47,Good,44,Good,31,Good,30,Good,Fishing Waste,2024-11-04,OG-013649,Synthetic low-value coursework data
+Portugal,Lisbon,28,Good,1,Good,44,Good,20,Good,49,Good,Fishing Waste,2022-08-14,OG-007152,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,18,Good,21,Good,9,Good,39,Good,2,Good,Plastic,2025-09-27,OG-005113,Synthetic low-value coursework data
+United States,San Diego,30,Good,18,Good,29,Good,22,Good,50,Good,Sewage,2025-05-29,OG-014791,Synthetic low-value coursework data
+Nigeria,Lagos,27,Good,33,Good,30,Good,39,Good,5,Good,Fishing Waste,2023-09-28,OG-011287,Synthetic low-value coursework data
+India,Mumbai,33,Good,22,Good,49,Good,26,Good,34,Good,Fishing Waste,2022-04-18,OG-022516,Synthetic low-value coursework data
+Nigeria,Lagos,30,Good,30,Good,11,Good,41,Good,39,Good,Fishing Waste,2025-06-27,OG-005924,Synthetic low-value coursework data
+Portugal,Lisbon,20,Good,23,Good,3,Good,23,Good,32,Good,Plastic,2022-07-15,OG-010707,Synthetic low-value coursework data
+New Zealand,Auckland,20,Good,1,Good,43,Good,19,Good,19,Good,Plastic,2024-06-29,OG-012990,Synthetic low-value coursework data
+Thailand,Phuket,39,Good,13,Good,45,Good,50,Good,47,Good,Plastic,2024-05-02,OG-010358,Synthetic low-value coursework data
+Australia,Perth,30,Good,34,Good,43,Good,14,Good,28,Good,Plastic,2022-01-01,OG-008108,Synthetic low-value coursework data
+Chile,Valparaiso,17,Good,9,Good,35,Good,11,Good,12,Good,Plastic,2023-10-08,OG-007779,Synthetic low-value coursework data
+Mexico,Cancun,33,Good,39,Good,50,Good,7,Good,36,Good,Other,2022-09-05,OG-013129,Synthetic low-value coursework data
+Indonesia,Jakarta,21,Good,31,Good,37,Good,3,Good,13,Good,Plastic,2022-08-17,OG-003292,Synthetic low-value coursework data
+South Korea,Busan,29,Good,26,Good,29,Good,49,Good,11,Good,Sewage,2024-04-29,OG-024347,Synthetic low-value coursework data
+Canada,Vancouver,32,Good,16,Good,19,Good,42,Good,50,Good,Plastic,2025-03-13,OG-010640,Synthetic low-value coursework data
+Canada,Vancouver,32,Good,25,Good,8,Good,50,Good,43,Good,Fishing Waste,2022-09-02,OG-001437,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,26,Good,21,Good,41,Good,15,Good,28,Good,Plastic,2023-12-15,OG-001222,Synthetic low-value coursework data
+India,Chennai,36,Good,30,Good,36,Good,35,Good,45,Good,Plastic,2024-10-14,OG-018183,Synthetic low-value coursework data
+Chile,Valparaiso,21,Good,1,Good,27,Good,21,Good,36,Good,Plastic,2023-03-22,OG-004831,Synthetic low-value coursework data
+Portugal,Lisbon,31,Good,28,Good,37,Good,44,Good,15,Good,Plastic,2024-02-12,OG-017285,Synthetic low-value coursework data
+South Africa,Cape Town,21,Good,11,Good,48,Good,15,Good,11,Good,Plastic,2023-08-02,OG-014105,Synthetic low-value coursework data
+United States,Seattle,23,Good,45,Good,22,Good,6,Good,20,Good,Sewage,2022-08-16,OG-012073,Synthetic low-value coursework data
+New Zealand,Auckland,22,Good,14,Good,21,Good,46,Good,5,Good,Plastic,2022-04-22,OG-002356,Synthetic low-value coursework data
+South Africa,Cape Town,29,Good,22,Good,46,Good,2,Good,46,Good,Fishing Waste,2025-03-31,OG-006364,Synthetic low-value coursework data
+South Africa,Cape Town,31,Good,36,Good,15,Good,48,Good,24,Good,Oil,2024-02-03,OG-023002,Synthetic low-value coursework data
+Ghana,Accra,25,Good,21,Good,19,Good,40,Good,20,Good,Plastic,2023-12-12,OG-022979,Synthetic low-value coursework data
+Portugal,Lisbon,22,Good,38,Good,14,Good,19,Good,18,Good,Plastic,2022-05-08,OG-006249,Synthetic low-value coursework data
+South Africa,Cape Town,21,Good,4,Good,22,Good,34,Good,24,Good,Plastic,2024-04-27,OG-008255,Synthetic low-value coursework data
+Japan,Osaka,26,Good,47,Good,24,Good,4,Good,30,Good,Plastic,2023-07-05,OG-004848,Synthetic low-value coursework data
+Sri Lanka,Colombo,17,Good,37,Good,1,Good,20,Good,10,Good,Fishing Waste,2025-07-22,OG-014688,Synthetic low-value coursework data
+United States,Seattle,14,Good,12,Good,6,Good,18,Good,22,Good,Plastic,2025-11-16,OG-009134,Synthetic low-value coursework data
+Mexico,Cancun,19,Good,3,Good,5,Good,47,Good,20,Good,Plastic,2025-12-30,OG-013973,Synthetic low-value coursework data
+Indonesia,Bali,31,Good,34,Good,47,Good,29,Good,13,Good,Plastic,2024-12-19,OG-017268,Synthetic low-value coursework data
+Spain,Barcelona,32,Good,41,Good,7,Good,40,Good,42,Good,Fishing Waste,2023-06-20,OG-010480,Synthetic low-value coursework data
+France,Marseille,37,Good,41,Good,41,Good,32,Good,35,Good,Sewage,2023-06-18,OG-007615,Synthetic low-value coursework data
+United States,Miami,18,Good,12,Good,29,Good,4,Good,26,Good,Plastic,2025-08-17,OG-000200,Synthetic low-value coursework data
+United States,Miami,21,Good,32,Good,32,Good,11,Good,10,Good,Sewage,2024-02-21,OG-008507,Synthetic low-value coursework data
+Chile,Valparaiso,20,Good,37,Good,19,Good,3,Good,19,Good,Plastic,2023-06-07,OG-001685,Synthetic low-value coursework data
+Ghana,Accra,36,Good,50,Good,36,Good,18,Good,41,Good,Plastic,2025-04-19,OG-010053,Synthetic low-value coursework data
+Nigeria,Lagos,28,Good,14,Good,45,Good,37,Good,14,Good,Fishing Waste,2022-06-28,OG-019681,Synthetic low-value coursework data
+Chile,Valparaiso,30,Good,19,Good,46,Good,19,Good,37,Good,Plastic,2023-07-11,OG-021683,Synthetic low-value coursework data
+Sri Lanka,Colombo,24,Good,7,Good,31,Good,26,Good,34,Good,Plastic,2022-02-24,OG-014191,Synthetic low-value coursework data
+Canada,Halifax,19,Good,11,Good,47,Good,16,Good,3,Good,Plastic,2022-03-17,OG-011497,Synthetic low-value coursework data
+Canada,Vancouver,20,Good,38,Good,40,Good,1,Good,2,Good,Fishing Waste,2022-05-25,OG-023190,Synthetic low-value coursework data
+New Zealand,Auckland,7,Good,4,Good,3,Good,11,Good,11,Good,Sewage,2023-10-18,OG-024521,Synthetic low-value coursework data
+Australia,Sydney,41,Good,45,Good,47,Good,22,Good,49,Good,Plastic,2025-02-13,OG-024537,Synthetic low-value coursework data
+Ghana,Accra,26,Good,13,Good,10,Good,41,Good,39,Good,Plastic,2023-04-07,OG-007028,Synthetic low-value coursework data
+Sri Lanka,Colombo,22,Good,14,Good,38,Good,30,Good,5,Good,Plastic,2022-04-20,OG-002097,Synthetic low-value coursework data
+United States,Miami,22,Good,37,Good,6,Good,22,Good,22,Good,Oil,2022-03-05,OG-008900,Synthetic low-value coursework data
+Ghana,Accra,24,Good,36,Good,21,Good,30,Good,9,Good,Fishing Waste,2023-03-02,OG-018225,Synthetic low-value coursework data
+Australia,Perth,22,Good,27,Good,40,Good,14,Good,5,Good,Plastic,2025-02-01,OG-010746,Synthetic low-value coursework data
+Mexico,Cancun,18,Good,12,Good,23,Good,7,Good,29,Good,Plastic,2024-08-23,OG-011472,Synthetic low-value coursework data
+South Korea,Busan,22,Good,8,Good,38,Good,26,Good,16,Good,Plastic,2025-07-29,OG-018550,Synthetic low-value coursework data
+Portugal,Lisbon,32,Good,17,Good,42,Good,23,Good,47,Good,Other,2023-09-08,OG-019050,Synthetic low-value coursework data
+France,Marseille,34,Good,42,Good,42,Good,13,Good,40,Good,Fishing Waste,2025-06-16,OG-001606,Synthetic low-value coursework data
+Thailand,Phuket,15,Good,2,Good,7,Good,35,Good,15,Good,Sewage,2022-04-18,OG-009979,Synthetic low-value coursework data
+New Zealand,Auckland,20,Good,13,Good,34,Good,26,Good,5,Good,Plastic,2022-01-03,OG-000956,Synthetic low-value coursework data
+France,Marseille,39,Good,40,Good,26,Good,47,Good,44,Good,Oil,2025-06-15,OG-013968,Synthetic low-value coursework data
+Japan,Osaka,15,Good,24,Good,6,Good,5,Good,25,Good,Sewage,2025-02-10,OG-018670,Synthetic low-value coursework data
+France,Marseille,15,Good,47,Good,2,Good,5,Good,5,Good,Plastic,2023-11-01,OG-012792,Synthetic low-value coursework data
+Nigeria,Lagos,24,Good,23,Good,25,Good,16,Good,32,Good,Plastic,2025-07-01,OG-015565,Synthetic low-value coursework data
+Canada,Halifax,26,Good,49,Good,18,Good,28,Good,7,Good,Plastic,2025-01-15,OG-004954,Synthetic low-value coursework data
+South Africa,Cape Town,33,Good,27,Good,42,Good,32,Good,31,Good,Plastic,2024-08-09,OG-007895,Synthetic low-value coursework data
+New Zealand,Auckland,28,Good,12,Good,41,Good,11,Good,47,Good,Plastic,2023-08-31,OG-012068,Synthetic low-value coursework data
+Australia,Sydney,28,Good,26,Good,38,Good,7,Good,40,Good,Fishing Waste,2025-09-30,OG-000132,Synthetic low-value coursework data
+France,Marseille,26,Good,44,Good,6,Good,6,Good,49,Good,Plastic,2025-04-13,OG-009449,Synthetic low-value coursework data
+United States,San Diego,14,Good,17,Good,20,Good,3,Good,16,Good,Oil,2024-01-01,OG-002292,Synthetic low-value coursework data
+Portugal,Lisbon,18,Good,48,Good,11,Good,4,Good,10,Good,Fishing Waste,2024-05-15,OG-017199,Synthetic low-value coursework data
+Canada,Vancouver,37,Good,34,Good,40,Good,42,Good,31,Good,Oil,2023-07-25,OG-023803,Synthetic low-value coursework data
+Morocco,Casablanca,12,Good,17,Good,7,Good,12,Good,11,Good,Plastic,2023-05-30,OG-005911,Synthetic low-value coursework data
+Indonesia,Jakarta,21,Good,33,Good,1,Good,15,Good,34,Good,Oil,2023-08-21,OG-023114,Synthetic low-value coursework data
+France,Marseille,26,Good,28,Good,50,Good,9,Good,18,Good,Plastic,2025-01-30,OG-001197,Synthetic low-value coursework data
+Indonesia,Bali,34,Good,41,Good,20,Good,35,Good,38,Good,Plastic,2024-11-26,OG-014777,Synthetic low-value coursework data
+Spain,Barcelona,28,Good,34,Good,36,Good,11,Good,32,Good,Plastic,2024-09-27,OG-008169,Synthetic low-value coursework data
+Indonesia,Bali,25,Good,3,Good,26,Good,47,Good,24,Good,Oil,2023-02-02,OG-014835,Synthetic low-value coursework data
+France,Marseille,27,Good,40,Good,5,Good,25,Good,37,Good,Plastic,2024-05-03,OG-018689,Synthetic low-value coursework data
+Brazil,Recife,31,Good,27,Good,44,Good,11,Good,42,Good,Fishing Waste,2025-05-26,OG-009246,Synthetic low-value coursework data
+India,Mumbai,16,Good,30,Good,9,Good,20,Good,4,Good,Oil,2023-02-19,OG-022562,Synthetic low-value coursework data
+India,Chennai,14,Good,12,Good,17,Good,15,Good,14,Good,Plastic,2024-04-04,OG-000109,Synthetic low-value coursework data
+Indonesia,Jakarta,35,Good,22,Good,36,Good,42,Good,39,Good,Oil,2025-01-07,OG-023348,Synthetic low-value coursework data
+Sri Lanka,Colombo,34,Good,50,Good,8,Good,44,Good,34,Good,Oil,2025-07-01,OG-016798,Synthetic low-value coursework data
+Thailand,Phuket,27,Good,43,Good,9,Good,31,Good,25,Good,Plastic,2023-05-26,OG-015629,Synthetic low-value coursework data
+South Korea,Busan,12,Good,29,Good,14,Good,4,Good,2,Good,Plastic,2024-02-01,OG-011058,Synthetic low-value coursework data
+Indonesia,Jakarta,15,Good,25,Good,18,Good,13,Good,4,Good,Plastic,2023-01-14,OG-024570,Synthetic low-value coursework data
+Mexico,Cancun,22,Good,34,Good,23,Good,4,Good,25,Good,Sewage,2025-05-12,OG-013149,Synthetic low-value coursework data
+South Africa,Cape Town,24,Good,31,Good,28,Good,25,Good,11,Good,Plastic,2024-07-19,OG-024962,Synthetic low-value coursework data
+Spain,Barcelona,22,Good,10,Good,25,Good,30,Good,22,Good,Plastic,2025-08-12,OG-001264,Synthetic low-value coursework data
+Indonesia,Jakarta,31,Good,35,Good,47,Good,33,Good,8,Good,Plastic,2024-01-01,OG-004126,Synthetic low-value coursework data
+United States,San Diego,42,Good,46,Good,41,Good,39,Good,42,Good,Fishing Waste,2025-08-11,OG-016742,Synthetic low-value coursework data
+Japan,Osaka,26,Good,42,Good,15,Good,43,Good,3,Good,Plastic,2024-10-14,OG-024141,Synthetic low-value coursework data
+United States,Miami,20,Good,26,Good,6,Good,30,Good,19,Good,Plastic,2022-10-15,OG-007819,Synthetic low-value coursework data
+Sri Lanka,Colombo,18,Good,33,Good,6,Good,4,Good,27,Good,Plastic,2023-03-01,OG-024426,Synthetic low-value coursework data
+Philippines,Manila,20,Good,12,Good,47,Good,6,Good,13,Good,Plastic,2022-03-12,OG-014322,Synthetic low-value coursework data
+Thailand,Phuket,28,Good,28,Good,47,Good,9,Good,29,Good,Plastic,2024-04-10,OG-012327,Synthetic low-value coursework data
+Spain,Barcelona,29,Good,41,Good,39,Good,30,Good,6,Good,Plastic,2022-07-30,OG-013074,Synthetic low-value coursework data
+Canada,Halifax,29,Good,17,Good,49,Good,23,Good,26,Good,Oil,2025-07-03,OG-022389,Synthetic low-value coursework data
+New Zealand,Auckland,8,Good,18,Good,4,Good,6,Good,6,Good,Sewage,2022-10-14,OG-017915,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,26,Good,42,Good,29,Good,30,Good,3,Good,Plastic,2022-10-29,OG-015814,Synthetic low-value coursework data
+Philippines,Manila,30,Good,27,Good,23,Good,31,Good,41,Good,Plastic,2023-09-03,OG-009132,Synthetic low-value coursework data
+United States,Miami,21,Good,43,Good,21,Good,2,Good,19,Good,Plastic,2022-08-04,OG-003883,Synthetic low-value coursework data
+Spain,Barcelona,22,Good,14,Good,46,Good,26,Good,3,Good,Plastic,2025-04-27,OG-018008,Synthetic low-value coursework data
+United Kingdom,Brighton,26,Good,39,Good,14,Good,43,Good,9,Good,Plastic,2022-10-19,OG-002378,Synthetic low-value coursework data
+Brazil,Recife,30,Good,50,Good,15,Good,40,Good,15,Good,Plastic,2022-07-05,OG-010013,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,26,Good,11,Good,9,Good,49,Good,35,Good,Plastic,2022-04-13,OG-008044,Synthetic low-value coursework data
+Indonesia,Jakarta,27,Good,13,Good,30,Good,30,Good,36,Good,Plastic,2024-08-18,OG-006255,Synthetic low-value coursework data
+Brazil,Recife,19,Good,7,Good,14,Good,30,Good,24,Good,Plastic,2025-06-11,OG-015412,Synthetic low-value coursework data
+South Korea,Busan,14,Good,35,Good,15,Good,2,Good,4,Good,Fishing Waste,2025-03-14,OG-022811,Synthetic low-value coursework data
+Chile,Valparaiso,18,Good,6,Good,33,Good,6,Good,28,Good,Plastic,2023-11-16,OG-019294,Synthetic low-value coursework data
+United Kingdom,Brighton,30,Good,21,Good,24,Good,43,Good,31,Good,Plastic,2023-05-25,OG-004134,Synthetic low-value coursework data
+Thailand,Phuket,26,Good,16,Good,39,Good,8,Good,43,Good,Sewage,2022-07-25,OG-016574,Synthetic low-value coursework data
+United States,Miami,15,Good,9,Good,1,Good,4,Good,45,Good,Sewage,2024-08-15,OG-016828,Synthetic low-value coursework data
+Brazil,Recife,19,Good,28,Good,16,Good,9,Good,22,Good,Fishing Waste,2025-09-10,OG-020432,Synthetic low-value coursework data
+Spain,Barcelona,28,Good,13,Good,49,Good,20,Good,32,Good,Plastic,2024-11-05,OG-021587,Synthetic low-value coursework data
+South Korea,Busan,13,Good,18,Good,23,Good,5,Good,6,Good,Oil,2024-04-21,OG-000638,Synthetic low-value coursework data
+Australia,Sydney,30,Good,22,Good,50,Good,20,Good,28,Good,Plastic,2025-03-15,OG-006188,Synthetic low-value coursework data
+New Zealand,Auckland,31,Good,34,Good,36,Good,16,Good,37,Good,Plastic,2025-03-09,OG-021570,Synthetic low-value coursework data
+South Africa,Cape Town,39,Good,34,Good,48,Good,39,Good,35,Good,Plastic,2024-03-09,OG-010269,Synthetic low-value coursework data
+Netherlands,Rotterdam,26,Good,42,Good,19,Good,15,Good,27,Good,Plastic,2022-12-01,OG-002375,Synthetic low-value coursework data
+New Zealand,Auckland,30,Good,46,Good,4,Good,49,Good,21,Good,Plastic,2025-05-02,OG-014128,Synthetic low-value coursework data
+United States,Miami,25,Good,34,Good,30,Good,21,Good,15,Good,Fishing Waste,2025-04-18,OG-011724,Synthetic low-value coursework data
+Philippines,Manila,29,Good,32,Good,26,Good,23,Good,35,Good,Plastic,2024-07-09,OG-009391,Synthetic low-value coursework data
+Ghana,Accra,28,Good,13,Good,42,Good,33,Good,22,Good,Other,2022-10-06,OG-022732,Synthetic low-value coursework data
+Morocco,Casablanca,28,Good,38,Good,45,Good,14,Good,16,Good,Sewage,2025-06-11,OG-003735,Synthetic low-value coursework data
+United States,Seattle,18,Good,25,Good,24,Good,8,Good,14,Good,Plastic,2025-06-04,OG-004278,Synthetic low-value coursework data
+Australia,Sydney,29,Good,39,Good,22,Good,42,Good,13,Good,Plastic,2023-11-06,OG-016018,Synthetic low-value coursework data
+Canada,Halifax,28,Good,28,Good,18,Good,18,Good,49,Good,Plastic,2024-11-27,OG-003098,Synthetic low-value coursework data
+Mexico,Cancun,25,Good,11,Good,27,Good,20,Good,43,Good,Plastic,2023-02-07,OG-005616,Synthetic low-value coursework data
+United Kingdom,Brighton,35,Good,50,Good,21,Good,21,Good,47,Good,Other,2022-08-10,OG-018698,Synthetic low-value coursework data
+Brazil,Recife,30,Good,27,Good,40,Good,22,Good,32,Good,Sewage,2024-02-10,OG-016679,Synthetic low-value coursework data
+Australia,Perth,24,Good,21,Good,39,Good,5,Good,33,Good,Plastic,2025-07-26,OG-016339,Synthetic low-value coursework data
+Mexico,Cancun,20,Good,36,Good,13,Good,11,Good,22,Good,Sewage,2023-10-28,OG-010040,Synthetic low-value coursework data
+Australia,Perth,20,Good,4,Good,30,Good,4,Good,41,Good,Other,2022-09-24,OG-023560,Synthetic low-value coursework data
+Mexico,Cancun,17,Good,30,Good,20,Good,12,Good,6,Good,Fishing Waste,2025-05-16,OG-022675,Synthetic low-value coursework data
+Brazil,Recife,27,Good,27,Good,46,Good,15,Good,20,Good,Fishing Waste,2023-07-30,OG-015095,Synthetic low-value coursework data
+South Africa,Cape Town,22,Good,31,Good,9,Good,36,Good,12,Good,Fishing Waste,2024-08-04,OG-024834,Synthetic low-value coursework data
+United Kingdom,Brighton,45,Good,47,Good,37,Good,50,Good,47,Good,Plastic,2022-05-11,OG-012721,Synthetic low-value coursework data
+Morocco,Casablanca,25,Good,16,Good,25,Good,16,Good,44,Good,Plastic,2025-05-17,OG-024976,Synthetic low-value coursework data
+Indonesia,Jakarta,21,Good,29,Good,16,Good,22,Good,17,Good,Plastic,2024-12-27,OG-012479,Synthetic low-value coursework data
+Indonesia,Bali,19,Good,5,Good,21,Good,50,Good,1,Good,Plastic,2024-04-02,OG-002243,Synthetic low-value coursework data
+Philippines,Manila,28,Good,3,Good,40,Good,25,Good,43,Good,Fishing Waste,2025-01-23,OG-012359,Synthetic low-value coursework data
+Brazil,Recife,14,Good,10,Good,29,Good,7,Good,12,Good,Plastic,2022-04-06,OG-006373,Synthetic low-value coursework data
+United States,San Diego,28,Good,6,Good,31,Good,42,Good,32,Good,Fishing Waste,2023-06-02,OG-012854,Synthetic low-value coursework data
+Australia,Sydney,10,Good,21,Good,2,Good,16,Good,1,Good,Plastic,2025-03-29,OG-006398,Synthetic low-value coursework data
+United Kingdom,Brighton,30,Good,27,Good,7,Good,47,Good,37,Good,Plastic,2025-06-02,OG-006552,Synthetic low-value coursework data
+South Korea,Busan,35,Good,33,Good,35,Good,47,Good,26,Good,Plastic,2022-06-08,OG-012537,Synthetic low-value coursework data
+Philippines,Manila,12,Good,1,Good,5,Good,26,Good,15,Good,Plastic,2025-02-24,OG-012594,Synthetic low-value coursework data
+South Africa,Cape Town,26,Good,18,Good,41,Good,39,Good,8,Good,Plastic,2024-07-08,OG-013585,Synthetic low-value coursework data
+Sri Lanka,Colombo,24,Good,35,Good,10,Good,16,Good,34,Good,Plastic,2022-01-28,OG-018530,Synthetic low-value coursework data
+Morocco,Casablanca,22,Good,19,Good,16,Good,50,Good,3,Good,Oil,2025-09-05,OG-001595,Synthetic low-value coursework data
+Spain,Barcelona,17,Good,9,Good,31,Good,10,Good,19,Good,Plastic,2025-01-05,OG-023876,Synthetic low-value coursework data
+Portugal,Lisbon,28,Good,47,Good,32,Good,15,Good,18,Good,Sewage,2025-09-28,OG-014289,Synthetic low-value coursework data
+Nigeria,Lagos,18,Good,8,Good,29,Good,20,Good,17,Good,Plastic,2025-01-24,OG-021922,Synthetic low-value coursework data
+Japan,Osaka,31,Good,45,Good,26,Good,11,Good,43,Good,Other,2023-11-18,OG-007374,Synthetic low-value coursework data
+Australia,Perth,15,Good,16,Good,3,Good,38,Good,4,Good,Plastic,2022-03-21,OG-017545,Synthetic low-value coursework data
+Australia,Sydney,21,Good,10,Good,35,Good,9,Good,30,Good,Fishing Waste,2023-09-26,OG-005339,Synthetic low-value coursework data
+Japan,Osaka,25,Good,20,Good,30,Good,2,Good,49,Good,Oil,2025-05-25,OG-024047,Synthetic low-value coursework data
+Sri Lanka,Colombo,21,Good,3,Good,23,Good,26,Good,32,Good,Fishing Waste,2022-11-25,OG-014803,Synthetic low-value coursework data
+United Kingdom,Brighton,18,Good,11,Good,14,Good,33,Good,14,Good,Sewage,2023-06-21,OG-017894,Synthetic low-value coursework data
+Brazil,Recife,22,Good,1,Good,36,Good,42,Good,8,Good,Plastic,2023-05-26,OG-018212,Synthetic low-value coursework data
+Mexico,Cancun,19,Good,42,Good,9,Good,21,Good,5,Good,Sewage,2023-11-28,OG-012773,Synthetic low-value coursework data
+United States,Seattle,16,Good,27,Good,21,Good,6,Good,11,Good,Oil,2025-04-18,OG-012315,Synthetic low-value coursework data
+Australia,Perth,28,Good,11,Good,11,Good,46,Good,42,Good,Sewage,2022-11-02,OG-019147,Synthetic low-value coursework data
+Chile,Valparaiso,17,Good,38,Good,10,Good,5,Good,16,Good,Sewage,2025-03-28,OG-017109,Synthetic low-value coursework data
+South Africa,Cape Town,11,Good,9,Good,10,Good,19,Good,6,Good,Fishing Waste,2023-08-16,OG-022412,Synthetic low-value coursework data
+United States,Miami,33,Good,17,Good,46,Good,47,Good,22,Good,Plastic,2022-07-17,OG-021072,Synthetic low-value coursework data
+Mexico,Cancun,26,Good,49,Good,5,Good,44,Good,5,Good,Fishing Waste,2025-12-15,OG-014442,Synthetic low-value coursework data
+Nigeria,Lagos,28,Good,31,Good,16,Good,19,Good,47,Good,Plastic,2025-07-11,OG-005214,Synthetic low-value coursework data
+Indonesia,Bali,36,Good,48,Good,18,Good,35,Good,42,Good,Plastic,2023-04-04,OG-010988,Synthetic low-value coursework data
+France,Marseille,14,Good,3,Good,26,Good,5,Good,23,Good,Fishing Waste,2025-02-28,OG-010840,Synthetic low-value coursework data
+Canada,Halifax,11,Good,12,Good,11,Good,13,Good,8,Good,Plastic,2023-08-18,OG-019746,Synthetic low-value coursework data
+South Africa,Cape Town,30,Good,33,Good,40,Good,35,Good,11,Good,Plastic,2024-04-23,OG-021968,Synthetic low-value coursework data
+United States,San Diego,18,Good,5,Good,4,Good,26,Good,35,Good,Fishing Waste,2023-04-19,OG-016091,Synthetic low-value coursework data
+Brazil,Recife,34,Good,44,Good,47,Good,2,Good,45,Good,Oil,2022-05-11,OG-017244,Synthetic low-value coursework data
+Portugal,Lisbon,34,Good,41,Good,23,Good,49,Good,24,Good,Plastic,2023-12-23,OG-001811,Synthetic low-value coursework data
+South Africa,Cape Town,11,Good,3,Good,12,Good,16,Good,12,Good,Sewage,2025-02-26,OG-009677,Synthetic low-value coursework data
+Australia,Sydney,14,Good,6,Good,15,Good,6,Good,30,Good,Plastic,2025-12-02,OG-002095,Synthetic low-value coursework data
+Japan,Osaka,24,Good,24,Good,37,Good,3,Good,33,Good,Fishing Waste,2022-11-14,OG-020240,Synthetic low-value coursework data
+Thailand,Phuket,34,Good,19,Good,48,Good,41,Good,30,Good,Plastic,2022-11-28,OG-024525,Synthetic low-value coursework data
+Chile,Valparaiso,32,Good,50,Good,50,Good,11,Good,19,Good,Plastic,2022-07-16,OG-016044,Synthetic low-value coursework data
+South Korea,Busan,30,Good,49,Good,12,Good,50,Good,8,Good,Sewage,2023-08-18,OG-005252,Synthetic low-value coursework data
+France,Marseille,24,Good,42,Good,24,Good,6,Good,26,Good,Sewage,2024-12-25,OG-012069,Synthetic low-value coursework data
+Nigeria,Lagos,24,Good,37,Good,48,Good,8,Good,2,Good,Sewage,2022-10-06,OG-014776,Synthetic low-value coursework data
+Canada,Vancouver,38,Good,27,Good,37,Good,48,Good,42,Good,Plastic,2024-03-07,OG-001541,Synthetic low-value coursework data
+Australia,Sydney,40,Good,49,Good,50,Good,45,Good,15,Good,Plastic,2025-10-09,OG-001076,Synthetic low-value coursework data
+Morocco,Casablanca,23,Good,14,Good,31,Good,45,Good,3,Good,Plastic,2022-08-15,OG-013394,Synthetic low-value coursework data
+Sri Lanka,Colombo,28,Good,38,Good,43,Good,27,Good,6,Good,Sewage,2024-08-22,OG-018048,Synthetic low-value coursework data
+Canada,Vancouver,28,Good,50,Good,48,Good,1,Good,14,Good,Plastic,2022-04-26,OG-021308,Synthetic low-value coursework data
+Indonesia,Jakarta,32,Good,38,Good,44,Good,2,Good,44,Good,Plastic,2024-04-19,OG-010832,Synthetic low-value coursework data
+Japan,Osaka,30,Good,28,Good,42,Good,5,Good,46,Good,Fishing Waste,2024-05-23,OG-014725,Synthetic low-value coursework data
+South Korea,Busan,16,Good,32,Good,2,Good,6,Good,26,Good,Plastic,2023-07-17,OG-013774,Synthetic low-value coursework data
+Canada,Vancouver,21,Good,40,Good,4,Good,36,Good,3,Good,Plastic,2025-12-16,OG-011145,Synthetic low-value coursework data
+Mexico,Cancun,29,Good,50,Good,23,Good,4,Good,38,Good,Oil,2024-10-06,OG-020488,Synthetic low-value coursework data
+Mexico,Cancun,44,Good,41,Good,39,Good,48,Good,50,Good,Plastic,2024-07-08,OG-017612,Synthetic low-value coursework data
+South Korea,Busan,38,Good,25,Good,42,Good,48,Good,39,Good,Fishing Waste,2022-07-30,OG-000542,Synthetic low-value coursework data
+Spain,Barcelona,21,Good,37,Good,9,Good,1,Good,36,Good,Plastic,2025-02-05,OG-017864,Synthetic low-value coursework data
+United States,San Diego,18,Good,7,Good,34,Good,15,Good,15,Good,Oil,2024-07-27,OG-007344,Synthetic low-value coursework data
+Australia,Sydney,30,Good,49,Good,38,Good,6,Good,25,Good,Plastic,2022-03-21,OG-008075,Synthetic low-value coursework data
+Chile,Valparaiso,28,Good,12,Good,23,Good,39,Good,40,Good,Oil,2024-04-10,OG-003021,Synthetic low-value coursework data
+Morocco,Casablanca,23,Good,6,Good,13,Good,32,Good,40,Good,Sewage,2025-10-05,OG-011520,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,16,Good,5,Good,30,Good,13,Good,18,Good,Oil,2024-11-12,OG-010516,Synthetic low-value coursework data
+Australia,Perth,12,Good,3,Good,10,Good,16,Good,21,Good,Other,2022-12-17,OG-015328,Synthetic low-value coursework data
+Portugal,Lisbon,37,Good,26,Good,43,Good,47,Good,31,Good,Plastic,2023-09-02,OG-014697,Synthetic low-value coursework data
+France,Marseille,25,Good,31,Good,33,Good,24,Good,12,Good,Fishing Waste,2025-06-10,OG-009729,Synthetic low-value coursework data
+South Africa,Cape Town,26,Good,17,Good,39,Good,28,Good,19,Good,Other,2025-11-28,OG-019666,Synthetic low-value coursework data
+Indonesia,Bali,18,Good,33,Good,17,Good,20,Good,3,Good,Fishing Waste,2025-03-27,OG-007435,Synthetic low-value coursework data
+Portugal,Lisbon,12,Good,3,Good,8,Good,11,Good,25,Good,Oil,2024-03-29,OG-013729,Synthetic low-value coursework data
+India,Mumbai,39,Good,26,Good,49,Good,33,Good,49,Good,Sewage,2024-10-29,OG-009057,Synthetic low-value coursework data
+Portugal,Lisbon,22,Good,20,Good,49,Good,7,Good,11,Good,Other,2024-04-22,OG-012864,Synthetic low-value coursework data
+United States,Miami,33,Good,20,Good,34,Good,41,Good,38,Good,Plastic,2022-07-17,OG-012595,Synthetic low-value coursework data
+United States,Miami,28,Good,17,Good,16,Good,47,Good,30,Good,Plastic,2024-10-12,OG-001372,Synthetic low-value coursework data
+Chile,Valparaiso,28,Good,4,Good,47,Good,28,Good,34,Good,Fishing Waste,2022-04-10,OG-000661,Synthetic low-value coursework data
+South Africa,Cape Town,16,Good,3,Good,1,Good,12,Good,48,Good,Plastic,2022-09-10,OG-001636,Synthetic low-value coursework data
+Chile,Valparaiso,25,Good,17,Good,48,Good,11,Good,23,Good,Plastic,2023-09-18,OG-002706,Synthetic low-value coursework data
+India,Chennai,16,Good,27,Good,5,Good,18,Good,14,Good,Sewage,2024-05-27,OG-018194,Synthetic low-value coursework data
+Brazil,Recife,38,Good,42,Good,35,Good,44,Good,30,Good,Plastic,2024-12-11,OG-010782,Synthetic low-value coursework data
+Canada,Vancouver,26,Good,24,Good,9,Good,30,Good,39,Good,Plastic,2023-03-17,OG-024845,Synthetic low-value coursework data
+Ghana,Accra,24,Good,28,Good,19,Good,6,Good,45,Good,Oil,2024-09-13,OG-000428,Synthetic low-value coursework data
+South Korea,Busan,26,Good,38,Good,11,Good,18,Good,38,Good,Fishing Waste,2025-04-29,OG-009266,Synthetic low-value coursework data
+Indonesia,Jakarta,16,Good,28,Good,9,Good,6,Good,22,Good,Other,2022-04-08,OG-022731,Synthetic low-value coursework data
+Australia,Perth,18,Good,1,Good,22,Good,11,Good,38,Good,Plastic,2022-11-27,OG-020133,Synthetic low-value coursework data
+Australia,Perth,33,Good,39,Good,35,Good,21,Good,36,Good,Plastic,2023-11-04,OG-021753,Synthetic low-value coursework data
+Netherlands,Rotterdam,22,Good,40,Good,26,Good,21,Good,2,Good,Oil,2024-09-02,OG-002406,Synthetic low-value coursework data
+Australia,Perth,24,Good,33,Good,23,Good,25,Good,15,Good,Plastic,2024-03-14,OG-014965,Synthetic low-value coursework data
+Netherlands,Rotterdam,24,Good,47,Good,14,Good,4,Good,32,Good,Plastic,2024-09-25,OG-010757,Synthetic low-value coursework data
+Philippines,Manila,32,Good,25,Good,50,Good,4,Good,47,Good,Other,2025-02-01,OG-017569,Synthetic low-value coursework data
+India,Mumbai,22,Good,5,Good,45,Good,34,Good,4,Good,Plastic,2022-12-10,OG-005939,Synthetic low-value coursework data
+United States,Miami,29,Good,43,Good,5,Good,44,Good,25,Good,Plastic,2023-06-29,OG-001975,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,12,Good,9,Good,2,Good,37,Good,1,Good,Plastic,2023-02-14,OG-009135,Synthetic low-value coursework data
+Chile,Valparaiso,20,Good,11,Good,34,Good,3,Good,30,Good,Fishing Waste,2023-01-30,OG-012548,Synthetic low-value coursework data
+Canada,Halifax,29,Good,42,Good,23,Good,34,Good,16,Good,Plastic,2022-08-06,OG-012115,Synthetic low-value coursework data
+Ghana,Accra,20,Good,18,Good,23,Good,21,Good,16,Good,Plastic,2024-05-11,OG-017974,Synthetic low-value coursework data
+Sri Lanka,Colombo,27,Good,31,Good,14,Good,29,Good,34,Good,Plastic,2023-09-26,OG-006829,Synthetic low-value coursework data
+Netherlands,Rotterdam,29,Good,48,Good,41,Good,15,Good,13,Good,Plastic,2025-09-20,OG-004671,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,25,Good,16,Good,22,Good,28,Good,35,Good,Fishing Waste,2022-04-11,OG-009593,Synthetic low-value coursework data
+Chile,Valparaiso,28,Good,49,Good,27,Good,23,Good,11,Good,Plastic,2022-08-20,OG-012989,Synthetic low-value coursework data
+France,Marseille,36,Good,18,Good,48,Good,48,Good,28,Good,Fishing Waste,2025-07-29,OG-004752,Synthetic low-value coursework data
+Netherlands,Rotterdam,33,Good,42,Good,32,Good,15,Good,42,Good,Plastic,2022-08-13,OG-023148,Synthetic low-value coursework data
+Australia,Perth,31,Good,25,Good,30,Good,28,Good,40,Good,Sewage,2023-12-07,OG-011902,Synthetic low-value coursework data
+Indonesia,Bali,28,Good,20,Good,14,Good,47,Good,32,Good,Plastic,2024-12-09,OG-015883,Synthetic low-value coursework data
+Australia,Sydney,21,Good,17,Good,7,Good,31,Good,29,Good,Plastic,2024-07-22,OG-021145,Synthetic low-value coursework data
+Indonesia,Jakarta,27,Good,46,Good,3,Good,27,Good,33,Good,Plastic,2024-10-25,OG-001762,Synthetic low-value coursework data
+United States,San Diego,29,Good,25,Good,32,Good,38,Good,21,Good,Plastic,2022-01-05,OG-018368,Synthetic low-value coursework data
+Netherlands,Rotterdam,24,Good,16,Good,26,Good,50,Good,2,Good,Oil,2024-09-07,OG-020113,Synthetic low-value coursework data
+India,Chennai,26,Good,42,Good,4,Good,10,Good,50,Good,Fishing Waste,2022-11-02,OG-019183,Synthetic low-value coursework data
+Netherlands,Rotterdam,23,Good,41,Good,19,Good,19,Good,12,Good,Plastic,2024-10-18,OG-024819,Synthetic low-value coursework data
+France,Marseille,21,Good,3,Good,32,Good,24,Good,24,Good,Plastic,2025-02-24,OG-017655,Synthetic low-value coursework data
+United States,San Diego,41,Good,44,Good,50,Good,33,Good,36,Good,Plastic,2025-10-15,OG-021670,Synthetic low-value coursework data
+United States,Miami,18,Good,25,Good,17,Good,9,Good,23,Good,Oil,2024-12-17,OG-011277,Synthetic low-value coursework data
+Philippines,Manila,27,Good,36,Good,6,Good,27,Good,39,Good,Plastic,2023-01-11,OG-005914,Synthetic low-value coursework data
+India,Chennai,5,Good,7,Good,1,Good,3,Good,8,Good,Sewage,2025-02-09,OG-009249,Synthetic low-value coursework data
+Sri Lanka,Colombo,28,Good,27,Good,36,Good,11,Good,37,Good,Plastic,2024-07-09,OG-010428,Synthetic low-value coursework data
+Portugal,Lisbon,29,Good,14,Good,49,Good,48,Good,6,Good,Sewage,2022-05-28,OG-008724,Synthetic low-value coursework data
+United Kingdom,Brighton,34,Good,50,Good,34,Good,26,Good,28,Good,Plastic,2022-05-18,OG-001632,Synthetic low-value coursework data
+Japan,Osaka,38,Good,39,Good,30,Good,50,Good,31,Good,Plastic,2023-06-05,OG-000091,Synthetic low-value coursework data
+Brazil,Recife,20,Good,31,Good,28,Good,3,Good,18,Good,Plastic,2025-10-04,OG-018252,Synthetic low-value coursework data
+Canada,Halifax,20,Good,15,Good,34,Good,13,Good,16,Good,Plastic,2024-03-27,OG-011471,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,18,Good,25,Good,26,Good,6,Good,14,Good,Plastic,2022-08-27,OG-001544,Synthetic low-value coursework data
+Indonesia,Jakarta,36,Good,37,Good,44,Good,38,Good,27,Good,Plastic,2023-12-12,OG-021502,Synthetic low-value coursework data
+Sri Lanka,Colombo,31,Good,9,Good,49,Good,43,Good,24,Good,Oil,2023-04-29,OG-007360,Synthetic low-value coursework data
+Ghana,Accra,34,Good,41,Good,30,Good,38,Good,26,Good,Oil,2025-07-18,OG-013635,Synthetic low-value coursework data
+Canada,Vancouver,25,Good,4,Good,40,Good,41,Good,15,Good,Plastic,2022-09-03,OG-007026,Synthetic low-value coursework data
+Netherlands,Rotterdam,34,Good,46,Good,34,Good,21,Good,37,Good,Plastic,2024-05-23,OG-024831,Synthetic low-value coursework data
+United States,Seattle,28,Good,48,Good,45,Good,11,Good,6,Good,Plastic,2023-01-11,OG-002242,Synthetic low-value coursework data
+Thailand,Phuket,11,Good,2,Good,31,Good,3,Good,9,Good,Other,2022-05-15,OG-024882,Synthetic low-value coursework data
+United States,Seattle,19,Good,4,Good,19,Good,12,Good,42,Good,Fishing Waste,2023-11-01,OG-004607,Synthetic low-value coursework data
+New Zealand,Auckland,18,Good,29,Good,7,Good,6,Good,32,Good,Fishing Waste,2025-01-17,OG-006555,Synthetic low-value coursework data
+United States,San Diego,24,Good,2,Good,23,Good,40,Good,33,Good,Plastic,2025-08-24,OG-007320,Synthetic low-value coursework data
+Philippines,Manila,25,Good,18,Good,14,Good,23,Good,44,Good,Plastic,2022-11-20,OG-024017,Synthetic low-value coursework data
+South Korea,Busan,22,Good,22,Good,20,Good,35,Good,10,Good,Fishing Waste,2022-12-29,OG-002324,Synthetic low-value coursework data
+Brazil,Recife,34,Good,10,Good,47,Good,44,Good,36,Good,Fishing Waste,2022-07-07,OG-024459,Synthetic low-value coursework data
+Brazil,Recife,40,Good,43,Good,43,Good,28,Good,44,Good,Fishing Waste,2024-02-07,OG-020100,Synthetic low-value coursework data
+Indonesia,Jakarta,25,Good,28,Good,23,Good,20,Good,30,Good,Plastic,2022-06-21,OG-004406,Synthetic low-value coursework data
+Ghana,Accra,27,Good,46,Good,19,Good,9,Good,34,Good,Plastic,2022-02-23,OG-018600,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,32,Good,16,Good,37,Good,37,Good,36,Good,Plastic,2023-10-12,OG-010691,Synthetic low-value coursework data
+India,Mumbai,34,Good,45,Good,33,Good,40,Good,17,Good,Plastic,2025-07-18,OG-007754,Synthetic low-value coursework data
+United States,Seattle,15,Good,4,Good,6,Good,18,Good,31,Good,Plastic,2025-10-06,OG-008438,Synthetic low-value coursework data
+Thailand,Phuket,28,Good,34,Good,43,Good,16,Good,21,Good,Other,2025-02-25,OG-006786,Synthetic low-value coursework data
+United States,Miami,29,Good,47,Good,19,Good,4,Good,46,Good,Plastic,2022-06-10,OG-018982,Synthetic low-value coursework data
+United Kingdom,Brighton,22,Good,28,Good,33,Good,18,Good,8,Good,Plastic,2023-12-07,OG-000736,Synthetic low-value coursework data
+Sri Lanka,Colombo,11,Good,3,Good,19,Good,2,Good,20,Good,Other,2025-11-18,OG-013343,Synthetic low-value coursework data
+United Kingdom,Brighton,27,Good,29,Good,38,Good,39,Good,3,Good,Oil,2025-12-05,OG-008511,Synthetic low-value coursework data
+Thailand,Phuket,38,Good,43,Good,48,Good,19,Good,40,Good,Plastic,2024-09-28,OG-020600,Synthetic low-value coursework data
+Nigeria,Lagos,16,Good,16,Good,1,Good,7,Good,40,Good,Plastic,2022-05-17,OG-004189,Synthetic low-value coursework data
+Ghana,Accra,18,Good,22,Good,6,Good,32,Good,14,Good,Sewage,2022-05-25,OG-011935,Synthetic low-value coursework data
+Netherlands,Rotterdam,32,Good,7,Good,43,Good,42,Good,38,Good,Fishing Waste,2023-09-17,OG-002319,Synthetic low-value coursework data
+Nigeria,Lagos,20,Good,19,Good,4,Good,17,Good,40,Good,Plastic,2023-04-21,OG-010476,Synthetic low-value coursework data
+India,Chennai,26,Good,49,Good,17,Good,22,Good,18,Good,Plastic,2022-05-23,OG-001315,Synthetic low-value coursework data
+India,Mumbai,30,Good,45,Good,13,Good,39,Good,21,Good,Plastic,2023-03-12,OG-016487,Synthetic low-value coursework data
+Morocco,Casablanca,39,Good,34,Good,26,Good,47,Good,50,Good,Sewage,2024-03-27,OG-015780,Synthetic low-value coursework data
+Netherlands,Rotterdam,40,Good,44,Good,31,Good,34,Good,49,Good,Oil,2022-08-02,OG-018914,Synthetic low-value coursework data
+Indonesia,Jakarta,22,Good,29,Good,25,Good,22,Good,14,Good,Plastic,2025-02-19,OG-014461,Synthetic low-value coursework data
+Indonesia,Bali,30,Good,20,Good,46,Good,25,Good,27,Good,Sewage,2024-01-02,OG-016959,Synthetic low-value coursework data
+Chile,Valparaiso,22,Good,33,Good,10,Good,2,Good,42,Good,Plastic,2022-09-07,OG-021934,Synthetic low-value coursework data
+Nigeria,Lagos,21,Good,47,Good,24,Good,2,Good,10,Good,Sewage,2022-07-22,OG-011066,Synthetic low-value coursework data
+South Africa,Cape Town,20,Good,37,Good,21,Good,5,Good,18,Good,Fishing Waste,2025-11-04,OG-011955,Synthetic low-value coursework data
+Morocco,Casablanca,22,Good,32,Good,1,Good,24,Good,33,Good,Plastic,2024-11-11,OG-003192,Synthetic low-value coursework data
+Canada,Halifax,24,Good,40,Good,11,Good,22,Good,22,Good,Other,2022-07-28,OG-021430,Synthetic low-value coursework data
+Ghana,Accra,21,Good,30,Good,21,Good,25,Good,8,Good,Plastic,2025-06-11,OG-008861,Synthetic low-value coursework data
+Indonesia,Bali,35,Good,38,Good,49,Good,11,Good,43,Good,Fishing Waste,2024-03-21,OG-024968,Synthetic low-value coursework data
+India,Chennai,14,Good,16,Good,28,Good,10,Good,4,Good,Sewage,2025-03-22,OG-002982,Synthetic low-value coursework data
+India,Mumbai,35,Good,15,Good,47,Good,27,Good,50,Good,Sewage,2022-07-05,OG-020613,Synthetic low-value coursework data
+Netherlands,Rotterdam,19,Good,12,Good,4,Good,32,Good,29,Good,Oil,2024-01-14,OG-001528,Synthetic low-value coursework data
+Canada,Vancouver,16,Good,21,Good,12,Good,14,Good,17,Good,Sewage,2025-01-03,OG-008482,Synthetic low-value coursework data
+India,Mumbai,41,Good,42,Good,48,Good,47,Good,28,Good,Plastic,2023-06-28,OG-011741,Synthetic low-value coursework data
+Philippines,Manila,31,Good,43,Good,43,Good,28,Good,9,Good,Plastic,2023-05-09,OG-005459,Synthetic low-value coursework data
+India,Chennai,22,Good,16,Good,42,Good,1,Good,27,Good,Fishing Waste,2023-10-10,OG-009465,Synthetic low-value coursework data
+Indonesia,Bali,9,Good,5,Good,1,Good,1,Good,28,Good,Plastic,2023-02-14,OG-001570,Synthetic low-value coursework data
+Philippines,Manila,28,Good,40,Good,29,Good,10,Good,34,Good,Fishing Waste,2025-12-03,OG-011986,Synthetic low-value coursework data
+Thailand,Phuket,24,Good,35,Good,1,Good,35,Good,27,Good,Fishing Waste,2024-01-27,OG-012722,Synthetic low-value coursework data
+New Zealand,Auckland,14,Good,20,Good,16,Good,5,Good,16,Good,Fishing Waste,2025-11-21,OG-000789,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,33,Good,46,Good,7,Good,31,Good,48,Good,Plastic,2023-06-30,OG-002103,Synthetic low-value coursework data
+Thailand,Phuket,18,Good,27,Good,10,Good,26,Good,10,Good,Sewage,2024-04-25,OG-022535,Synthetic low-value coursework data
+South Korea,Busan,32,Good,23,Good,34,Good,49,Good,24,Good,Plastic,2024-08-20,OG-013612,Synthetic low-value coursework data
+South Korea,Busan,26,Good,32,Good,32,Good,7,Good,31,Good,Sewage,2024-04-17,OG-015190,Synthetic low-value coursework data
+South Africa,Cape Town,28,Good,25,Good,22,Good,50,Good,14,Good,Plastic,2023-09-20,OG-012072,Synthetic low-value coursework data
+Japan,Osaka,32,Good,40,Good,31,Good,33,Good,22,Good,Fishing Waste,2023-11-19,OG-008176,Synthetic low-value coursework data
+United States,Miami,28,Good,24,Good,44,Good,40,Good,5,Good,Plastic,2025-12-01,OG-002338,Synthetic low-value coursework data
+Canada,Vancouver,19,Good,4,Good,32,Good,30,Good,10,Good,Oil,2022-07-29,OG-007949,Synthetic low-value coursework data
+Brazil,Recife,20,Good,37,Good,10,Good,22,Good,9,Good,Plastic,2022-03-22,OG-000150,Synthetic low-value coursework data
+United States,Miami,18,Good,21,Good,7,Good,3,Good,41,Good,Fishing Waste,2022-02-09,OG-016580,Synthetic low-value coursework data
+Spain,Barcelona,28,Good,47,Good,5,Good,40,Good,22,Good,Plastic,2025-06-29,OG-015246,Synthetic low-value coursework data
+United Kingdom,Brighton,32,Good,37,Good,15,Good,26,Good,49,Good,Plastic,2024-09-26,OG-019541,Synthetic low-value coursework data
+Portugal,Lisbon,37,Good,21,Good,47,Good,38,Good,41,Good,Oil,2025-10-30,OG-000684,Synthetic low-value coursework data
+United Kingdom,Brighton,30,Good,37,Good,28,Good,24,Good,29,Good,Other,2025-12-14,OG-022954,Synthetic low-value coursework data
+Canada,Vancouver,26,Good,36,Good,23,Good,30,Good,14,Good,Plastic,2024-08-17,OG-014894,Synthetic low-value coursework data
+France,Marseille,24,Good,26,Good,25,Good,34,Good,13,Good,Sewage,2022-04-19,OG-006299,Synthetic low-value coursework data
+United States,Seattle,16,Good,5,Good,13,Good,17,Good,30,Good,Sewage,2024-04-20,OG-016759,Synthetic low-value coursework data
+United States,San Diego,20,Good,14,Good,17,Good,3,Good,44,Good,Fishing Waste,2022-11-28,OG-007479,Synthetic low-value coursework data
+New Zealand,Auckland,24,Good,34,Good,13,Good,2,Good,45,Good,Plastic,2025-02-02,OG-015154,Synthetic low-value coursework data
+Portugal,Lisbon,26,Good,6,Good,7,Good,44,Good,46,Good,Plastic,2022-11-11,OG-009772,Synthetic low-value coursework data
+Thailand,Phuket,14,Good,4,Good,20,Good,25,Good,8,Good,Plastic,2024-09-26,OG-010261,Synthetic low-value coursework data
+France,Marseille,18,Good,2,Good,13,Good,12,Good,43,Good,Fishing Waste,2024-06-06,OG-010168,Synthetic low-value coursework data
+Australia,Perth,36,Good,38,Good,21,Good,38,Good,46,Good,Other,2023-09-28,OG-005405,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,32,Good,40,Good,31,Good,13,Good,42,Good,Plastic,2023-11-08,OG-022324,Synthetic low-value coursework data
+Netherlands,Rotterdam,39,Good,50,Good,42,Good,50,Good,13,Good,Plastic,2023-08-22,OG-003627,Synthetic low-value coursework data
+New Zealand,Auckland,21,Good,8,Good,41,Good,34,Good,2,Good,Plastic,2024-09-27,OG-000341,Synthetic low-value coursework data
+Australia,Perth,28,Good,36,Good,41,Good,24,Good,12,Good,Oil,2023-12-06,OG-007336,Synthetic low-value coursework data
+Japan,Osaka,19,Good,23,Good,44,Good,6,Good,3,Good,Plastic,2023-07-22,OG-022796,Synthetic low-value coursework data
+Ghana,Accra,28,Good,46,Good,40,Good,20,Good,6,Good,Plastic,2023-05-11,OG-014634,Synthetic low-value coursework data
+Japan,Osaka,14,Good,4,Good,8,Good,4,Good,41,Good,Oil,2022-08-09,OG-004470,Synthetic low-value coursework data
+United States,Seattle,30,Good,42,Good,46,Good,8,Good,23,Good,Sewage,2022-07-10,OG-011627,Synthetic low-value coursework data
+Spain,Barcelona,27,Good,5,Good,37,Good,40,Good,27,Good,Fishing Waste,2025-03-20,OG-006871,Synthetic low-value coursework data
+Nigeria,Lagos,27,Good,47,Good,9,Good,37,Good,14,Good,Plastic,2024-01-11,OG-014485,Synthetic low-value coursework data
+Spain,Barcelona,19,Good,25,Good,36,Good,12,Good,3,Good,Plastic,2024-04-18,OG-005089,Synthetic low-value coursework data
+Australia,Sydney,24,Good,42,Good,12,Good,14,Good,27,Good,Oil,2025-12-27,OG-013769,Synthetic low-value coursework data
+Nigeria,Lagos,17,Good,16,Good,26,Good,15,Good,12,Good,Oil,2022-03-08,OG-020883,Synthetic low-value coursework data
+Brazil,Recife,28,Good,31,Good,22,Good,21,Good,37,Good,Fishing Waste,2024-09-27,OG-015964,Synthetic low-value coursework data
+Brazil,Recife,36,Good,23,Good,41,Good,29,Good,50,Good,Plastic,2024-01-18,OG-000063,Synthetic low-value coursework data
+Australia,Sydney,32,Good,8,Good,40,Good,40,Good,39,Good,Plastic,2023-12-13,OG-001121,Synthetic low-value coursework data
+United States,Seattle,28,Good,13,Good,43,Good,13,Good,44,Good,Plastic,2025-09-30,OG-004429,Synthetic low-value coursework data
+South Korea,Busan,27,Good,40,Good,18,Good,16,Good,35,Good,Sewage,2022-11-17,OG-013049,Synthetic low-value coursework data
+Spain,Barcelona,20,Good,14,Good,15,Good,13,Good,38,Good,Plastic,2023-02-25,OG-008573,Synthetic low-value coursework data
+Morocco,Casablanca,15,Good,44,Good,6,Good,4,Good,6,Good,Oil,2023-08-15,OG-011170,Synthetic low-value coursework data
+Morocco,Casablanca,19,Good,22,Good,23,Good,29,Good,1,Good,Oil,2024-12-07,OG-006664,Synthetic low-value coursework data
+Philippines,Manila,19,Good,25,Good,7,Good,25,Good,19,Good,Other,2023-06-01,OG-015164,Synthetic low-value coursework data
+Chile,Valparaiso,19,Good,22,Good,4,Good,40,Good,9,Good,Plastic,2023-10-30,OG-012920,Synthetic low-value coursework data
+Canada,Vancouver,27,Good,26,Good,12,Good,44,Good,27,Good,Oil,2022-09-06,OG-019169,Synthetic low-value coursework data
+Australia,Perth,31,Good,13,Good,35,Good,38,Good,39,Good,Plastic,2025-06-20,OG-019656,Synthetic low-value coursework data
+Chile,Valparaiso,18,Good,13,Good,4,Good,36,Good,17,Good,Fishing Waste,2025-04-19,OG-024620,Synthetic low-value coursework data
+Sri Lanka,Colombo,32,Good,33,Good,15,Good,47,Good,35,Good,Plastic,2025-01-01,OG-022523,Synthetic low-value coursework data
+Brazil,Recife,41,Good,43,Good,42,Good,42,Good,36,Good,Fishing Waste,2024-06-09,OG-011707,Synthetic low-value coursework data
+Chile,Valparaiso,24,Good,44,Good,11,Good,4,Good,35,Good,Plastic,2023-09-29,OG-018907,Synthetic low-value coursework data
+Nigeria,Lagos,24,Good,10,Good,2,Good,49,Good,37,Good,Plastic,2022-08-31,OG-000776,Synthetic low-value coursework data
+South Africa,Cape Town,21,Good,27,Good,13,Good,2,Good,42,Good,Plastic,2022-02-24,OG-002492,Synthetic low-value coursework data
+Portugal,Lisbon,16,Good,18,Good,19,Good,15,Good,10,Good,Plastic,2022-09-30,OG-017456,Synthetic low-value coursework data
+Chile,Valparaiso,32,Good,29,Good,41,Good,16,Good,40,Good,Plastic,2024-12-04,OG-016213,Synthetic low-value coursework data
+Australia,Sydney,21,Good,4,Good,31,Good,14,Good,34,Good,Oil,2023-10-12,OG-024066,Synthetic low-value coursework data
+South Korea,Busan,24,Good,3,Good,13,Good,32,Good,49,Good,Oil,2025-01-04,OG-020465,Synthetic low-value coursework data
+United States,Miami,21,Good,9,Good,42,Good,16,Good,16,Good,Fishing Waste,2024-08-06,OG-004142,Synthetic low-value coursework data
+United States,San Diego,30,Good,19,Good,42,Good,25,Good,35,Good,Plastic,2022-12-19,OG-000333,Synthetic low-value coursework data
+United States,San Diego,39,Good,24,Good,47,Good,49,Good,36,Good,Plastic,2025-11-05,OG-020337,Synthetic low-value coursework data
+United States,San Diego,40,Good,37,Good,35,Good,48,Good,42,Good,Plastic,2023-10-20,OG-007649,Synthetic low-value coursework data
+Mexico,Cancun,28,Good,20,Good,49,Good,42,Good,2,Good,Plastic,2023-09-27,OG-009668,Synthetic low-value coursework data
+Chile,Valparaiso,18,Good,14,Good,3,Good,48,Good,5,Good,Plastic,2025-11-29,OG-004316,Synthetic low-value coursework data
+Brazil,Recife,24,Good,26,Good,33,Good,6,Good,30,Good,Fishing Waste,2024-01-30,OG-015010,Synthetic low-value coursework data
+Ghana,Accra,30,Good,50,Good,18,Good,50,Good,1,Good,Plastic,2025-03-26,OG-012787,Synthetic low-value coursework data
+Sri Lanka,Colombo,22,Good,9,Good,46,Good,26,Good,6,Good,Plastic,2022-01-29,OG-018853,Synthetic low-value coursework data
+United States,Miami,20,Good,10,Good,19,Good,39,Good,11,Good,Fishing Waste,2024-06-12,OG-020321,Synthetic low-value coursework data
+Morocco,Casablanca,28,Good,25,Good,15,Good,43,Good,30,Good,Plastic,2022-11-10,OG-012261,Synthetic low-value coursework data
+Portugal,Lisbon,11,Good,1,Good,4,Good,1,Good,39,Good,Fishing Waste,2022-03-20,OG-015265,Synthetic low-value coursework data
+United States,Seattle,22,Good,11,Good,39,Good,35,Good,4,Good,Fishing Waste,2025-02-18,OG-020782,Synthetic low-value coursework data
+Morocco,Casablanca,27,Good,31,Good,17,Good,46,Good,13,Good,Fishing Waste,2022-10-12,OG-017502,Synthetic low-value coursework data
+United States,San Diego,30,Good,40,Good,45,Good,20,Good,17,Good,Other,2022-10-01,OG-003767,Synthetic low-value coursework data
+Chile,Valparaiso,27,Good,30,Good,46,Good,13,Good,19,Good,Oil,2024-12-08,OG-014473,Synthetic low-value coursework data
+Canada,Vancouver,22,Good,36,Good,46,Good,1,Good,3,Good,Sewage,2024-05-16,OG-017526,Synthetic low-value coursework data
+Australia,Sydney,26,Good,29,Good,17,Good,21,Good,36,Good,Fishing Waste,2025-09-15,OG-020643,Synthetic low-value coursework data
+Canada,Vancouver,36,Good,27,Good,45,Good,32,Good,41,Good,Plastic,2025-04-25,OG-005203,Synthetic low-value coursework data
+Nigeria,Lagos,24,Good,34,Good,32,Good,7,Good,23,Good,Fishing Waste,2024-01-16,OG-013960,Synthetic low-value coursework data
+New Zealand,Auckland,20,Good,7,Good,18,Good,24,Good,32,Good,Oil,2023-06-22,OG-003517,Synthetic low-value coursework data
+Australia,Perth,26,Good,1,Good,25,Good,41,Good,36,Good,Fishing Waste,2025-12-27,OG-021371,Synthetic low-value coursework data
+Spain,Barcelona,18,Good,22,Good,2,Good,10,Good,36,Good,Plastic,2024-02-04,OG-022873,Synthetic low-value coursework data
+Mexico,Cancun,22,Good,30,Good,12,Good,10,Good,37,Good,Plastic,2024-10-25,OG-003978,Synthetic low-value coursework data
+Indonesia,Bali,38,Good,43,Good,33,Good,35,Good,43,Good,Oil,2022-06-13,OG-005316,Synthetic low-value coursework data
+Nigeria,Lagos,20,Good,20,Good,23,Good,6,Good,29,Good,Plastic,2023-09-02,OG-000233,Synthetic low-value coursework data
+Australia,Sydney,33,Good,43,Good,35,Good,15,Good,40,Good,Plastic,2025-11-28,OG-011463,Synthetic low-value coursework data
+Indonesia,Bali,30,Good,34,Good,47,Good,12,Good,27,Good,Fishing Waste,2024-11-20,OG-021378,Synthetic low-value coursework data
+Indonesia,Bali,26,Good,8,Good,27,Good,42,Good,26,Good,Plastic,2025-03-27,OG-002072,Synthetic low-value coursework data
+Indonesia,Jakarta,19,Good,24,Good,3,Good,43,Good,5,Good,Plastic,2024-10-21,OG-009276,Synthetic low-value coursework data
+Nigeria,Lagos,36,Good,48,Good,36,Good,47,Good,14,Good,Plastic,2022-08-24,OG-004107,Synthetic low-value coursework data
+United Kingdom,Brighton,14,Good,4,Good,14,Good,17,Good,20,Good,Plastic,2024-05-21,OG-021138,Synthetic low-value coursework data
+United States,San Diego,29,Good,24,Good,34,Good,33,Good,24,Good,Plastic,2024-09-05,OG-020460,Synthetic low-value coursework data
+Netherlands,Rotterdam,32,Good,8,Good,39,Good,50,Good,31,Good,Plastic,2024-02-12,OG-018096,Synthetic low-value coursework data
+India,Mumbai,34,Good,37,Good,38,Good,28,Good,35,Good,Oil,2025-03-16,OG-020020,Synthetic low-value coursework data
+Nigeria,Lagos,16,Good,20,Good,1,Good,7,Good,35,Good,Oil,2022-08-23,OG-006785,Synthetic low-value coursework data
+Canada,Halifax,30,Good,39,Good,13,Good,41,Good,28,Good,Plastic,2025-02-12,OG-003418,Synthetic low-value coursework data
+Chile,Valparaiso,18,Good,12,Good,4,Good,14,Good,40,Good,Plastic,2023-05-23,OG-007490,Synthetic low-value coursework data
+Morocco,Casablanca,23,Good,34,Good,36,Good,7,Good,16,Good,Plastic,2023-06-08,OG-024104,Synthetic low-value coursework data
+Australia,Sydney,21,Good,26,Good,34,Good,8,Good,16,Good,Fishing Waste,2024-05-22,OG-002726,Synthetic low-value coursework data
+Canada,Halifax,33,Good,37,Good,34,Good,16,Good,45,Good,Plastic,2022-01-25,OG-009683,Synthetic low-value coursework data
+United States,Seattle,17,Good,6,Good,16,Good,22,Good,25,Good,Plastic,2023-03-15,OG-003198,Synthetic low-value coursework data
+United Kingdom,Brighton,20,Good,9,Good,12,Good,45,Good,16,Good,Plastic,2025-03-27,OG-015142,Synthetic low-value coursework data
+United States,San Diego,28,Good,40,Good,5,Good,36,Good,31,Good,Plastic,2025-05-17,OG-006456,Synthetic low-value coursework data
+Thailand,Phuket,18,Good,2,Good,43,Good,6,Good,23,Good,Plastic,2025-08-15,OG-023888,Synthetic low-value coursework data
+France,Marseille,27,Good,7,Good,43,Good,34,Good,23,Good,Plastic,2023-10-14,OG-015449,Synthetic low-value coursework data
+Chile,Valparaiso,16,Good,7,Good,6,Good,46,Good,7,Good,Plastic,2024-11-21,OG-010868,Synthetic low-value coursework data
+Australia,Sydney,10,Good,6,Good,4,Good,21,Good,10,Good,Oil,2024-08-28,OG-011899,Synthetic low-value coursework data
+Indonesia,Jakarta,25,Good,37,Good,6,Good,35,Good,21,Good,Plastic,2023-01-22,OG-008545,Synthetic low-value coursework data
+Chile,Valparaiso,36,Good,43,Good,41,Good,45,Good,13,Good,Oil,2025-02-23,OG-003892,Synthetic low-value coursework data
+Canada,Halifax,29,Good,4,Good,43,Good,39,Good,30,Good,Plastic,2025-05-18,OG-000334,Synthetic low-value coursework data
+United States,Miami,24,Good,20,Good,11,Good,48,Good,15,Good,Sewage,2025-06-02,OG-015366,Synthetic low-value coursework data
+Netherlands,Rotterdam,17,Good,12,Good,12,Good,15,Good,28,Good,Sewage,2022-08-11,OG-002770,Synthetic low-value coursework data
+India,Mumbai,32,Good,33,Good,6,Good,41,Good,50,Good,Plastic,2024-06-19,OG-005522,Synthetic low-value coursework data
+Brazil,Recife,16,Good,15,Good,33,Good,13,Good,1,Good,Sewage,2025-03-12,OG-017359,Synthetic low-value coursework data
+Canada,Halifax,29,Good,11,Good,23,Good,37,Good,44,Good,Oil,2025-03-24,OG-012649,Synthetic low-value coursework data
+Philippines,Manila,32,Good,40,Good,41,Good,10,Good,37,Good,Plastic,2023-07-22,OG-009043,Synthetic low-value coursework data
+Indonesia,Bali,24,Good,17,Good,18,Good,46,Good,15,Good,Plastic,2024-11-05,OG-009069,Synthetic low-value coursework data
+India,Mumbai,34,Good,39,Good,25,Good,40,Good,34,Good,Plastic,2025-07-06,OG-019895,Synthetic low-value coursework data
+United States,Miami,20,Good,11,Good,48,Good,1,Good,18,Good,Plastic,2024-11-28,OG-022008,Synthetic low-value coursework data
+Netherlands,Rotterdam,31,Good,27,Good,11,Good,49,Good,37,Good,Other,2024-11-19,OG-013078,Synthetic low-value coursework data
+Indonesia,Jakarta,36,Good,48,Good,30,Good,21,Good,47,Good,Plastic,2023-01-14,OG-017950,Synthetic low-value coursework data
+South Africa,Cape Town,28,Good,36,Good,9,Good,25,Good,40,Good,Fishing Waste,2023-03-19,OG-002386,Synthetic low-value coursework data
+Thailand,Phuket,33,Good,46,Good,24,Good,28,Good,34,Good,Plastic,2023-07-31,OG-017783,Synthetic low-value coursework data
+Canada,Halifax,28,Good,30,Good,34,Good,35,Good,14,Good,Sewage,2023-06-05,OG-003626,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,24,Good,47,Good,12,Good,22,Good,13,Good,Fishing Waste,2024-11-29,OG-022288,Synthetic low-value coursework data
+Nigeria,Lagos,24,Good,17,Good,4,Good,37,Good,39,Good,Plastic,2025-05-16,OG-022592,Synthetic low-value coursework data
+United States,Seattle,23,Good,15,Good,2,Good,41,Good,34,Good,Oil,2024-04-13,OG-016227,Synthetic low-value coursework data
+Spain,Barcelona,28,Good,6,Good,28,Good,49,Good,31,Good,Fishing Waste,2023-09-26,OG-001794,Synthetic low-value coursework data
+Nigeria,Lagos,19,Good,6,Good,13,Good,35,Good,23,Good,Plastic,2025-09-07,OG-003709,Synthetic low-value coursework data
+Indonesia,Bali,30,Good,41,Good,41,Good,9,Good,29,Good,Other,2023-08-11,OG-023610,Synthetic low-value coursework data
+Thailand,Phuket,25,Good,14,Good,47,Good,25,Good,14,Good,Plastic,2025-12-17,OG-012830,Synthetic low-value coursework data
+South Korea,Busan,42,Good,34,Good,38,Good,50,Good,48,Good,Plastic,2023-11-17,OG-022173,Synthetic low-value coursework data
+Ghana,Accra,31,Good,11,Good,38,Good,33,Good,42,Good,Fishing Waste,2024-04-11,OG-018054,Synthetic low-value coursework data
+United Kingdom,Brighton,17,Good,2,Good,1,Good,17,Good,49,Good,Plastic,2024-07-17,OG-003028,Synthetic low-value coursework data
+Japan,Osaka,31,Good,31,Good,9,Good,43,Good,40,Good,Fishing Waste,2024-01-17,OG-016634,Synthetic low-value coursework data
+Mexico,Cancun,17,Good,25,Good,2,Good,30,Good,10,Good,Plastic,2025-04-25,OG-001505,Synthetic low-value coursework data
+New Zealand,Auckland,42,Good,40,Good,46,Good,37,Good,47,Good,Sewage,2022-01-25,OG-005898,Synthetic low-value coursework data
+Canada,Halifax,32,Good,15,Good,46,Good,32,Good,34,Good,Plastic,2025-06-23,OG-004499,Synthetic low-value coursework data
+France,Marseille,27,Good,28,Good,40,Good,2,Good,38,Good,Plastic,2025-09-01,OG-024316,Synthetic low-value coursework data
+United Kingdom,Brighton,34,Good,20,Good,39,Good,50,Good,28,Good,Plastic,2023-12-11,OG-007408,Synthetic low-value coursework data
+Nigeria,Lagos,24,Good,18,Good,25,Good,42,Good,11,Good,Oil,2023-12-13,OG-023228,Synthetic low-value coursework data
+India,Mumbai,24,Good,9,Good,34,Good,26,Good,26,Good,Plastic,2022-09-21,OG-020322,Synthetic low-value coursework data
+Spain,Barcelona,24,Good,31,Good,18,Good,10,Good,38,Good,Plastic,2024-09-18,OG-011742,Synthetic low-value coursework data
+India,Chennai,22,Good,20,Good,22,Good,8,Good,39,Good,Sewage,2023-03-15,OG-000309,Synthetic low-value coursework data
+United States,San Diego,28,Good,5,Good,40,Good,27,Good,38,Good,Plastic,2023-04-26,OG-014953,Synthetic low-value coursework data
+Sri Lanka,Colombo,12,Good,3,Good,1,Good,12,Good,32,Good,Fishing Waste,2024-03-10,OG-009574,Synthetic low-value coursework data
+New Zealand,Auckland,30,Good,45,Good,18,Good,36,Good,23,Good,Sewage,2023-07-05,OG-010878,Synthetic low-value coursework data
+United States,San Diego,33,Good,23,Good,46,Good,19,Good,44,Good,Plastic,2023-08-22,OG-021424,Synthetic low-value coursework data
+Brazil,Recife,24,Good,13,Good,13,Good,26,Good,46,Good,Plastic,2022-01-29,OG-022932,Synthetic low-value coursework data
+Thailand,Phuket,20,Good,16,Good,15,Good,22,Good,25,Good,Plastic,2025-08-16,OG-013123,Synthetic low-value coursework data
+Thailand,Phuket,30,Good,9,Good,23,Good,44,Good,42,Good,Plastic,2025-03-27,OG-012268,Synthetic low-value coursework data
+Australia,Sydney,26,Good,46,Good,1,Good,31,Good,24,Good,Oil,2024-03-06,OG-005799,Synthetic low-value coursework data
+Mexico,Cancun,29,Good,42,Good,27,Good,4,Good,44,Good,Sewage,2024-01-25,OG-017142,Synthetic low-value coursework data
+United States,Seattle,33,Good,8,Good,43,Good,49,Good,31,Good,Plastic,2022-12-22,OG-019035,Synthetic low-value coursework data
+Canada,Vancouver,35,Good,41,Good,36,Good,34,Good,28,Good,Plastic,2022-08-17,OG-011981,Synthetic low-value coursework data
+United States,Seattle,19,Good,12,Good,18,Good,7,Good,39,Good,Oil,2025-12-26,OG-005565,Synthetic low-value coursework data
+Ghana,Accra,30,Good,16,Good,16,Good,46,Good,43,Good,Plastic,2025-08-29,OG-021954,Synthetic low-value coursework data
+Sri Lanka,Colombo,34,Good,50,Good,22,Good,30,Good,36,Good,Sewage,2025-06-05,OG-010714,Synthetic low-value coursework data
+South Africa,Cape Town,33,Good,44,Good,20,Good,40,Good,28,Good,Plastic,2022-12-30,OG-012459,Synthetic low-value coursework data
+Spain,Barcelona,20,Good,7,Good,18,Good,43,Good,14,Good,Plastic,2024-09-30,OG-007863,Synthetic low-value coursework data
+France,Marseille,34,Good,19,Good,26,Good,49,Good,43,Good,Plastic,2023-08-22,OG-015759,Synthetic low-value coursework data
+United States,Seattle,23,Good,12,Good,29,Good,32,Good,19,Good,Plastic,2025-05-22,OG-002008,Synthetic low-value coursework data
+Indonesia,Bali,26,Good,14,Good,43,Good,6,Good,40,Good,Plastic,2022-11-12,OG-019288,Synthetic low-value coursework data
+Spain,Barcelona,32,Good,45,Good,47,Good,33,Good,2,Good,Fishing Waste,2023-07-18,OG-022751,Synthetic low-value coursework data
+Sri Lanka,Colombo,28,Good,50,Good,20,Good,2,Good,41,Good,Sewage,2023-02-21,OG-009154,Synthetic low-value coursework data
+Canada,Vancouver,33,Good,41,Good,19,Good,38,Good,33,Good,Fishing Waste,2022-07-14,OG-014409,Synthetic low-value coursework data
+Japan,Osaka,17,Good,16,Good,30,Good,9,Good,14,Good,Plastic,2025-11-12,OG-023210,Synthetic low-value coursework data
+Portugal,Lisbon,13,Good,13,Good,9,Good,16,Good,15,Good,Plastic,2022-06-24,OG-011088,Synthetic low-value coursework data
+United Kingdom,Brighton,26,Good,14,Good,49,Good,12,Good,28,Good,Oil,2022-03-23,OG-001520,Synthetic low-value coursework data
+Australia,Sydney,18,Good,8,Good,32,Good,15,Good,17,Good,Fishing Waste,2024-12-16,OG-024635,Synthetic low-value coursework data
+Thailand,Phuket,4,Good,6,Good,5,Good,2,Good,2,Good,Sewage,2022-12-29,OG-007069,Synthetic low-value coursework data
+Japan,Osaka,32,Good,39,Good,13,Good,41,Good,34,Good,Sewage,2023-03-18,OG-005321,Synthetic low-value coursework data
+South Africa,Cape Town,40,Good,43,Good,50,Good,18,Good,48,Good,Plastic,2024-09-06,OG-000640,Synthetic low-value coursework data
+South Korea,Busan,20,Good,2,Good,22,Good,23,Good,31,Good,Sewage,2025-02-18,OG-000210,Synthetic low-value coursework data
+Mexico,Cancun,28,Good,18,Good,25,Good,23,Good,44,Good,Sewage,2025-04-14,OG-021491,Synthetic low-value coursework data
+Morocco,Casablanca,19,Good,8,Good,31,Good,34,Good,4,Good,Fishing Waste,2025-03-24,OG-021685,Synthetic low-value coursework data
+India,Mumbai,18,Good,19,Good,15,Good,27,Good,9,Good,Oil,2025-05-29,OG-022514,Synthetic low-value coursework data
+Thailand,Phuket,25,Good,47,Good,13,Good,32,Good,7,Good,Plastic,2025-11-12,OG-009290,Synthetic low-value coursework data
+Australia,Perth,26,Good,33,Good,41,Good,21,Good,10,Good,Plastic,2022-09-10,OG-002760,Synthetic low-value coursework data
+New Zealand,Auckland,29,Good,16,Good,35,Good,44,Good,22,Good,Plastic,2025-01-02,OG-002896,Synthetic low-value coursework data
+Spain,Barcelona,19,Good,17,Good,34,Good,3,Good,23,Good,Sewage,2025-08-13,OG-012927,Synthetic low-value coursework data
+Netherlands,Rotterdam,35,Good,47,Good,5,Good,50,Good,39,Good,Plastic,2023-06-14,OG-007516,Synthetic low-value coursework data
+South Africa,Cape Town,35,Good,25,Good,33,Good,50,Good,32,Good,Plastic,2024-10-10,OG-009379,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,34,Good,23,Good,27,Good,45,Good,43,Good,Sewage,2022-01-25,OG-007081,Synthetic low-value coursework data
+South Korea,Busan,35,Good,40,Good,2,Good,50,Good,49,Good,Plastic,2024-04-06,OG-010664,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,37,Good,19,Good,48,Good,32,Good,50,Good,Fishing Waste,2023-07-05,OG-021709,Synthetic low-value coursework data
+South Korea,Busan,30,Good,38,Good,21,Good,35,Good,25,Good,Other,2024-01-17,OG-006396,Synthetic low-value coursework data
+United States,Seattle,26,Good,4,Good,45,Good,35,Good,18,Good,Oil,2025-01-25,OG-011429,Synthetic low-value coursework data
+Spain,Barcelona,24,Good,5,Good,40,Good,9,Good,43,Good,Sewage,2022-09-22,OG-016823,Synthetic low-value coursework data
+Netherlands,Rotterdam,30,Good,14,Good,50,Good,30,Good,24,Good,Plastic,2023-07-29,OG-020408,Synthetic low-value coursework data
+New Zealand,Auckland,38,Good,47,Good,25,Good,45,Good,36,Good,Plastic,2025-12-01,OG-006613,Synthetic low-value coursework data
+Ghana,Accra,30,Good,11,Good,15,Good,47,Good,48,Good,Plastic,2023-11-30,OG-022561,Synthetic low-value coursework data
+United States,San Diego,16,Good,43,Good,3,Good,10,Good,7,Good,Plastic,2024-05-13,OG-014045,Synthetic low-value coursework data
+Chile,Valparaiso,30,Good,32,Good,42,Good,29,Good,15,Good,Sewage,2025-11-12,OG-016438,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,18,Good,14,Good,3,Good,36,Good,21,Good,Plastic,2023-01-15,OG-001598,Synthetic low-value coursework data
+South Africa,Cape Town,30,Good,29,Good,46,Good,2,Good,44,Good,Other,2022-06-21,OG-016925,Synthetic low-value coursework data
+Japan,Osaka,36,Good,34,Good,37,Good,49,Good,23,Good,Plastic,2022-04-16,OG-005737,Synthetic low-value coursework data
+France,Marseille,26,Good,39,Good,42,Good,15,Good,8,Good,Plastic,2025-02-25,OG-018809,Synthetic low-value coursework data
+Indonesia,Jakarta,17,Good,6,Good,39,Good,20,Good,4,Good,Fishing Waste,2023-01-19,OG-021499,Synthetic low-value coursework data
+India,Mumbai,28,Good,30,Good,34,Good,47,Good,1,Good,Fishing Waste,2025-08-28,OG-004430,Synthetic low-value coursework data
+India,Mumbai,21,Good,12,Good,28,Good,4,Good,41,Good,Plastic,2024-08-10,OG-003840,Synthetic low-value coursework data
+India,Chennai,23,Good,35,Good,14,Good,27,Good,16,Good,Fishing Waste,2024-01-02,OG-012136,Synthetic low-value coursework data
+Spain,Barcelona,13,Good,10,Good,2,Good,25,Good,14,Good,Fishing Waste,2024-05-17,OG-007944,Synthetic low-value coursework data
+Japan,Osaka,25,Good,30,Good,17,Good,50,Good,2,Good,Plastic,2023-06-23,OG-024852,Synthetic low-value coursework data
+Indonesia,Bali,26,Good,12,Good,38,Good,11,Good,45,Good,Plastic,2025-10-26,OG-012260,Synthetic low-value coursework data
+South Africa,Cape Town,14,Good,22,Good,7,Good,24,Good,1,Good,Plastic,2025-06-08,OG-023336,Synthetic low-value coursework data
+Morocco,Casablanca,28,Good,4,Good,32,Good,50,Good,24,Good,Plastic,2023-05-22,OG-010503,Synthetic low-value coursework data
+United Kingdom,Brighton,25,Good,17,Good,26,Good,29,Good,29,Good,Sewage,2024-12-24,OG-017283,Synthetic low-value coursework data
+Indonesia,Bali,22,Good,41,Good,21,Good,17,Good,9,Good,Plastic,2022-05-02,OG-021497,Synthetic low-value coursework data
+Indonesia,Jakarta,30,Good,4,Good,38,Good,42,Good,34,Good,Fishing Waste,2024-11-19,OG-006320,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,38,Good,42,Good,24,Good,49,Good,36,Good,Oil,2024-04-04,OG-016030,Synthetic low-value coursework data
+Brazil,Recife,22,Good,13,Good,29,Good,17,Good,29,Good,Plastic,2025-06-21,OG-020905,Synthetic low-value coursework data
+Canada,Vancouver,22,Good,21,Good,3,Good,43,Good,23,Good,Oil,2022-12-02,OG-014022,Synthetic low-value coursework data
+Ghana,Accra,32,Good,21,Good,37,Good,45,Good,24,Good,Fishing Waste,2025-03-22,OG-021134,Synthetic low-value coursework data
+Brazil,Recife,32,Good,1,Good,32,Good,45,Good,48,Good,Plastic,2025-03-19,OG-005642,Synthetic low-value coursework data
+India,Chennai,30,Good,43,Good,30,Good,22,Good,24,Good,Sewage,2022-06-30,OG-000113,Synthetic low-value coursework data
+Canada,Halifax,22,Good,42,Good,29,Good,6,Good,13,Good,Plastic,2025-10-28,OG-002275,Synthetic low-value coursework data
+Australia,Perth,22,Good,10,Good,5,Good,40,Good,34,Good,Plastic,2024-06-02,OG-010486,Synthetic low-value coursework data
+Nigeria,Lagos,22,Good,21,Good,3,Good,33,Good,29,Good,Oil,2025-09-12,OG-008570,Synthetic low-value coursework data
+Brazil,Recife,30,Good,20,Good,34,Good,44,Good,22,Good,Sewage,2025-12-25,OG-009889,Synthetic low-value coursework data
+Philippines,Manila,22,Good,18,Good,23,Good,6,Good,39,Good,Plastic,2025-09-18,OG-001368,Synthetic low-value coursework data
+United States,Miami,37,Good,42,Good,46,Good,23,Good,37,Good,Plastic,2022-06-20,OG-013622,Synthetic low-value coursework data
+Philippines,Manila,20,Good,37,Good,19,Good,22,Good,2,Good,Fishing Waste,2025-10-11,OG-011219,Synthetic low-value coursework data
+Australia,Perth,14,Good,2,Good,17,Good,12,Good,24,Good,Plastic,2022-10-09,OG-007065,Synthetic low-value coursework data
+United States,San Diego,19,Good,11,Good,31,Good,29,Good,6,Good,Plastic,2025-04-19,OG-004106,Synthetic low-value coursework data
+Ghana,Accra,28,Good,26,Good,43,Good,14,Good,29,Good,Fishing Waste,2023-01-24,OG-022132,Synthetic low-value coursework data
+Spain,Barcelona,35,Good,20,Good,24,Good,47,Good,50,Good,Oil,2022-07-15,OG-006957,Synthetic low-value coursework data
+United States,Seattle,37,Good,25,Good,50,Good,28,Good,46,Good,Plastic,2023-08-21,OG-019173,Synthetic low-value coursework data
+Philippines,Manila,36,Good,42,Good,33,Good,30,Good,41,Good,Fishing Waste,2025-02-14,OG-006085,Synthetic low-value coursework data
+Japan,Osaka,27,Good,9,Good,29,Good,36,Good,34,Good,Oil,2023-11-29,OG-008852,Synthetic low-value coursework data
+United States,Seattle,27,Good,46,Good,20,Good,10,Good,33,Good,Plastic,2024-08-15,OG-013141,Synthetic low-value coursework data
+Thailand,Phuket,32,Good,39,Good,29,Good,20,Good,42,Good,Plastic,2025-09-02,OG-010368,Synthetic low-value coursework data
+Ghana,Accra,30,Good,39,Good,23,Good,25,Good,34,Good,Oil,2022-09-18,OG-024697,Synthetic low-value coursework data
+Brazil,Recife,32,Good,24,Good,36,Good,35,Good,33,Good,Plastic,2025-05-25,OG-002817,Synthetic low-value coursework data
+France,Marseille,18,Good,7,Good,10,Good,5,Good,48,Good,Fishing Waste,2024-08-09,OG-023646,Synthetic low-value coursework data
+Indonesia,Bali,28,Good,34,Good,14,Good,44,Good,18,Good,Plastic,2022-04-28,OG-006564,Synthetic low-value coursework data
+New Zealand,Auckland,24,Good,10,Good,35,Good,34,Good,18,Good,Plastic,2025-02-18,OG-009785,Synthetic low-value coursework data
+Ghana,Accra,36,Good,47,Good,12,Good,39,Good,47,Good,Fishing Waste,2025-04-23,OG-009075,Synthetic low-value coursework data
+Japan,Osaka,17,Good,25,Good,15,Good,8,Good,20,Good,Plastic,2025-05-31,OG-020051,Synthetic low-value coursework data
+United States,San Diego,34,Good,38,Good,42,Good,40,Good,18,Good,Fishing Waste,2024-05-16,OG-001000,Synthetic low-value coursework data
+Canada,Vancouver,12,Good,18,Good,2,Good,9,Good,19,Good,Plastic,2024-07-27,OG-012258,Synthetic low-value coursework data
+Philippines,Manila,22,Good,42,Good,23,Good,11,Good,11,Good,Other,2024-07-28,OG-015423,Synthetic low-value coursework data
+Brazil,Recife,33,Good,44,Good,22,Good,40,Good,25,Good,Oil,2025-09-21,OG-007981,Synthetic low-value coursework data
+United Kingdom,Brighton,14,Good,17,Good,2,Good,33,Good,3,Good,Plastic,2024-02-10,OG-014724,Synthetic low-value coursework data
+Australia,Sydney,20,Good,32,Good,28,Good,2,Good,17,Good,Sewage,2024-04-22,OG-002775,Synthetic low-value coursework data
+Nigeria,Lagos,20,Good,3,Good,20,Good,33,Good,24,Good,Plastic,2023-01-11,OG-000893,Synthetic low-value coursework data
+Spain,Barcelona,16,Good,20,Good,36,Good,1,Good,9,Good,Plastic,2022-06-01,OG-009217,Synthetic low-value coursework data
+Ghana,Accra,24,Good,7,Good,27,Good,19,Good,44,Good,Fishing Waste,2022-06-26,OG-014101,Synthetic low-value coursework data
+United States,Miami,17,Good,11,Good,31,Good,9,Good,16,Good,Plastic,2024-07-19,OG-020391,Synthetic low-value coursework data
+Japan,Osaka,33,Good,37,Good,45,Good,14,Good,35,Good,Fishing Waste,2024-10-19,OG-007436,Synthetic low-value coursework data
+Canada,Halifax,20,Good,22,Good,9,Good,32,Good,16,Good,Oil,2025-09-03,OG-017259,Synthetic low-value coursework data
+Ghana,Accra,24,Good,19,Good,39,Good,9,Good,30,Good,Sewage,2025-06-20,OG-019031,Synthetic low-value coursework data
+Spain,Barcelona,20,Good,29,Good,41,Good,9,Good,1,Good,Plastic,2025-10-07,OG-008584,Synthetic low-value coursework data
+Brazil,Recife,22,Good,9,Good,9,Good,44,Good,27,Good,Plastic,2023-09-06,OG-016465,Synthetic low-value coursework data
+Netherlands,Rotterdam,23,Good,25,Good,2,Good,22,Good,44,Good,Plastic,2024-02-22,OG-014260,Synthetic low-value coursework data
+Japan,Osaka,32,Good,44,Good,3,Good,50,Good,33,Good,Plastic,2023-08-31,OG-017138,Synthetic low-value coursework data
+India,Chennai,37,Good,36,Good,43,Good,30,Good,39,Good,Other,2024-01-14,OG-024977,Synthetic low-value coursework data
+France,Marseille,22,Good,3,Good,7,Good,34,Good,46,Good,Fishing Waste,2022-05-14,OG-001152,Synthetic low-value coursework data
+Mexico,Cancun,18,Good,8,Good,37,Good,18,Good,8,Good,Plastic,2025-09-08,OG-013105,Synthetic low-value coursework data
+Philippines,Manila,32,Good,40,Good,42,Good,38,Good,6,Good,Plastic,2024-09-30,OG-004573,Synthetic low-value coursework data
+Ghana,Accra,27,Good,22,Good,42,Good,39,Good,5,Good,Plastic,2024-01-21,OG-024078,Synthetic low-value coursework data
+Thailand,Phuket,32,Good,2,Good,45,Good,31,Good,50,Good,Oil,2023-12-06,OG-009534,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,26,Good,42,Good,1,Good,22,Good,37,Good,Plastic,2023-06-09,OG-013194,Synthetic low-value coursework data
+South Africa,Cape Town,40,Good,28,Good,45,Good,39,Good,50,Good,Plastic,2023-04-26,OG-023957,Synthetic low-value coursework data
+Nigeria,Lagos,25,Good,25,Good,26,Good,28,Good,21,Good,Sewage,2023-04-15,OG-024631,Synthetic low-value coursework data
+Ghana,Accra,23,Good,26,Good,34,Good,20,Good,12,Good,Sewage,2025-07-24,OG-009803,Synthetic low-value coursework data
+France,Marseille,18,Good,9,Good,44,Good,10,Good,7,Good,Fishing Waste,2023-06-18,OG-001160,Synthetic low-value coursework data
+Canada,Vancouver,20,Good,19,Good,10,Good,17,Good,32,Good,Plastic,2022-12-27,OG-004550,Synthetic low-value coursework data
+Indonesia,Jakarta,25,Good,37,Good,50,Good,3,Good,9,Good,Plastic,2024-08-31,OG-005475,Synthetic low-value coursework data
+United Kingdom,Brighton,23,Good,2,Good,31,Good,11,Good,48,Good,Other,2024-03-01,OG-018502,Synthetic low-value coursework data
+United States,Seattle,27,Good,30,Good,2,Good,28,Good,48,Good,Other,2022-02-14,OG-000469,Synthetic low-value coursework data
+Chile,Valparaiso,28,Good,13,Good,32,Good,21,Good,47,Good,Sewage,2022-03-07,OG-021096,Synthetic low-value coursework data
+Thailand,Phuket,33,Good,41,Good,39,Good,30,Good,22,Good,Sewage,2023-03-02,OG-007514,Synthetic low-value coursework data
+Ghana,Accra,12,Good,16,Good,2,Good,8,Good,22,Good,Plastic,2022-02-10,OG-023895,Synthetic low-value coursework data
+United Kingdom,Brighton,34,Good,40,Good,50,Good,26,Good,18,Good,Plastic,2023-02-11,OG-013441,Synthetic low-value coursework data
+Philippines,Manila,29,Good,28,Good,7,Good,31,Good,50,Good,Plastic,2024-05-23,OG-013528,Synthetic low-value coursework data
+Philippines,Manila,29,Good,33,Good,8,Good,48,Good,27,Good,Plastic,2024-03-06,OG-018561,Synthetic low-value coursework data
+Brazil,Recife,21,Good,39,Good,12,Good,6,Good,26,Good,Plastic,2024-01-06,OG-008055,Synthetic low-value coursework data
+Sri Lanka,Colombo,27,Good,41,Good,11,Good,6,Good,49,Good,Oil,2024-03-30,OG-008391,Synthetic low-value coursework data
+Chile,Valparaiso,31,Good,10,Good,49,Good,39,Good,26,Good,Oil,2022-02-05,OG-018401,Synthetic low-value coursework data
+Canada,Halifax,38,Good,48,Good,43,Good,46,Good,16,Good,Fishing Waste,2023-05-07,OG-020354,Synthetic low-value coursework data
+Brazil,Recife,20,Good,30,Good,26,Good,20,Good,5,Good,Sewage,2025-06-17,OG-016907,Synthetic low-value coursework data
+Canada,Halifax,29,Good,37,Good,34,Good,33,Good,12,Good,Plastic,2022-02-12,OG-008152,Synthetic low-value coursework data
+Sri Lanka,Colombo,16,Good,28,Good,18,Good,6,Good,11,Good,Oil,2025-05-29,OG-017162,Synthetic low-value coursework data
+Indonesia,Bali,30,Good,48,Good,14,Good,26,Good,33,Good,Plastic,2024-07-20,OG-016569,Synthetic low-value coursework data
+Nigeria,Lagos,40,Good,50,Good,30,Good,45,Good,36,Good,Sewage,2022-01-29,OG-020929,Synthetic low-value coursework data
+Morocco,Casablanca,26,Good,12,Good,34,Good,33,Good,24,Good,Plastic,2022-03-08,OG-024152,Synthetic low-value coursework data
+Philippines,Manila,17,Good,18,Good,15,Good,11,Good,25,Good,Oil,2023-09-27,OG-012661,Synthetic low-value coursework data
+Indonesia,Bali,24,Good,17,Good,39,Good,17,Good,24,Good,Plastic,2025-05-31,OG-022848,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,30,Good,29,Good,14,Good,42,Good,33,Good,Plastic,2025-02-18,OG-002606,Synthetic low-value coursework data
+Australia,Perth,25,Good,15,Good,48,Good,21,Good,16,Good,Fishing Waste,2023-04-22,OG-002250,Synthetic low-value coursework data
+Brazil,Recife,27,Good,37,Good,50,Good,6,Good,15,Good,Fishing Waste,2025-11-18,OG-021967,Synthetic low-value coursework data
+Canada,Vancouver,31,Good,15,Good,38,Good,27,Good,45,Good,Plastic,2024-06-06,OG-010677,Synthetic low-value coursework data
+Canada,Halifax,26,Good,18,Good,6,Good,50,Good,32,Good,Oil,2024-12-01,OG-002875,Synthetic low-value coursework data
+New Zealand,Auckland,20,Good,31,Good,3,Good,3,Good,44,Good,Other,2025-12-10,OG-024496,Synthetic low-value coursework data
+India,Mumbai,35,Good,45,Good,27,Good,49,Good,19,Good,Plastic,2025-11-17,OG-019992,Synthetic low-value coursework data
+Canada,Halifax,26,Good,19,Good,20,Good,19,Good,46,Good,Fishing Waste,2023-10-26,OG-018337,Synthetic low-value coursework data
+India,Mumbai,25,Good,22,Good,25,Good,13,Good,39,Good,Plastic,2025-09-21,OG-022890,Synthetic low-value coursework data
+Nigeria,Lagos,39,Good,50,Good,32,Good,25,Good,48,Good,Plastic,2024-09-27,OG-000994,Synthetic low-value coursework data
+New Zealand,Auckland,24,Good,37,Good,1,Good,44,Good,13,Good,Sewage,2022-03-17,OG-009317,Synthetic low-value coursework data
+United Kingdom,Brighton,15,Good,18,Good,13,Good,17,Good,13,Good,Fishing Waste,2022-11-26,OG-019599,Synthetic low-value coursework data
+Sri Lanka,Colombo,36,Good,35,Good,20,Good,41,Good,50,Good,Plastic,2023-05-18,OG-000524,Synthetic low-value coursework data
+Sri Lanka,Colombo,20,Good,24,Good,17,Good,27,Good,14,Good,Oil,2023-01-16,OG-009092,Synthetic low-value coursework data
+Canada,Vancouver,25,Good,47,Good,1,Good,31,Good,21,Good,Plastic,2025-05-21,OG-009548,Synthetic low-value coursework data
+South Africa,Cape Town,21,Good,8,Good,50,Good,3,Good,24,Good,Oil,2024-09-26,OG-005179,Synthetic low-value coursework data
+South Africa,Cape Town,16,Good,28,Good,6,Good,22,Good,7,Good,Plastic,2023-11-07,OG-006184,Synthetic low-value coursework data
+Morocco,Casablanca,19,Good,24,Good,7,Good,7,Good,37,Good,Fishing Waste,2022-01-14,OG-009356,Synthetic low-value coursework data
+India,Mumbai,36,Good,31,Good,33,Good,45,Good,35,Good,Fishing Waste,2025-06-15,OG-008284,Synthetic low-value coursework data
+Australia,Perth,20,Good,25,Good,37,Good,10,Good,9,Good,Sewage,2025-05-16,OG-012333,Synthetic low-value coursework data
+India,Mumbai,25,Good,3,Good,41,Good,10,Good,47,Good,Fishing Waste,2022-04-18,OG-001225,Synthetic low-value coursework data
+New Zealand,Auckland,26,Good,22,Good,8,Good,35,Good,41,Good,Plastic,2023-03-01,OG-015825,Synthetic low-value coursework data
+South Africa,Cape Town,23,Good,34,Good,6,Good,33,Good,19,Good,Plastic,2024-07-10,OG-021987,Synthetic low-value coursework data
+Australia,Perth,26,Good,23,Good,12,Good,21,Good,49,Good,Plastic,2023-05-25,OG-024805,Synthetic low-value coursework data
+United States,San Diego,23,Good,36,Good,8,Good,3,Good,45,Good,Fishing Waste,2024-02-28,OG-014235,Synthetic low-value coursework data
+Indonesia,Bali,29,Good,46,Good,2,Good,22,Good,47,Good,Oil,2022-11-11,OG-007252,Synthetic low-value coursework data
+United States,San Diego,37,Good,49,Good,35,Good,20,Good,45,Good,Plastic,2024-12-01,OG-002561,Synthetic low-value coursework data
+Canada,Halifax,29,Good,31,Good,42,Good,21,Good,23,Good,Fishing Waste,2025-04-13,OG-000305,Synthetic low-value coursework data
+New Zealand,Auckland,24,Good,18,Good,28,Good,45,Good,5,Good,Plastic,2025-05-03,OG-001900,Synthetic low-value coursework data
+South Korea,Busan,21,Good,38,Good,30,Good,6,Good,11,Good,Oil,2023-07-04,OG-002090,Synthetic low-value coursework data
+India,Mumbai,34,Good,45,Good,32,Good,18,Good,43,Good,Plastic,2024-08-17,OG-023204,Synthetic low-value coursework data
+Indonesia,Jakarta,24,Good,8,Good,44,Good,20,Good,26,Good,Plastic,2022-02-09,OG-014582,Synthetic low-value coursework data
+Brazil,Recife,29,Good,10,Good,42,Good,30,Good,34,Good,Plastic,2023-02-27,OG-019184,Synthetic low-value coursework data
+United States,Seattle,22,Good,8,Good,30,Good,8,Good,43,Good,Plastic,2025-06-05,OG-005874,Synthetic low-value coursework data
+United States,San Diego,33,Good,29,Good,47,Good,37,Good,20,Good,Plastic,2023-08-02,OG-004547,Synthetic low-value coursework data
+Brazil,Recife,27,Good,24,Good,48,Good,5,Good,30,Good,Plastic,2025-01-05,OG-007578,Synthetic low-value coursework data
+Australia,Sydney,32,Good,21,Good,49,Good,34,Good,22,Good,Plastic,2025-04-18,OG-016075,Synthetic low-value coursework data
+Japan,Osaka,25,Good,48,Good,42,Good,6,Good,4,Good,Fishing Waste,2023-09-17,OG-007268,Synthetic low-value coursework data
+France,Marseille,26,Good,11,Good,25,Good,48,Good,20,Good,Other,2024-12-28,OG-002036,Synthetic low-value coursework data
+Australia,Sydney,24,Good,44,Good,15,Good,8,Good,31,Good,Plastic,2024-07-19,OG-022327,Synthetic low-value coursework data
+New Zealand,Auckland,15,Good,11,Good,6,Good,10,Good,33,Good,Plastic,2025-02-25,OG-019550,Synthetic low-value coursework data
+Canada,Vancouver,13,Good,1,Good,8,Good,38,Good,5,Good,Plastic,2023-04-03,OG-018965,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,33,Good,48,Good,45,Good,30,Good,8,Good,Plastic,2022-01-05,OG-003237,Synthetic low-value coursework data
+France,Marseille,24,Good,41,Good,11,Good,43,Good,2,Good,Plastic,2024-09-23,OG-021676,Synthetic low-value coursework data
+Indonesia,Bali,24,Good,23,Good,20,Good,5,Good,49,Good,Fishing Waste,2023-07-12,OG-019130,Synthetic low-value coursework data
+New Zealand,Auckland,31,Good,23,Good,45,Good,49,Good,6,Good,Fishing Waste,2022-03-25,OG-014678,Synthetic low-value coursework data
+Morocco,Casablanca,28,Good,14,Good,14,Good,48,Good,34,Good,Plastic,2023-11-03,OG-001852,Synthetic low-value coursework data
+Canada,Vancouver,30,Good,3,Good,42,Good,26,Good,48,Good,Plastic,2024-09-14,OG-018409,Synthetic low-value coursework data
+United States,Seattle,28,Good,16,Good,41,Good,32,Good,25,Good,Plastic,2024-01-23,OG-020379,Synthetic low-value coursework data
+Nigeria,Lagos,31,Good,34,Good,38,Good,33,Good,18,Good,Fishing Waste,2024-08-19,OG-003967,Synthetic low-value coursework data
+Morocco,Casablanca,21,Good,30,Good,30,Good,7,Good,18,Good,Fishing Waste,2024-01-28,OG-004100,Synthetic low-value coursework data
+Sri Lanka,Colombo,29,Good,12,Good,26,Good,31,Good,47,Good,Oil,2023-11-08,OG-011647,Synthetic low-value coursework data
+United States,Seattle,26,Good,18,Good,38,Good,41,Good,5,Good,Oil,2025-02-12,OG-024695,Synthetic low-value coursework data
+Nigeria,Lagos,22,Good,33,Good,41,Good,3,Good,11,Good,Fishing Waste,2023-03-29,OG-009691,Synthetic low-value coursework data
+India,Chennai,19,Good,25,Good,40,Good,8,Good,2,Good,Plastic,2024-05-28,OG-009797,Synthetic low-value coursework data
+Ghana,Accra,31,Good,50,Good,12,Good,18,Good,45,Good,Plastic,2024-06-25,OG-019299,Synthetic low-value coursework data
+Australia,Perth,30,Good,40,Good,46,Good,3,Good,32,Good,Plastic,2022-06-03,OG-007635,Synthetic low-value coursework data
+India,Chennai,28,Good,31,Good,50,Good,10,Good,19,Good,Other,2024-05-05,OG-014851,Synthetic low-value coursework data
+Netherlands,Rotterdam,21,Good,11,Good,30,Good,2,Good,42,Good,Fishing Waste,2022-11-20,OG-022430,Synthetic low-value coursework data
+South Africa,Cape Town,28,Good,1,Good,33,Good,27,Good,49,Good,Sewage,2022-11-15,OG-019774,Synthetic low-value coursework data
+United Kingdom,Brighton,16,Good,22,Good,1,Good,29,Good,13,Good,Plastic,2025-06-12,OG-003454,Synthetic low-value coursework data
+Canada,Vancouver,32,Good,50,Good,25,Good,33,Good,20,Good,Oil,2025-02-16,OG-017975,Synthetic low-value coursework data
+Canada,Halifax,19,Good,28,Good,37,Good,4,Good,6,Good,Plastic,2025-08-15,OG-017438,Synthetic low-value coursework data
+New Zealand,Auckland,20,Good,22,Good,1,Good,37,Good,20,Good,Fishing Waste,2025-05-11,OG-022291,Synthetic low-value coursework data
+Australia,Perth,34,Good,47,Good,50,Good,3,Good,38,Good,Plastic,2025-01-17,OG-012547,Synthetic low-value coursework data
+Thailand,Phuket,39,Good,31,Good,47,Good,48,Good,31,Good,Sewage,2022-03-08,OG-012733,Synthetic low-value coursework data
+South Africa,Cape Town,32,Good,34,Good,47,Good,24,Good,24,Good,Other,2025-03-15,OG-015876,Synthetic low-value coursework data
+Spain,Barcelona,26,Good,46,Good,39,Good,12,Good,7,Good,Plastic,2024-09-10,OG-021504,Synthetic low-value coursework data
+Spain,Barcelona,19,Good,28,Good,8,Good,27,Good,13,Good,Plastic,2025-03-11,OG-012502,Synthetic low-value coursework data
+Chile,Valparaiso,24,Good,24,Good,21,Good,14,Good,35,Good,Plastic,2022-11-20,OG-020629,Synthetic low-value coursework data
+Indonesia,Jakarta,24,Good,41,Good,15,Good,27,Good,12,Good,Plastic,2022-01-09,OG-014760,Synthetic low-value coursework data
+United States,San Diego,22,Good,29,Good,35,Good,7,Good,19,Good,Plastic,2025-04-20,OG-004424,Synthetic low-value coursework data
+Brazil,Recife,22,Good,12,Good,20,Good,23,Good,31,Good,Plastic,2024-08-13,OG-014639,Synthetic low-value coursework data
+France,Marseille,14,Good,14,Good,14,Good,9,Good,19,Good,Plastic,2023-07-04,OG-021984,Synthetic low-value coursework data
+Brazil,Recife,30,Good,32,Good,44,Good,17,Good,25,Good,Fishing Waste,2022-09-21,OG-009091,Synthetic low-value coursework data
+United States,San Diego,22,Good,2,Good,40,Good,6,Good,40,Good,Plastic,2024-09-27,OG-002348,Synthetic low-value coursework data
+Indonesia,Jakarta,31,Good,19,Good,12,Good,45,Good,48,Good,Plastic,2022-06-20,OG-001254,Synthetic low-value coursework data
+South Africa,Cape Town,23,Good,40,Good,41,Good,8,Good,3,Good,Plastic,2023-04-20,OG-003142,Synthetic low-value coursework data
+Indonesia,Bali,36,Good,16,Good,43,Good,48,Good,36,Good,Plastic,2025-09-04,OG-024714,Synthetic low-value coursework data
+Ghana,Accra,25,Good,25,Good,32,Good,8,Good,34,Good,Sewage,2025-08-30,OG-012059,Synthetic low-value coursework data
+United States,Miami,26,Good,7,Good,50,Good,1,Good,47,Good,Sewage,2025-08-07,OG-007770,Synthetic low-value coursework data
+Brazil,Recife,19,Good,24,Good,26,Good,20,Good,6,Good,Plastic,2024-10-30,OG-023393,Synthetic low-value coursework data
+Morocco,Casablanca,23,Good,19,Good,47,Good,25,Good,2,Good,Fishing Waste,2023-03-02,OG-006269,Synthetic low-value coursework data
+United States,Seattle,26,Good,11,Good,41,Good,16,Good,38,Good,Plastic,2023-08-21,OG-005706,Synthetic low-value coursework data
+South Africa,Cape Town,23,Good,20,Good,25,Good,14,Good,33,Good,Plastic,2024-12-31,OG-016663,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,19,Good,16,Good,1,Good,35,Good,24,Good,Oil,2024-09-20,OG-000385,Synthetic low-value coursework data
+Portugal,Lisbon,22,Good,33,Good,18,Good,25,Good,12,Good,Fishing Waste,2022-12-15,OG-001625,Synthetic low-value coursework data
+United States,Seattle,20,Good,25,Good,4,Good,23,Good,29,Good,Oil,2023-08-01,OG-000570,Synthetic low-value coursework data
+Canada,Halifax,23,Good,12,Good,36,Good,19,Good,26,Good,Oil,2022-10-29,OG-013054,Synthetic low-value coursework data
+Canada,Halifax,26,Good,5,Good,45,Good,27,Good,29,Good,Fishing Waste,2024-12-04,OG-023932,Synthetic low-value coursework data
+South Korea,Busan,28,Good,14,Good,23,Good,27,Good,50,Good,Sewage,2024-07-18,OG-010935,Synthetic low-value coursework data
+United States,San Diego,34,Good,44,Good,30,Good,50,Good,12,Good,Plastic,2025-07-29,OG-013411,Synthetic low-value coursework data
+France,Marseille,17,Good,6,Good,46,Good,14,Good,2,Good,Other,2024-04-07,OG-008029,Synthetic low-value coursework data
+Spain,Barcelona,28,Good,7,Good,43,Good,42,Good,22,Good,Oil,2022-11-12,OG-008039,Synthetic low-value coursework data
+Mexico,Cancun,22,Good,14,Good,24,Good,46,Good,5,Good,Oil,2025-06-30,OG-006905,Synthetic low-value coursework data
+United Kingdom,Brighton,34,Good,19,Good,30,Good,49,Good,39,Good,Plastic,2022-01-05,OG-022548,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,26,Good,9,Good,17,Good,40,Good,36,Good,Plastic,2023-07-22,OG-001979,Synthetic low-value coursework data
+Ghana,Accra,24,Good,40,Good,43,Good,4,Good,7,Good,Sewage,2025-09-11,OG-001069,Synthetic low-value coursework data
+South Korea,Busan,28,Good,36,Good,17,Good,34,Good,23,Good,Plastic,2023-03-14,OG-015966,Synthetic low-value coursework data
+Indonesia,Bali,31,Good,23,Good,41,Good,49,Good,10,Good,Other,2022-01-22,OG-013181,Synthetic low-value coursework data
+Ghana,Accra,21,Good,37,Good,20,Good,4,Good,23,Good,Oil,2025-09-02,OG-006332,Synthetic low-value coursework data
+New Zealand,Auckland,17,Good,14,Good,3,Good,28,Good,22,Good,Plastic,2022-07-15,OG-009110,Synthetic low-value coursework data
+Philippines,Manila,33,Good,41,Good,13,Good,43,Good,35,Good,Fishing Waste,2024-09-22,OG-005065,Synthetic low-value coursework data
+India,Mumbai,14,Good,8,Good,4,Good,38,Good,8,Good,Fishing Waste,2023-06-25,OG-003139,Synthetic low-value coursework data
+United States,San Diego,18,Good,19,Good,35,Good,14,Good,5,Good,Plastic,2022-07-24,OG-000982,Synthetic low-value coursework data
+Nigeria,Lagos,42,Good,39,Good,39,Good,49,Good,43,Good,Fishing Waste,2022-09-20,OG-014862,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,27,Good,8,Good,27,Good,37,Good,37,Good,Plastic,2023-11-02,OG-006031,Synthetic low-value coursework data
+Sri Lanka,Colombo,32,Good,23,Good,46,Good,17,Good,40,Good,Sewage,2023-10-12,OG-023175,Synthetic low-value coursework data
+Netherlands,Rotterdam,29,Good,42,Good,48,Good,18,Good,7,Good,Oil,2023-08-15,OG-000481,Synthetic low-value coursework data
+Ghana,Accra,17,Good,33,Good,15,Good,2,Good,18,Good,Fishing Waste,2022-11-24,OG-008484,Synthetic low-value coursework data
+South Korea,Busan,24,Good,25,Good,47,Good,17,Good,8,Good,Plastic,2022-08-12,OG-013538,Synthetic low-value coursework data
+Australia,Perth,22,Good,34,Good,14,Good,28,Good,13,Good,Plastic,2025-11-08,OG-016638,Synthetic low-value coursework data
+United States,San Diego,24,Good,12,Good,26,Good,43,Good,14,Good,Sewage,2022-06-29,OG-008634,Synthetic low-value coursework data
+Thailand,Phuket,32,Good,14,Good,41,Good,39,Good,35,Good,Fishing Waste,2022-05-13,OG-013268,Synthetic low-value coursework data
+Thailand,Phuket,32,Good,15,Good,45,Good,48,Good,22,Good,Sewage,2025-12-16,OG-024075,Synthetic low-value coursework data
+South Africa,Cape Town,19,Good,16,Good,16,Good,24,Good,21,Good,Plastic,2024-04-03,OG-001612,Synthetic low-value coursework data
+Mexico,Cancun,16,Good,12,Good,8,Good,12,Good,33,Good,Plastic,2025-09-19,OG-005587,Synthetic low-value coursework data
+Sri Lanka,Colombo,21,Good,18,Good,20,Good,2,Good,43,Good,Plastic,2022-03-16,OG-020471,Synthetic low-value coursework data
+South Africa,Cape Town,22,Good,45,Good,4,Good,4,Good,37,Good,Fishing Waste,2025-08-21,OG-000034,Synthetic low-value coursework data
+Sri Lanka,Colombo,26,Good,40,Good,44,Good,14,Good,5,Good,Fishing Waste,2025-01-30,OG-017115,Synthetic low-value coursework data
+United States,San Diego,26,Good,35,Good,11,Good,15,Good,41,Good,Fishing Waste,2023-07-13,OG-006203,Synthetic low-value coursework data
+France,Marseille,13,Good,6,Good,9,Good,25,Good,13,Good,Fishing Waste,2022-07-08,OG-017958,Synthetic low-value coursework data
+Netherlands,Rotterdam,27,Good,29,Good,48,Good,10,Good,21,Good,Fishing Waste,2022-05-04,OG-011417,Synthetic low-value coursework data
+India,Chennai,21,Good,15,Good,28,Good,30,Good,12,Good,Fishing Waste,2025-03-04,OG-012909,Synthetic low-value coursework data
+Nigeria,Lagos,42,Good,43,Good,45,Good,38,Good,44,Good,Fishing Waste,2024-04-01,OG-015821,Synthetic low-value coursework data
+Spain,Barcelona,10,Good,6,Good,2,Good,6,Good,28,Good,Oil,2024-02-22,OG-014179,Synthetic low-value coursework data
+Nigeria,Lagos,20,Good,3,Good,46,Good,28,Good,3,Good,Fishing Waste,2025-07-27,OG-012952,Synthetic low-value coursework data
+United States,Seattle,28,Good,47,Good,6,Good,25,Good,36,Good,Fishing Waste,2023-05-07,OG-018471,Synthetic low-value coursework data
+South Africa,Cape Town,22,Good,24,Good,13,Good,3,Good,46,Good,Plastic,2022-11-06,OG-006675,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,35,Good,38,Good,45,Good,16,Good,40,Good,Plastic,2024-08-14,OG-008027,Synthetic low-value coursework data
+Australia,Perth,28,Good,29,Good,26,Good,14,Good,45,Good,Plastic,2025-01-04,OG-018059,Synthetic low-value coursework data
+South Africa,Cape Town,21,Good,20,Good,42,Good,1,Good,22,Good,Sewage,2024-04-30,OG-017646,Synthetic low-value coursework data
+Spain,Barcelona,25,Good,26,Good,33,Good,38,Good,2,Good,Oil,2023-02-24,OG-002903,Synthetic low-value coursework data
+Spain,Barcelona,23,Good,3,Good,30,Good,26,Good,32,Good,Other,2024-05-01,OG-005167,Synthetic low-value coursework data
+United Kingdom,Brighton,22,Good,50,Good,25,Good,6,Good,6,Good,Plastic,2024-06-10,OG-010962,Synthetic low-value coursework data
+United Kingdom,Brighton,36,Good,32,Good,39,Good,39,Good,35,Good,Fishing Waste,2024-05-16,OG-001871,Synthetic low-value coursework data
+United States,Miami,24,Good,29,Good,32,Good,6,Good,28,Good,Plastic,2022-10-21,OG-006251,Synthetic low-value coursework data
+Indonesia,Jakarta,32,Good,44,Good,29,Good,46,Good,10,Good,Plastic,2025-12-01,OG-008794,Synthetic low-value coursework data
+Indonesia,Jakarta,24,Good,35,Good,10,Good,5,Good,44,Good,Plastic,2025-03-11,OG-013190,Synthetic low-value coursework data
+Canada,Halifax,31,Good,33,Good,6,Good,46,Good,38,Good,Oil,2023-01-05,OG-002346,Synthetic low-value coursework data
+Portugal,Lisbon,19,Good,31,Good,19,Good,2,Good,23,Good,Sewage,2025-11-17,OG-012816,Synthetic low-value coursework data
+India,Mumbai,34,Good,31,Good,48,Good,23,Good,35,Good,Fishing Waste,2025-12-28,OG-018403,Synthetic low-value coursework data
+Indonesia,Bali,29,Good,44,Good,25,Good,10,Good,38,Good,Sewage,2022-01-27,OG-003205,Synthetic low-value coursework data
+France,Marseille,35,Good,21,Good,44,Good,45,Good,30,Good,Plastic,2025-06-01,OG-006355,Synthetic low-value coursework data
+South Korea,Busan,30,Good,44,Good,48,Good,1,Good,26,Good,Fishing Waste,2022-02-05,OG-021702,Synthetic low-value coursework data
+Australia,Sydney,28,Good,33,Good,32,Good,23,Good,22,Good,Oil,2023-06-10,OG-021675,Synthetic low-value coursework data
+Morocco,Casablanca,30,Good,42,Good,24,Good,26,Good,29,Good,Plastic,2022-08-09,OG-004116,Synthetic low-value coursework data
+Brazil,Recife,23,Good,1,Good,9,Good,35,Good,46,Good,Plastic,2024-07-13,OG-006072,Synthetic low-value coursework data
+United States,Seattle,39,Good,16,Good,50,Good,46,Good,43,Good,Oil,2025-04-27,OG-004660,Synthetic low-value coursework data
+Ghana,Accra,40,Good,44,Good,33,Good,49,Good,35,Good,Other,2025-12-08,OG-005615,Synthetic low-value coursework data
+India,Mumbai,33,Good,33,Good,50,Good,2,Good,46,Good,Plastic,2022-08-04,OG-000690,Synthetic low-value coursework data
+Portugal,Lisbon,35,Good,46,Good,48,Good,23,Good,24,Good,Plastic,2025-05-07,OG-014500,Synthetic low-value coursework data
+Brazil,Recife,18,Good,39,Good,11,Good,1,Good,22,Good,Plastic,2025-01-08,OG-011804,Synthetic low-value coursework data
+India,Chennai,21,Good,9,Good,13,Good,20,Good,42,Good,Oil,2024-01-05,OG-008342,Synthetic low-value coursework data
+Canada,Halifax,19,Good,20,Good,41,Good,5,Good,10,Good,Plastic,2025-01-25,OG-006106,Synthetic low-value coursework data
+Netherlands,Rotterdam,16,Good,3,Good,14,Good,24,Good,22,Good,Fishing Waste,2025-05-21,OG-003575,Synthetic low-value coursework data
+Nigeria,Lagos,32,Good,32,Good,25,Good,34,Good,38,Good,Plastic,2023-01-09,OG-009509,Synthetic low-value coursework data
+United States,San Diego,28,Good,39,Good,10,Good,37,Good,24,Good,Plastic,2022-12-16,OG-019319,Synthetic low-value coursework data
+Brazil,Recife,32,Good,23,Good,41,Good,50,Good,14,Good,Plastic,2022-11-12,OG-010753,Synthetic low-value coursework data
+India,Chennai,25,Good,29,Good,2,Good,33,Good,35,Good,Oil,2025-06-22,OG-019454,Synthetic low-value coursework data
+United States,Miami,26,Good,10,Good,15,Good,39,Good,41,Good,Plastic,2024-01-09,OG-023785,Synthetic low-value coursework data
+Sri Lanka,Colombo,34,Good,37,Good,22,Good,39,Good,36,Good,Plastic,2022-06-03,OG-012945,Synthetic low-value coursework data
+Japan,Osaka,20,Good,15,Good,2,Good,40,Good,25,Good,Oil,2024-09-20,OG-013170,Synthetic low-value coursework data
+Canada,Vancouver,23,Good,21,Good,30,Good,23,Good,19,Good,Oil,2025-03-14,OG-003505,Synthetic low-value coursework data
+Portugal,Lisbon,20,Good,16,Good,39,Good,17,Good,6,Good,Fishing Waste,2022-09-06,OG-009838,Synthetic low-value coursework data
+Thailand,Phuket,26,Good,48,Good,11,Good,32,Good,14,Good,Sewage,2022-06-30,OG-014535,Synthetic low-value coursework data
+France,Marseille,22,Good,16,Good,1,Good,26,Good,44,Good,Fishing Waste,2023-04-12,OG-004525,Synthetic low-value coursework data
+United States,Miami,17,Good,14,Good,6,Good,23,Good,26,Good,Plastic,2022-10-12,OG-021168,Synthetic low-value coursework data
+South Africa,Cape Town,39,Good,43,Good,37,Good,47,Good,29,Good,Plastic,2025-03-19,OG-001249,Synthetic low-value coursework data
+Brazil,Recife,20,Good,12,Good,24,Good,26,Good,19,Good,Plastic,2022-10-18,OG-017070,Synthetic low-value coursework data
+France,Marseille,29,Good,27,Good,30,Good,9,Good,50,Good,Plastic,2023-08-04,OG-014019,Synthetic low-value coursework data
+Japan,Osaka,34,Good,24,Good,36,Good,44,Good,30,Good,Fishing Waste,2022-07-31,OG-017358,Synthetic low-value coursework data
+United States,Miami,19,Good,17,Good,21,Good,27,Good,11,Good,Plastic,2023-07-28,OG-023988,Synthetic low-value coursework data
+United States,San Diego,16,Good,45,Good,10,Good,2,Good,8,Good,Plastic,2023-08-12,OG-002789,Synthetic low-value coursework data
+United States,Seattle,12,Good,13,Good,14,Good,17,Good,6,Good,Oil,2023-06-20,OG-019675,Synthetic low-value coursework data
+United States,Seattle,30,Good,49,Good,27,Good,27,Good,19,Good,Plastic,2023-09-11,OG-007267,Synthetic low-value coursework data
+United States,Seattle,40,Good,49,Good,32,Good,31,Good,49,Good,Plastic,2023-03-28,OG-020378,Synthetic low-value coursework data
+Japan,Osaka,15,Good,28,Good,1,Good,23,Good,8,Good,Oil,2025-09-24,OG-015349,Synthetic low-value coursework data
+South Africa,Cape Town,30,Good,47,Good,26,Good,31,Good,15,Good,Plastic,2022-06-06,OG-020553,Synthetic low-value coursework data
+Thailand,Phuket,31,Good,29,Good,31,Good,21,Good,44,Good,Plastic,2023-04-07,OG-020994,Synthetic low-value coursework data
+Mexico,Cancun,25,Good,48,Good,22,Good,22,Good,7,Good,Other,2023-02-14,OG-008988,Synthetic low-value coursework data
+Philippines,Manila,21,Good,8,Good,8,Good,49,Good,20,Good,Sewage,2025-12-25,OG-013854,Synthetic low-value coursework data
+Mexico,Cancun,20,Good,13,Good,1,Good,21,Good,46,Good,Plastic,2022-01-25,OG-024220,Synthetic low-value coursework data
+Canada,Vancouver,18,Good,21,Good,4,Good,10,Good,36,Good,Plastic,2025-10-26,OG-023171,Synthetic low-value coursework data
+India,Chennai,30,Good,28,Good,31,Good,49,Good,10,Good,Plastic,2022-10-15,OG-012407,Synthetic low-value coursework data
+South Africa,Cape Town,28,Good,6,Good,42,Good,46,Good,18,Good,Other,2022-10-03,OG-024427,Synthetic low-value coursework data
+Australia,Sydney,36,Good,30,Good,36,Good,41,Good,38,Good,Fishing Waste,2025-07-13,OG-008903,Synthetic low-value coursework data
+Ghana,Accra,15,Good,13,Good,12,Good,7,Good,28,Good,Plastic,2025-01-12,OG-006223,Synthetic low-value coursework data
+Canada,Vancouver,30,Good,48,Good,14,Good,31,Good,28,Good,Plastic,2022-09-24,OG-024253,Synthetic low-value coursework data
+France,Marseille,28,Good,19,Good,22,Good,50,Good,19,Good,Plastic,2023-09-21,OG-024029,Synthetic low-value coursework data
+South Africa,Cape Town,40,Good,31,Good,47,Good,44,Good,38,Good,Oil,2024-10-30,OG-017278,Synthetic low-value coursework data
+United States,Miami,32,Good,40,Good,11,Good,48,Good,30,Good,Fishing Waste,2023-05-01,OG-019644,Synthetic low-value coursework data
+Chile,Valparaiso,10,Good,9,Good,7,Good,15,Good,9,Good,Plastic,2024-08-09,OG-019524,Synthetic low-value coursework data
+Philippines,Manila,17,Good,4,Good,20,Good,17,Good,28,Good,Plastic,2024-04-25,OG-005465,Synthetic low-value coursework data
+Brazil,Recife,19,Good,18,Good,26,Good,2,Good,29,Good,Plastic,2022-02-21,OG-021557,Synthetic low-value coursework data
+Canada,Halifax,33,Good,37,Good,19,Good,50,Good,25,Good,Sewage,2023-08-07,OG-007575,Synthetic low-value coursework data
+South Korea,Busan,30,Good,47,Good,32,Good,9,Good,31,Good,Plastic,2025-08-14,OG-013436,Synthetic low-value coursework data
+France,Marseille,34,Good,23,Good,48,Good,33,Good,34,Good,Plastic,2022-06-19,OG-008449,Synthetic low-value coursework data
+New Zealand,Auckland,28,Good,15,Good,23,Good,32,Good,44,Good,Plastic,2023-10-05,OG-022215,Synthetic low-value coursework data
+Ghana,Accra,32,Good,48,Good,34,Good,32,Good,14,Good,Other,2022-08-13,OG-010393,Synthetic low-value coursework data
+France,Marseille,21,Good,41,Good,25,Good,7,Good,11,Good,Plastic,2022-03-28,OG-015888,Synthetic low-value coursework data
+Nigeria,Lagos,28,Good,12,Good,42,Good,24,Good,34,Good,Fishing Waste,2025-11-29,OG-020558,Synthetic low-value coursework data
+Canada,Halifax,20,Good,19,Good,31,Good,15,Good,17,Good,Plastic,2023-09-15,OG-001472,Synthetic low-value coursework data
+United Kingdom,Brighton,18,Good,34,Good,7,Good,10,Good,23,Good,Plastic,2023-04-16,OG-011596,Synthetic low-value coursework data
+Netherlands,Rotterdam,32,Good,35,Good,42,Good,6,Good,44,Good,Plastic,2025-04-06,OG-015976,Synthetic low-value coursework data
+Philippines,Manila,36,Good,25,Good,45,Good,32,Good,44,Good,Plastic,2023-07-28,OG-011697,Synthetic low-value coursework data
+Indonesia,Jakarta,18,Good,34,Good,12,Good,15,Good,11,Good,Plastic,2024-04-10,OG-023287,Synthetic low-value coursework data
+India,Mumbai,16,Good,46,Good,5,Good,7,Good,7,Good,Fishing Waste,2022-05-07,OG-024405,Synthetic low-value coursework data
+United States,Miami,24,Good,13,Good,33,Good,15,Good,34,Good,Plastic,2023-05-04,OG-024097,Synthetic low-value coursework data
+Brazil,Recife,27,Good,10,Good,47,Good,3,Good,47,Good,Plastic,2025-09-12,OG-011609,Synthetic low-value coursework data
+Japan,Osaka,27,Good,20,Good,26,Good,20,Good,43,Good,Plastic,2024-06-18,OG-014132,Synthetic low-value coursework data
+Philippines,Manila,27,Good,19,Good,7,Good,43,Good,39,Good,Oil,2022-05-24,OG-020357,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,41,Good,28,Good,47,Good,50,Good,39,Good,Plastic,2024-05-21,OG-008299,Synthetic low-value coursework data
+Morocco,Casablanca,38,Good,45,Good,43,Good,17,Good,49,Good,Plastic,2025-08-02,OG-006263,Synthetic low-value coursework data
+Nigeria,Lagos,42,Good,33,Good,42,Good,45,Good,46,Good,Plastic,2024-05-05,OG-007332,Synthetic low-value coursework data
+Philippines,Manila,38,Good,44,Good,47,Good,9,Good,50,Good,Fishing Waste,2025-10-18,OG-006610,Synthetic low-value coursework data
+Sri Lanka,Colombo,27,Good,10,Good,34,Good,17,Good,48,Good,Sewage,2025-05-06,OG-015404,Synthetic low-value coursework data
+South Africa,Cape Town,24,Good,6,Good,19,Good,40,Good,30,Good,Fishing Waste,2024-10-09,OG-002361,Synthetic low-value coursework data
+Australia,Perth,25,Good,34,Good,26,Good,7,Good,34,Good,Plastic,2025-06-29,OG-009681,Synthetic low-value coursework data
+Australia,Perth,31,Good,44,Good,17,Good,44,Good,18,Good,Other,2022-04-23,OG-023404,Synthetic low-value coursework data
+Sri Lanka,Colombo,20,Good,3,Good,28,Good,20,Good,30,Good,Oil,2025-09-21,OG-012297,Synthetic low-value coursework data
+United States,San Diego,28,Good,46,Good,35,Good,25,Good,4,Good,Plastic,2025-10-16,OG-003894,Synthetic low-value coursework data
+Japan,Osaka,30,Good,21,Good,19,Good,48,Good,33,Good,Plastic,2025-11-01,OG-001110,Synthetic low-value coursework data
+India,Mumbai,34,Good,31,Good,46,Good,48,Good,9,Good,Sewage,2025-02-13,OG-019918,Synthetic low-value coursework data
+United States,Miami,16,Good,4,Good,49,Good,1,Good,9,Good,Plastic,2024-09-19,OG-024341,Synthetic low-value coursework data
+South Korea,Busan,34,Good,26,Good,49,Good,28,Good,32,Good,Plastic,2022-07-31,OG-017437,Synthetic low-value coursework data
+Canada,Vancouver,30,Good,4,Good,33,Good,40,Good,43,Good,Plastic,2022-03-17,OG-004158,Synthetic low-value coursework data
+Canada,Vancouver,22,Good,33,Good,4,Good,1,Good,48,Good,Plastic,2024-09-30,OG-000983,Synthetic low-value coursework data
+New Zealand,Auckland,28,Good,9,Good,21,Good,35,Good,47,Good,Plastic,2022-07-17,OG-006359,Synthetic low-value coursework data
+Mexico,Cancun,38,Good,45,Good,43,Good,28,Good,35,Good,Plastic,2023-04-07,OG-016329,Synthetic low-value coursework data
+India,Chennai,26,Good,4,Good,30,Good,21,Good,49,Good,Plastic,2023-01-22,OG-010945,Synthetic low-value coursework data
+Mexico,Cancun,23,Good,10,Good,31,Good,15,Good,37,Good,Plastic,2025-05-21,OG-011940,Synthetic low-value coursework data
+India,Mumbai,20,Good,17,Good,1,Good,13,Good,48,Good,Plastic,2022-04-22,OG-016722,Synthetic low-value coursework data
+Netherlands,Rotterdam,36,Good,33,Good,49,Good,50,Good,11,Good,Plastic,2023-01-05,OG-000643,Synthetic low-value coursework data
+France,Marseille,29,Good,42,Good,49,Good,8,Good,16,Good,Plastic,2024-05-14,OG-017553,Synthetic low-value coursework data
+France,Marseille,17,Good,15,Good,4,Good,30,Good,20,Good,Oil,2023-07-20,OG-013345,Synthetic low-value coursework data
+South Africa,Cape Town,23,Good,6,Good,20,Good,33,Good,32,Good,Fishing Waste,2024-02-25,OG-009810,Synthetic low-value coursework data
+South Korea,Busan,18,Good,7,Good,25,Good,29,Good,11,Good,Plastic,2022-02-03,OG-018551,Synthetic low-value coursework data
+South Korea,Busan,28,Good,26,Good,12,Good,33,Good,42,Good,Plastic,2024-12-24,OG-016890,Synthetic low-value coursework data
+Portugal,Lisbon,31,Good,28,Good,38,Good,36,Good,22,Good,Plastic,2022-12-30,OG-015872,Synthetic low-value coursework data
+Spain,Barcelona,12,Good,11,Good,24,Good,1,Good,13,Good,Plastic,2023-09-26,OG-003597,Synthetic low-value coursework data
+South Korea,Busan,29,Good,41,Good,25,Good,38,Good,11,Good,Sewage,2022-06-25,OG-017173,Synthetic low-value coursework data
+Ghana,Accra,18,Good,23,Good,16,Good,10,Good,25,Good,Plastic,2025-05-06,OG-014691,Synthetic low-value coursework data
+India,Chennai,17,Good,1,Good,12,Good,41,Good,15,Good,Other,2023-01-19,OG-001670,Synthetic low-value coursework data
+Brazil,Recife,32,Good,38,Good,42,Good,9,Good,41,Good,Plastic,2023-10-18,OG-004835,Synthetic low-value coursework data
+Japan,Osaka,10,Good,3,Good,15,Good,9,Good,12,Good,Fishing Waste,2024-11-09,OG-019311,Synthetic low-value coursework data
+United Kingdom,Brighton,23,Good,42,Good,5,Good,10,Good,35,Good,Plastic,2022-08-15,OG-002403,Synthetic low-value coursework data
+Indonesia,Bali,26,Good,49,Good,9,Good,35,Good,12,Good,Plastic,2022-07-22,OG-013199,Synthetic low-value coursework data
+Indonesia,Bali,40,Good,25,Good,48,Good,38,Good,47,Good,Plastic,2022-06-23,OG-021241,Synthetic low-value coursework data
+Ghana,Accra,22,Good,34,Good,4,Good,7,Good,44,Good,Plastic,2025-03-30,OG-001117,Synthetic low-value coursework data
+Morocco,Casablanca,26,Good,8,Good,48,Good,23,Good,24,Good,Other,2025-08-23,OG-023986,Synthetic low-value coursework data
+New Zealand,Auckland,31,Good,31,Good,30,Good,21,Good,41,Good,Plastic,2022-05-07,OG-016510,Synthetic low-value coursework data
+Philippines,Manila,32,Good,21,Good,49,Good,23,Good,36,Good,Plastic,2024-09-25,OG-008927,Synthetic low-value coursework data
+United States,Seattle,33,Good,43,Good,15,Good,47,Good,26,Good,Sewage,2022-07-22,OG-001166,Synthetic low-value coursework data
+Spain,Barcelona,18,Good,22,Good,4,Good,41,Good,6,Good,Plastic,2024-01-15,OG-022150,Synthetic low-value coursework data
+New Zealand,Auckland,19,Good,26,Good,18,Good,5,Good,27,Good,Sewage,2023-10-06,OG-016887,Synthetic low-value coursework data
+United Kingdom,Brighton,23,Good,22,Good,30,Good,1,Good,39,Good,Other,2023-01-07,OG-000506,Synthetic low-value coursework data
+South Korea,Busan,27,Good,8,Good,25,Good,43,Good,32,Good,Plastic,2025-08-01,OG-013955,Synthetic low-value coursework data
+Brazil,Recife,28,Good,33,Good,29,Good,34,Good,18,Good,Other,2022-05-28,OG-022789,Synthetic low-value coursework data
+France,Marseille,24,Good,3,Good,43,Good,24,Good,26,Good,Plastic,2024-06-10,OG-005444,Synthetic low-value coursework data
+Canada,Halifax,33,Good,37,Good,39,Good,30,Good,26,Good,Oil,2022-03-21,OG-001662,Synthetic low-value coursework data
+Canada,Vancouver,27,Good,3,Good,44,Good,13,Good,48,Good,Plastic,2023-05-08,OG-010182,Synthetic low-value coursework data
+India,Mumbai,30,Good,10,Good,36,Good,26,Good,49,Good,Plastic,2023-09-02,OG-024419,Synthetic low-value coursework data
+Chile,Valparaiso,28,Good,39,Good,32,Good,33,Good,9,Good,Plastic,2022-09-12,OG-016396,Synthetic low-value coursework data
+New Zealand,Auckland,18,Good,46,Good,5,Good,8,Good,11,Good,Plastic,2024-02-04,OG-011409,Synthetic low-value coursework data
+India,Mumbai,20,Good,39,Good,7,Good,15,Good,20,Good,Plastic,2023-01-17,OG-011288,Synthetic low-value coursework data
+India,Chennai,24,Good,23,Good,13,Good,14,Good,46,Good,Fishing Waste,2024-08-08,OG-019946,Synthetic low-value coursework data
+Chile,Valparaiso,36,Good,30,Good,24,Good,41,Good,50,Good,Plastic,2022-01-30,OG-016226,Synthetic low-value coursework data
+Canada,Vancouver,28,Good,15,Good,43,Good,10,Good,44,Good,Other,2023-06-10,OG-019974,Synthetic low-value coursework data
+South Africa,Cape Town,31,Good,39,Good,29,Good,43,Good,13,Good,Plastic,2025-08-07,OG-004192,Synthetic low-value coursework data
+Japan,Osaka,25,Good,28,Good,30,Good,5,Good,37,Good,Sewage,2025-01-17,OG-015227,Synthetic low-value coursework data
+Japan,Osaka,29,Good,38,Good,22,Good,17,Good,40,Good,Plastic,2024-11-30,OG-020561,Synthetic low-value coursework data
+United Kingdom,Brighton,27,Good,41,Good,17,Good,3,Good,47,Good,Sewage,2022-05-12,OG-013907,Synthetic low-value coursework data
+Brazil,Recife,39,Good,45,Good,44,Good,38,Good,28,Good,Plastic,2022-05-06,OG-022217,Synthetic low-value coursework data
+South Africa,Cape Town,42,Good,49,Good,34,Good,39,Good,46,Good,Other,2025-05-09,OG-003119,Synthetic low-value coursework data
+South Africa,Cape Town,29,Good,2,Good,39,Good,39,Good,36,Good,Fishing Waste,2024-07-15,OG-000616,Synthetic low-value coursework data
+Netherlands,Rotterdam,17,Good,10,Good,6,Good,44,Good,7,Good,Plastic,2022-04-08,OG-010587,Synthetic low-value coursework data
+Sri Lanka,Colombo,37,Good,33,Good,45,Good,21,Good,49,Good,Plastic,2023-03-29,OG-012127,Synthetic low-value coursework data
+Indonesia,Bali,15,Good,12,Good,25,Good,19,Good,4,Good,Plastic,2022-02-08,OG-008112,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,24,Good,17,Good,32,Good,2,Good,44,Good,Other,2023-05-24,OG-003326,Synthetic low-value coursework data
+United Kingdom,Brighton,18,Good,4,Good,20,Good,19,Good,31,Good,Oil,2025-10-06,OG-008973,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,13,Good,1,Good,7,Good,24,Good,21,Good,Plastic,2024-09-20,OG-019637,Synthetic low-value coursework data
+Canada,Vancouver,35,Good,25,Good,38,Good,41,Good,37,Good,Oil,2023-01-18,OG-008534,Synthetic low-value coursework data
+United States,San Diego,20,Good,7,Good,11,Good,35,Good,27,Good,Oil,2024-01-15,OG-008614,Synthetic low-value coursework data
+India,Mumbai,24,Good,14,Good,28,Good,22,Good,32,Good,Oil,2022-02-17,OG-005599,Synthetic low-value coursework data
+Thailand,Phuket,41,Good,49,Good,23,Good,48,Good,43,Good,Fishing Waste,2022-09-18,OG-001847,Synthetic low-value coursework data
+Netherlands,Rotterdam,25,Good,9,Good,40,Good,9,Good,42,Good,Plastic,2023-10-30,OG-010044,Synthetic low-value coursework data
+United States,Seattle,34,Good,28,Good,27,Good,47,Good,33,Good,Plastic,2025-01-11,OG-015621,Synthetic low-value coursework data
+Indonesia,Bali,34,Good,49,Good,36,Good,8,Good,45,Good,Plastic,2024-03-31,OG-013137,Synthetic low-value coursework data
+Morocco,Casablanca,26,Good,11,Good,17,Good,28,Good,46,Good,Plastic,2024-05-31,OG-023101,Synthetic low-value coursework data
+Netherlands,Rotterdam,24,Good,36,Good,16,Good,20,Good,24,Good,Sewage,2025-07-06,OG-023284,Synthetic low-value coursework data
+New Zealand,Auckland,18,Good,43,Good,14,Good,4,Good,11,Good,Fishing Waste,2022-06-12,OG-008090,Synthetic low-value coursework data
+Philippines,Manila,24,Good,35,Good,25,Good,13,Good,24,Good,Oil,2025-07-06,OG-007876,Synthetic low-value coursework data
+Sri Lanka,Colombo,22,Good,3,Good,38,Good,34,Good,13,Good,Oil,2023-10-18,OG-005021,Synthetic low-value coursework data
+Australia,Sydney,30,Good,47,Good,32,Good,27,Good,14,Good,Sewage,2022-10-05,OG-004084,Synthetic low-value coursework data
+South Korea,Busan,20,Good,3,Good,35,Good,37,Good,5,Good,Plastic,2025-11-12,OG-016439,Synthetic low-value coursework data
+Australia,Sydney,23,Good,50,Good,23,Good,15,Good,4,Good,Oil,2024-06-09,OG-009532,Synthetic low-value coursework data
+Canada,Vancouver,34,Good,27,Good,38,Good,34,Good,38,Good,Sewage,2023-06-01,OG-024786,Synthetic low-value coursework data
+Thailand,Phuket,27,Good,37,Good,10,Good,47,Good,15,Good,Plastic,2025-09-27,OG-015989,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,20,Good,20,Good,5,Good,21,Good,36,Good,Plastic,2025-05-05,OG-019914,Synthetic low-value coursework data
+Portugal,Lisbon,18,Good,26,Good,24,Good,8,Good,16,Good,Plastic,2023-05-11,OG-024327,Synthetic low-value coursework data
+United States,Seattle,22,Good,30,Good,6,Good,46,Good,4,Good,Fishing Waste,2024-06-16,OG-001932,Synthetic low-value coursework data
+Nigeria,Lagos,26,Good,14,Good,47,Good,10,Good,35,Good,Fishing Waste,2022-06-18,OG-006148,Synthetic low-value coursework data
+United States,Seattle,17,Good,2,Good,8,Good,21,Good,37,Good,Plastic,2022-08-22,OG-024168,Synthetic low-value coursework data
+Canada,Vancouver,33,Good,15,Good,50,Good,21,Good,47,Good,Sewage,2023-01-22,OG-023657,Synthetic low-value coursework data
+South Africa,Cape Town,30,Good,9,Good,35,Good,39,Good,36,Good,Fishing Waste,2024-07-10,OG-000327,Synthetic low-value coursework data
+Mexico,Cancun,14,Good,8,Good,2,Good,24,Good,20,Good,Fishing Waste,2022-01-08,OG-001801,Synthetic low-value coursework data
+Indonesia,Jakarta,28,Good,39,Good,16,Good,12,Good,46,Good,Fishing Waste,2022-01-23,OG-021337,Synthetic low-value coursework data
+Netherlands,Rotterdam,22,Good,45,Good,15,Good,2,Good,26,Good,Plastic,2025-03-21,OG-017532,Synthetic low-value coursework data
+Australia,Perth,27,Good,35,Good,24,Good,46,Good,3,Good,Plastic,2023-07-19,OG-016017,Synthetic low-value coursework data
+Canada,Halifax,22,Good,21,Good,35,Good,10,Good,23,Good,Plastic,2022-12-16,OG-003108,Synthetic low-value coursework data
+India,Chennai,21,Good,33,Good,36,Good,6,Good,8,Good,Plastic,2022-10-15,OG-005403,Synthetic low-value coursework data
+Netherlands,Rotterdam,32,Good,26,Good,44,Good,16,Good,44,Good,Oil,2022-08-09,OG-007086,Synthetic low-value coursework data
+Indonesia,Bali,27,Good,5,Good,38,Good,30,Good,36,Good,Plastic,2024-08-22,OG-008652,Synthetic low-value coursework data
+Indonesia,Jakarta,24,Good,45,Good,14,Good,10,Good,25,Good,Plastic,2024-08-09,OG-013970,Synthetic low-value coursework data
+Portugal,Lisbon,34,Good,35,Good,16,Good,36,Good,49,Good,Plastic,2022-09-03,OG-010010,Synthetic low-value coursework data
+Chile,Valparaiso,18,Good,31,Good,4,Good,4,Good,31,Good,Plastic,2025-01-26,OG-001245,Synthetic low-value coursework data
+United Kingdom,Brighton,31,Good,24,Good,45,Good,12,Good,43,Good,Fishing Waste,2024-09-23,OG-022283,Synthetic low-value coursework data
+Ghana,Accra,14,Good,23,Good,4,Good,21,Good,6,Good,Plastic,2024-06-05,OG-022779,Synthetic low-value coursework data
+Ghana,Accra,32,Good,38,Good,25,Good,48,Good,18,Good,Fishing Waste,2025-01-18,OG-002501,Synthetic low-value coursework data
+United States,Miami,32,Good,13,Good,45,Good,27,Good,44,Good,Plastic,2024-08-26,OG-003615,Synthetic low-value coursework data
+Canada,Halifax,17,Good,15,Good,5,Good,46,Good,3,Good,Other,2025-05-30,OG-019801,Synthetic low-value coursework data
+Spain,Barcelona,21,Good,32,Good,1,Good,18,Good,34,Good,Sewage,2023-03-03,OG-000774,Synthetic low-value coursework data
+New Zealand,Auckland,37,Good,27,Good,24,Good,49,Good,47,Good,Plastic,2024-01-21,OG-019903,Synthetic low-value coursework data
+Spain,Barcelona,23,Good,6,Good,8,Good,35,Good,44,Good,Plastic,2025-11-30,OG-012174,Synthetic low-value coursework data
+South Korea,Busan,20,Good,32,Good,8,Good,13,Good,27,Good,Plastic,2022-04-08,OG-008544,Synthetic low-value coursework data
+Chile,Valparaiso,24,Good,14,Good,38,Good,40,Good,4,Good,Plastic,2023-02-04,OG-011508,Synthetic low-value coursework data
+South Korea,Busan,38,Good,12,Good,47,Good,47,Good,48,Good,Sewage,2024-04-27,OG-013473,Synthetic low-value coursework data
+United States,Seattle,10,Good,10,Good,15,Good,11,Good,6,Good,Plastic,2022-04-06,OG-008559,Synthetic low-value coursework data
+Canada,Vancouver,37,Good,40,Good,30,Good,47,Good,30,Good,Plastic,2022-12-31,OG-020628,Synthetic low-value coursework data
+Netherlands,Rotterdam,28,Good,34,Good,10,Good,30,Good,37,Good,Plastic,2022-05-30,OG-009584,Synthetic low-value coursework data
+United States,San Diego,29,Good,48,Good,23,Good,38,Good,7,Good,Plastic,2024-09-24,OG-011887,Synthetic low-value coursework data
+Chile,Valparaiso,22,Good,38,Good,25,Good,12,Good,11,Good,Fishing Waste,2024-07-14,OG-015111,Synthetic low-value coursework data
+Canada,Vancouver,36,Good,29,Good,40,Good,42,Good,33,Good,Sewage,2025-05-13,OG-017261,Synthetic low-value coursework data
+France,Marseille,36,Good,40,Good,33,Good,39,Good,34,Good,Plastic,2022-07-21,OG-023338,Synthetic low-value coursework data
+South Africa,Cape Town,22,Good,40,Good,8,Good,33,Good,7,Good,Plastic,2022-05-12,OG-007280,Synthetic low-value coursework data
+Canada,Vancouver,34,Good,27,Good,44,Good,36,Good,27,Good,Plastic,2022-11-24,OG-021289,Synthetic low-value coursework data
+Chile,Valparaiso,23,Good,21,Good,27,Good,19,Good,24,Good,Plastic,2023-12-09,OG-024484,Synthetic low-value coursework data
+Thailand,Phuket,11,Good,17,Good,12,Good,10,Good,4,Good,Plastic,2025-09-01,OG-006078,Synthetic low-value coursework data
+South Africa,Cape Town,28,Good,37,Good,28,Good,19,Good,26,Good,Other,2024-03-24,OG-012657,Synthetic low-value coursework data
+United Kingdom,Brighton,24,Good,21,Good,16,Good,43,Good,14,Good,Plastic,2024-10-12,OG-011265,Synthetic low-value coursework data
+Brazil,Recife,22,Good,36,Good,30,Good,13,Good,10,Good,Plastic,2025-02-15,OG-019922,Synthetic low-value coursework data
+Chile,Valparaiso,22,Good,6,Good,29,Good,38,Good,16,Good,Plastic,2024-05-08,OG-008850,Synthetic low-value coursework data
+France,Marseille,26,Good,37,Good,11,Good,39,Good,16,Good,Sewage,2023-06-19,OG-006103,Synthetic low-value coursework data
+Brazil,Recife,26,Good,5,Good,43,Good,27,Good,28,Good,Fishing Waste,2025-03-17,OG-000989,Synthetic low-value coursework data
+India,Mumbai,33,Good,40,Good,49,Good,32,Good,12,Good,Fishing Waste,2023-01-31,OG-022168,Synthetic low-value coursework data
+Morocco,Casablanca,30,Good,27,Good,10,Good,34,Good,47,Good,Plastic,2024-01-04,OG-023032,Synthetic low-value coursework data
+United States,San Diego,8,Good,7,Good,6,Good,2,Good,19,Good,Fishing Waste,2023-02-24,OG-000777,Synthetic low-value coursework data
+Japan,Osaka,30,Good,48,Good,4,Good,22,Good,45,Good,Oil,2025-02-18,OG-017923,Synthetic low-value coursework data
+New Zealand,Auckland,19,Good,23,Good,16,Good,32,Good,6,Good,Sewage,2025-02-01,OG-022467,Synthetic low-value coursework data
+United Kingdom,Brighton,20,Good,35,Good,16,Good,2,Good,29,Good,Plastic,2022-03-07,OG-002444,Synthetic low-value coursework data
+South Africa,Cape Town,30,Good,43,Good,19,Good,42,Good,15,Good,Sewage,2025-03-01,OG-012544,Synthetic low-value coursework data
+Canada,Halifax,12,Good,5,Good,10,Good,11,Good,22,Good,Plastic,2023-06-30,OG-023640,Synthetic low-value coursework data
+South Africa,Cape Town,10,Good,19,Good,9,Good,8,Good,2,Good,Plastic,2024-12-22,OG-006172,Synthetic low-value coursework data
+Indonesia,Jakarta,27,Good,14,Good,48,Good,42,Good,4,Good,Fishing Waste,2022-01-31,OG-006636,Synthetic low-value coursework data
+Japan,Osaka,31,Good,34,Good,40,Good,47,Good,4,Good,Plastic,2022-03-14,OG-006146,Synthetic low-value coursework data
+Japan,Osaka,30,Good,41,Good,19,Good,13,Good,47,Good,Fishing Waste,2025-01-31,OG-022891,Synthetic low-value coursework data
+Ghana,Accra,15,Good,40,Good,15,Good,2,Good,2,Good,Plastic,2025-03-07,OG-009984,Synthetic low-value coursework data
+Morocco,Casablanca,20,Good,24,Good,15,Good,40,Good,1,Good,Plastic,2023-06-12,OG-013967,Synthetic low-value coursework data
+United States,San Diego,34,Good,35,Good,40,Good,50,Good,9,Good,Oil,2025-04-24,OG-021588,Synthetic low-value coursework data
+South Korea,Busan,26,Good,4,Good,16,Good,46,Good,37,Good,Plastic,2024-07-18,OG-008374,Synthetic low-value coursework data
+Philippines,Manila,23,Good,6,Good,26,Good,38,Good,22,Good,Plastic,2025-05-19,OG-024883,Synthetic low-value coursework data
+Spain,Barcelona,38,Good,37,Good,20,Good,48,Good,48,Good,Sewage,2022-05-29,OG-015896,Synthetic low-value coursework data
+Mexico,Cancun,30,Good,20,Good,17,Good,47,Good,35,Good,Oil,2025-07-30,OG-024613,Synthetic low-value coursework data
+Indonesia,Jakarta,19,Good,3,Good,24,Good,12,Good,37,Good,Fishing Waste,2025-04-05,OG-019551,Synthetic low-value coursework data
+Sri Lanka,Colombo,34,Good,35,Good,32,Good,18,Good,50,Good,Plastic,2025-09-29,OG-020184,Synthetic low-value coursework data
+South Korea,Busan,28,Good,19,Good,39,Good,5,Good,48,Good,Plastic,2024-02-28,OG-003740,Synthetic low-value coursework data
+Australia,Perth,22,Good,32,Good,18,Good,30,Good,9,Good,Fishing Waste,2025-08-20,OG-007747,Synthetic low-value coursework data
+Japan,Osaka,48,Good,47,Good,49,Good,49,Good,47,Good,Sewage,2025-04-08,OG-007850,Synthetic low-value coursework data
+New Zealand,Auckland,28,Good,5,Good,47,Good,44,Good,15,Good,Sewage,2025-08-08,OG-021176,Synthetic low-value coursework data
+Netherlands,Rotterdam,26,Good,4,Good,18,Good,37,Good,43,Good,Oil,2022-05-12,OG-004544,Synthetic low-value coursework data
+France,Marseille,24,Good,15,Good,30,Good,50,Good,3,Good,Plastic,2022-08-17,OG-016712,Synthetic low-value coursework data
+Philippines,Manila,26,Good,4,Good,24,Good,36,Good,41,Good,Oil,2023-12-06,OG-009502,Synthetic low-value coursework data
+India,Chennai,14,Good,32,Good,22,Good,1,Good,1,Good,Fishing Waste,2025-08-16,OG-022170,Synthetic low-value coursework data
+United States,San Diego,22,Good,15,Good,32,Good,29,Good,13,Good,Plastic,2025-08-12,OG-006283,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,23,Good,46,Good,19,Good,4,Good,24,Good,Sewage,2025-03-25,OG-008214,Synthetic low-value coursework data
+New Zealand,Auckland,28,Good,33,Good,22,Good,47,Good,8,Good,Plastic,2024-10-12,OG-022115,Synthetic low-value coursework data
+United States,Seattle,34,Good,22,Good,43,Good,48,Good,24,Good,Fishing Waste,2025-05-20,OG-006618,Synthetic low-value coursework data
+United States,Seattle,27,Good,27,Good,8,Good,24,Good,48,Good,Sewage,2023-02-07,OG-024885,Synthetic low-value coursework data
+Morocco,Casablanca,27,Good,50,Good,17,Good,8,Good,32,Good,Sewage,2024-12-23,OG-003212,Synthetic low-value coursework data
+Australia,Perth,19,Good,13,Good,1,Good,48,Good,14,Good,Plastic,2022-07-10,OG-002782,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,32,Good,35,Good,7,Good,42,Good,42,Good,Sewage,2024-02-21,OG-002449,Synthetic low-value coursework data
+India,Chennai,36,Good,46,Good,30,Good,30,Good,37,Good,Plastic,2024-01-20,OG-004558,Synthetic low-value coursework data
+India,Mumbai,34,Good,32,Good,36,Good,35,Good,35,Good,Plastic,2023-03-15,OG-024773,Synthetic low-value coursework data
+United States,San Diego,30,Good,24,Good,27,Good,34,Good,34,Good,Plastic,2022-08-15,OG-010692,Synthetic low-value coursework data
+Mexico,Cancun,13,Good,37,Good,7,Good,6,Good,3,Good,Plastic,2022-01-26,OG-010890,Synthetic low-value coursework data
+Sri Lanka,Colombo,9,Good,7,Good,6,Good,12,Good,11,Good,Plastic,2024-06-17,OG-024362,Synthetic low-value coursework data
+Mexico,Cancun,20,Good,31,Good,12,Good,7,Good,28,Good,Plastic,2024-12-28,OG-020943,Synthetic low-value coursework data
+Brazil,Recife,22,Good,1,Good,35,Good,45,Good,5,Good,Oil,2024-01-11,OG-023664,Synthetic low-value coursework data
+Japan,Osaka,21,Good,33,Good,28,Good,17,Good,6,Good,Sewage,2023-07-01,OG-009720,Synthetic low-value coursework data
+France,Marseille,28,Good,5,Good,32,Good,48,Good,26,Good,Fishing Waste,2023-04-04,OG-022352,Synthetic low-value coursework data
+New Zealand,Auckland,27,Good,31,Good,29,Good,28,Good,20,Good,Fishing Waste,2023-11-11,OG-017614,Synthetic low-value coursework data
+Australia,Sydney,23,Good,37,Good,2,Good,14,Good,39,Good,Sewage,2022-08-02,OG-005727,Synthetic low-value coursework data
+Ghana,Accra,24,Good,2,Good,34,Good,42,Good,16,Good,Sewage,2023-12-07,OG-018464,Synthetic low-value coursework data
+India,Mumbai,30,Good,6,Good,48,Good,17,Good,49,Good,Plastic,2025-12-19,OG-013264,Synthetic low-value coursework data
+Canada,Halifax,15,Good,12,Good,14,Good,17,Good,16,Good,Plastic,2024-11-21,OG-021506,Synthetic low-value coursework data
+Philippines,Manila,34,Good,38,Good,35,Good,45,Good,18,Good,Fishing Waste,2023-05-10,OG-004522,Synthetic low-value coursework data
+Brazil,Recife,26,Good,8,Good,46,Good,36,Good,16,Good,Plastic,2024-11-27,OG-014856,Synthetic low-value coursework data
+Philippines,Manila,20,Good,6,Good,37,Good,13,Good,24,Good,Oil,2022-03-15,OG-020175,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,44,Good,50,Good,41,Good,36,Good,48,Good,Plastic,2025-02-11,OG-010859,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,21,Good,20,Good,43,Good,9,Good,11,Good,Fishing Waste,2025-07-22,OG-006090,Synthetic low-value coursework data
+Netherlands,Rotterdam,26,Good,40,Good,21,Good,16,Good,29,Good,Plastic,2023-11-20,OG-007869,Synthetic low-value coursework data
+New Zealand,Auckland,40,Good,36,Good,45,Good,41,Good,39,Good,Plastic,2023-07-18,OG-016575,Synthetic low-value coursework data
+Canada,Halifax,22,Good,13,Good,39,Good,3,Good,34,Good,Fishing Waste,2024-05-08,OG-018278,Synthetic low-value coursework data
+Australia,Perth,19,Good,13,Good,13,Good,21,Good,30,Good,Oil,2024-04-15,OG-023055,Synthetic low-value coursework data
+Nigeria,Lagos,28,Good,43,Good,3,Good,24,Good,40,Good,Plastic,2023-05-11,OG-020934,Synthetic low-value coursework data
+Canada,Halifax,16,Good,5,Good,2,Good,36,Good,20,Good,Oil,2025-07-21,OG-008236,Synthetic low-value coursework data
+South Korea,Busan,18,Good,1,Good,4,Good,33,Good,33,Good,Fishing Waste,2025-11-27,OG-000869,Synthetic low-value coursework data
+Chile,Valparaiso,33,Good,24,Good,37,Good,39,Good,32,Good,Oil,2023-05-16,OG-008101,Synthetic low-value coursework data
+South Korea,Busan,26,Good,15,Good,29,Good,50,Good,12,Good,Plastic,2025-02-08,OG-018775,Synthetic low-value coursework data
+Australia,Sydney,25,Good,48,Good,35,Good,6,Good,12,Good,Sewage,2022-08-07,OG-008505,Synthetic low-value coursework data
+South Africa,Cape Town,29,Good,28,Good,41,Good,34,Good,12,Good,Plastic,2024-01-28,OG-017229,Synthetic low-value coursework data
+Brazil,Recife,21,Good,20,Good,25,Good,14,Good,24,Good,Fishing Waste,2023-12-28,OG-017815,Synthetic low-value coursework data
+Indonesia,Jakarta,34,Good,37,Good,30,Good,42,Good,29,Good,Plastic,2025-04-17,OG-010658,Synthetic low-value coursework data
+Nigeria,Lagos,32,Good,31,Good,9,Good,41,Good,45,Good,Oil,2023-10-25,OG-001218,Synthetic low-value coursework data
+United Kingdom,Brighton,25,Good,10,Good,41,Good,42,Good,8,Good,Plastic,2024-04-13,OG-023036,Synthetic low-value coursework data
+Netherlands,Rotterdam,28,Good,47,Good,6,Good,17,Good,44,Good,Plastic,2024-06-19,OG-002000,Synthetic low-value coursework data
+Portugal,Lisbon,28,Good,27,Good,19,Good,27,Good,40,Good,Plastic,2022-05-24,OG-012841,Synthetic low-value coursework data
+Japan,Osaka,35,Good,36,Good,22,Good,44,Good,37,Good,Fishing Waste,2024-11-20,OG-002564,Synthetic low-value coursework data
+Thailand,Phuket,21,Good,42,Good,18,Good,20,Good,4,Good,Oil,2025-09-14,OG-023542,Synthetic low-value coursework data
+Nigeria,Lagos,26,Good,10,Good,38,Good,49,Good,8,Good,Plastic,2022-09-02,OG-011587,Synthetic low-value coursework data
+Indonesia,Bali,23,Good,28,Good,13,Good,19,Good,31,Good,Sewage,2023-05-17,OG-018978,Synthetic low-value coursework data
+Sri Lanka,Colombo,36,Good,28,Good,47,Good,48,Good,20,Good,Oil,2022-05-22,OG-016435,Synthetic low-value coursework data
+Canada,Vancouver,36,Good,43,Good,38,Good,47,Good,16,Good,Oil,2023-02-02,OG-011221,Synthetic low-value coursework data
+Nigeria,Lagos,34,Good,46,Good,41,Good,11,Good,36,Good,Oil,2022-05-26,OG-024337,Synthetic low-value coursework data
+Chile,Valparaiso,28,Good,47,Good,25,Good,3,Good,38,Good,Sewage,2023-06-25,OG-013801,Synthetic low-value coursework data
+Indonesia,Bali,26,Good,12,Good,38,Good,24,Good,32,Good,Plastic,2025-08-11,OG-003780,Synthetic low-value coursework data
+Mexico,Cancun,26,Good,36,Good,36,Good,18,Good,15,Good,Plastic,2025-07-29,OG-006492,Synthetic low-value coursework data
+Chile,Valparaiso,20,Good,43,Good,6,Good,19,Good,13,Good,Plastic,2022-11-05,OG-017834,Synthetic low-value coursework data
+France,Marseille,16,Good,18,Good,3,Good,42,Good,2,Good,Plastic,2024-07-05,OG-013755,Synthetic low-value coursework data
+India,Chennai,33,Good,27,Good,33,Good,24,Good,47,Good,Fishing Waste,2023-10-22,OG-010751,Synthetic low-value coursework data
+Japan,Osaka,20,Good,11,Good,12,Good,35,Good,24,Good,Other,2024-12-08,OG-022688,Synthetic low-value coursework data
+India,Mumbai,21,Good,44,Good,25,Good,6,Good,10,Good,Other,2022-09-28,OG-019669,Synthetic low-value coursework data
+Thailand,Phuket,22,Good,12,Good,13,Good,39,Good,22,Good,Fishing Waste,2023-03-01,OG-002248,Synthetic low-value coursework data
+Mexico,Cancun,26,Good,47,Good,7,Good,37,Good,12,Good,Plastic,2025-06-27,OG-009117,Synthetic low-value coursework data
+United States,Seattle,21,Good,20,Good,50,Good,7,Good,8,Good,Sewage,2024-08-30,OG-000248,Synthetic low-value coursework data
+Portugal,Lisbon,21,Good,7,Good,18,Good,50,Good,9,Good,Plastic,2023-01-18,OG-010551,Synthetic low-value coursework data
+Netherlands,Rotterdam,32,Good,46,Good,13,Good,47,Good,22,Good,Plastic,2022-03-31,OG-024129,Synthetic low-value coursework data
+Spain,Barcelona,22,Good,47,Good,18,Good,19,Good,3,Good,Other,2025-04-18,OG-014868,Synthetic low-value coursework data
+Brazil,Recife,13,Good,5,Good,22,Good,5,Good,21,Good,Fishing Waste,2023-06-02,OG-020551,Synthetic low-value coursework data
+Portugal,Lisbon,24,Good,29,Good,37,Good,19,Good,13,Good,Other,2024-04-19,OG-010388,Synthetic low-value coursework data
+Canada,Vancouver,17,Good,11,Good,48,Good,5,Good,5,Good,Plastic,2024-08-02,OG-005346,Synthetic low-value coursework data
+Japan,Osaka,38,Good,38,Good,30,Good,37,Good,45,Good,Other,2024-12-27,OG-000546,Synthetic low-value coursework data
+Thailand,Phuket,21,Good,14,Good,1,Good,26,Good,43,Good,Oil,2025-07-12,OG-007584,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,13,Good,8,Good,25,Good,4,Good,14,Good,Plastic,2022-07-17,OG-011930,Synthetic low-value coursework data
+New Zealand,Auckland,22,Good,27,Good,4,Good,12,Good,44,Good,Plastic,2024-12-27,OG-005340,Synthetic low-value coursework data
+New Zealand,Auckland,23,Good,33,Good,16,Good,14,Good,30,Good,Plastic,2022-09-20,OG-024932,Synthetic low-value coursework data
+Netherlands,Rotterdam,25,Good,39,Good,8,Good,39,Good,14,Good,Oil,2024-04-20,OG-019378,Synthetic low-value coursework data
+Philippines,Manila,16,Good,11,Good,17,Good,5,Good,32,Good,Oil,2022-05-19,OG-000520,Synthetic low-value coursework data
+Mexico,Cancun,26,Good,1,Good,16,Good,48,Good,40,Good,Fishing Waste,2022-05-25,OG-011476,Synthetic low-value coursework data
+France,Marseille,16,Good,2,Good,13,Good,7,Good,40,Good,Plastic,2023-11-04,OG-017538,Synthetic low-value coursework data
+Chile,Valparaiso,34,Good,31,Good,17,Good,50,Good,36,Good,Fishing Waste,2023-12-15,OG-002402,Synthetic low-value coursework data
+United Kingdom,Brighton,32,Good,41,Good,28,Good,24,Good,36,Good,Fishing Waste,2024-01-18,OG-001248,Synthetic low-value coursework data
+South Korea,Busan,27,Good,18,Good,43,Good,18,Good,28,Good,Plastic,2025-11-13,OG-008625,Synthetic low-value coursework data
+Australia,Sydney,28,Good,34,Good,43,Good,21,Good,13,Good,Other,2023-04-04,OG-021889,Synthetic low-value coursework data
+Nigeria,Lagos,18,Good,3,Good,18,Good,25,Good,28,Good,Plastic,2024-07-12,OG-016811,Synthetic low-value coursework data
+New Zealand,Auckland,24,Good,27,Good,45,Good,3,Good,23,Good,Plastic,2025-08-26,OG-010127,Synthetic low-value coursework data
+Indonesia,Jakarta,30,Good,39,Good,39,Good,3,Good,37,Good,Plastic,2022-12-28,OG-023061,Synthetic low-value coursework data
+Canada,Vancouver,21,Good,19,Good,28,Good,20,Good,18,Good,Sewage,2024-04-19,OG-013166,Synthetic low-value coursework data
+South Africa,Cape Town,21,Good,34,Good,2,Good,48,Good,1,Good,Plastic,2024-10-07,OG-019313,Synthetic low-value coursework data
+France,Marseille,23,Good,10,Good,5,Good,31,Good,46,Good,Oil,2023-12-17,OG-010873,Synthetic low-value coursework data
+Australia,Perth,30,Good,30,Good,27,Good,30,Good,31,Good,Plastic,2024-04-02,OG-003988,Synthetic low-value coursework data
+Japan,Osaka,24,Good,26,Good,47,Good,2,Good,20,Good,Plastic,2022-05-27,OG-009868,Synthetic low-value coursework data
+Canada,Halifax,18,Good,18,Good,34,Good,14,Good,6,Good,Oil,2023-10-24,OG-008161,Synthetic low-value coursework data
+India,Chennai,28,Good,32,Good,3,Good,31,Good,47,Good,Fishing Waste,2023-09-26,OG-023108,Synthetic low-value coursework data
+Ghana,Accra,34,Good,36,Good,31,Good,46,Good,21,Good,Oil,2023-10-23,OG-021895,Synthetic low-value coursework data
+Netherlands,Rotterdam,14,Good,30,Good,1,Good,10,Good,16,Good,Sewage,2025-01-01,OG-007884,Synthetic low-value coursework data
+South Korea,Busan,20,Good,17,Good,16,Good,20,Good,26,Good,Plastic,2022-06-16,OG-023543,Synthetic low-value coursework data
+Indonesia,Bali,26,Good,6,Good,20,Good,34,Good,43,Good,Plastic,2024-01-29,OG-008020,Synthetic low-value coursework data
+Netherlands,Rotterdam,24,Good,8,Good,24,Good,41,Good,21,Good,Fishing Waste,2023-02-27,OG-003920,Synthetic low-value coursework data
+Australia,Perth,33,Good,35,Good,24,Good,40,Good,33,Good,Plastic,2023-01-17,OG-008437,Synthetic low-value coursework data
+Portugal,Lisbon,44,Good,50,Good,33,Good,49,Good,42,Good,Plastic,2025-10-12,OG-008759,Synthetic low-value coursework data
+France,Marseille,25,Good,18,Good,24,Good,12,Good,47,Good,Plastic,2025-10-28,OG-005452,Synthetic low-value coursework data
+Indonesia,Bali,26,Good,48,Good,29,Good,3,Good,26,Good,Plastic,2023-03-08,OG-002300,Synthetic low-value coursework data
+Sri Lanka,Colombo,14,Good,5,Good,12,Good,3,Good,36,Good,Plastic,2025-07-15,OG-011344,Synthetic low-value coursework data
+Portugal,Lisbon,22,Good,2,Good,18,Good,20,Good,48,Good,Plastic,2023-07-19,OG-020919,Synthetic low-value coursework data
+United States,Miami,22,Good,1,Good,46,Good,12,Good,28,Good,Plastic,2022-11-19,OG-018286,Synthetic low-value coursework data
+Chile,Valparaiso,16,Good,27,Good,12,Good,23,Good,1,Good,Fishing Waste,2024-06-08,OG-004161,Synthetic low-value coursework data
+United States,Miami,28,Good,14,Good,49,Good,31,Good,19,Good,Oil,2024-11-07,OG-007219,Synthetic low-value coursework data
+Morocco,Casablanca,30,Good,16,Good,17,Good,40,Good,47,Good,Plastic,2023-03-18,OG-012441,Synthetic low-value coursework data
+Nigeria,Lagos,8,Good,16,Good,6,Good,7,Good,3,Good,Plastic,2023-12-26,OG-003394,Synthetic low-value coursework data
+Mexico,Cancun,46,Good,50,Good,45,Good,41,Good,47,Good,Sewage,2022-09-04,OG-007932,Synthetic low-value coursework data
+Canada,Vancouver,34,Good,45,Good,42,Good,34,Good,13,Good,Fishing Waste,2023-02-15,OG-006979,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,20,Good,18,Good,32,Good,26,Good,6,Good,Plastic,2025-12-11,OG-012184,Synthetic low-value coursework data
+United States,San Diego,16,Good,28,Good,23,Good,12,Good,1,Good,Oil,2023-02-05,OG-013731,Synthetic low-value coursework data
+Netherlands,Rotterdam,36,Good,45,Good,39,Good,37,Good,21,Good,Fishing Waste,2024-01-25,OG-021084,Synthetic low-value coursework data
+India,Chennai,30,Good,26,Good,40,Good,14,Good,39,Good,Plastic,2023-03-25,OG-019515,Synthetic low-value coursework data
+Japan,Osaka,6,Good,4,Good,16,Good,1,Good,1,Good,Plastic,2022-04-13,OG-003689,Synthetic low-value coursework data
+New Zealand,Auckland,28,Good,42,Good,36,Good,2,Good,31,Good,Plastic,2025-09-18,OG-023062,Synthetic low-value coursework data
+South Korea,Busan,18,Good,22,Good,8,Good,38,Good,2,Good,Fishing Waste,2022-07-11,OG-020895,Synthetic low-value coursework data
+United States,San Diego,19,Good,6,Good,23,Good,45,Good,3,Good,Plastic,2024-09-13,OG-010012,Synthetic low-value coursework data
+Chile,Valparaiso,24,Good,2,Good,35,Good,11,Good,46,Good,Plastic,2022-06-03,OG-000927,Synthetic low-value coursework data
+Canada,Halifax,10,Good,13,Good,16,Good,10,Good,3,Good,Fishing Waste,2025-10-24,OG-009745,Synthetic low-value coursework data
+India,Mumbai,31,Good,50,Good,42,Good,31,Good,1,Good,Plastic,2024-09-08,OG-000175,Synthetic low-value coursework data
+South Africa,Cape Town,30,Good,45,Good,27,Good,20,Good,27,Good,Plastic,2024-11-24,OG-016292,Synthetic low-value coursework data
+Brazil,Rio de Janeiro,20,Good,39,Good,17,Good,24,Good,1,Good,Plastic,2025-12-17,OG-022369,Synthetic low-value coursework data
+South Korea,Busan,26,Good,13,Good,27,Good,21,Good,41,Good,Plastic,2022-03-10,OG-024325,Synthetic low-value coursework data
+United States,San Diego,26,Good,13,Good,20,Good,22,Good,47,Good,Plastic,2023-06-25,OG-018204,Synthetic low-value coursework data
+Indonesia,Jakarta,14,Good,7,Good,5,Good,2,Good,43,Good,Fishing Waste,2023-08-02,OG-007171,Synthetic low-value coursework data
+Portugal,Lisbon,20,Good,3,Good,31,Good,20,Good,28,Good,Plastic,2023-02-20,OG-005251,Synthetic low-value coursework data
+Japan,Osaka,20,Good,45,Good,13,Good,14,Good,7,Good,Plastic,2023-01-13,OG-023828,Synthetic low-value coursework data
+India,Mumbai,18,Good,18,Good,7,Good,33,Good,12,Good,Fishing Waste,2022-01-02,OG-003751,Synthetic low-value coursework data
+Canada,Halifax,26,Good,36,Good,8,Good,23,Good,39,Good,Plastic,2023-08-16,OG-011869,Synthetic low-value coursework data
+United States,Miami,28,Good,49,Good,8,Good,25,Good,32,Good,Fishing Waste,2023-01-01,OG-017373,Synthetic low-value coursework data
+India,Chennai,34,Good,25,Good,32,Good,37,Good,44,Good,Plastic,2022-05-10,OG-018419,Synthetic low-value coursework data
+France,Marseille,18,Good,16,Good,27,Good,25,Good,2,Good,Sewage,2024-04-26,OG-002891,Synthetic low-value coursework data
+United States,Seattle,20,Good,3,Good,16,Good,33,Good,30,Good,Oil,2024-11-13,OG-010882,Synthetic low-value coursework data
+Sri Lanka,Colombo,24,Good,40,Good,2,Good,38,Good,17,Good,Fishing Waste,2025-10-20,OG-019104,Synthetic low-value coursework data
+United States,Miami,20,Good,34,Good,17,Good,18,Good,10,Good,Sewage,2024-09-14,OG-011057,Synthetic low-value coursework data
+Indonesia,Jakarta,29,Good,40,Good,32,Good,11,Good,32,Good,Oil,2025-11-04,OG-005971,Synthetic low-value coursework data
